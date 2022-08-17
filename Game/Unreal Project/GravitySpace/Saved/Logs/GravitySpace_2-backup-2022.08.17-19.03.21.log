@@ -1,0 +1,1794 @@
+﻿Log file open, 08/17/22 15:02:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=40060)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GravitySpace
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" /Game/Maps/LVL_GravitySpace -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -featureleveles31 -faketouches -MultiprocessSaveConfig -windowed -ResX=608 -ResY=1280""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen Threadripper 1950X 16-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8878fe284ccb2f8ff607d3af3d8c6ee6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.339416
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-FF5EAF3041980C78FB60C48A97BF637A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading Unix ini files took 0.09 seconds
+LogConfig: Display: Loading Windows ini files took 0.10 seconds
+LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: AMD Ryzen Threadripper 1950X 16-Core Processor , GPU: Radeon Vega Frontier Edition
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/Maps/LVL_GravitySpace -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -featureleveles31 -faketouches -MultiprocessSaveConfig -windowed -ResX=608 -ResY=1280
+LogInit: Base Directory: C:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.17-19.03.00:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.17-19.03.00:618][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.17-19.03.00:618][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.17-19.03.00:619][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.17-19.03.00:655][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.17-19.03.00:716][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.17-19.03.00:717][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.17-19.03.00:821][  0]LogD3D12RHI: Found D3D12 adapter 0: Radeon Vega Frontier Edition (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.17-19.03.00:821][  0]LogD3D12RHI: Adapter has 24183MB of dedicated video memory, 0MB of dedicated system memory, and 16321MB of shared system memory, 3 output[s]
+[2022.08.17-19.03.00:827][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.17-19.03.00:827][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16321MB of shared system memory, 0 output[s]
+[2022.08.17-19.03.00:827][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.17-19.03.00:827][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.17-19.03.00:827][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.17-19.03.00:827][  0]LogHAL: Display: Platform has ~ 32 GB [34228232192 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.17-19.03.00:827][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.17-19.03.00:827][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.17-19.03.00:827][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.17-19.03.00:828][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.17-19.03.00:828][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.17-19.03.00:828][  0]LogInit: Computer: WORKSATION
+[2022.08.17-19.03.00:828][  0]LogInit: User: zizom
+[2022.08.17-19.03.00:828][  0]LogInit: CPU Page size=4096, Cores=16
+[2022.08.17-19.03.00:828][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.17-19.03.00:828][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.08.17-19.03.00:828][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.17-19.03.00:828][  0]LogMemory: Process Physical Memory: 308.96 MB used, 358.81 MB peak
+[2022.08.17-19.03.00:828][  0]LogMemory: Process Virtual Memory: 293.93 MB used, 308.88 MB peak
+[2022.08.17-19.03.00:828][  0]LogMemory: Physical Memory: 22385.56 MB used,  10257.03 MB free, 32642.59 MB total
+[2022.08.17-19.03.00:828][  0]LogMemory: Virtual Memory: 40127.46 MB used,  6215.49 MB free, 46342.95 MB total
+[2022.08.17-19.03.00:828][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.17-19.03.00:836][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.17-19.03.00:853][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.17-19.03.00:854][  0]LogInit: Using OS detected language (pt-BR).
+[2022.08.17-19.03.00:854][  0]LogInit: Using OS detected locale (pt-BR).
+[2022.08.17-19.03.00:880][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2022.08.17-19.03.00:881][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2022.08.17-19.03.00:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.08.17-19.03.00:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.08.17-19.03.00:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.08.17-19.03.00:907][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:909][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:912][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:912][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:913][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.17-19.03.00:913][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:913][  0]LogWindowsTextInputMethodSystem:   - Inglês (Canadá) - (Keyboard).
+[2022.08.17-19.03.00:913][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - Correção de Entrada por Toque (TSF IME).
+[2022.08.17-19.03.00:913][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:913][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.00:972][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.17-19.03.00:972][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.17-19.03.01:056][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.17-19.03.01:056][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.17-19.03.01:135][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.17-19.03.01:168][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.17-19.03.01:169][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.17-19.03.01:220][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.17-19.03.01:255][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.17-19.03.01:255][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.17-19.03.01:255][  0]LogD3D12RHI:     GPU DeviceId: 0x6863 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.17-19.03.01:255][  0]LogWindows: Attached monitors:
+[2022.08.17-19.03.01:255][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.17-19.03.01:255][  0]LogWindows:     resolution: 1280x720, work area: (780, -1080) -> (2060, -400), device: '\\.\DISPLAY2'
+[2022.08.17-19.03.01:255][  0]LogWindows:     resolution: 1280x720, work area: (2294, 1440) -> (3574, 2120), device: '\\.\DISPLAY3'
+[2022.08.17-19.03.01:255][  0]LogWindows: Found 3 attached monitors.
+[2022.08.17-19.03.01:255][  0]LogWindows: EnumDisplayDevices:
+[2022.08.17-19.03.01:256][  0]LogWindows:    0. 'Radeon Vega Frontier Edition' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.17-19.03.01:256][  0]LogWindows:    1. 'Radeon Vega Frontier Edition' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.08.17-19.03.01:256][  0]LogWindows:    2. 'Radeon Vega Frontier Edition' (P:0 D:1), name: '\\.\DISPLAY3'
+[2022.08.17-19.03.01:257][  0]LogWindows:    3. 'Radeon Vega Frontier Edition' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.17-19.03.01:257][  0]LogWindows:    4. 'Radeon Vega Frontier Edition' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.08.17-19.03.01:257][  0]LogWindows:    5. 'Radeon Vega Frontier Edition' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.08.17-19.03.01:258][  0]LogWindows:    6. 'Radeon Vega Frontier Edition' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.08.17-19.03.01:258][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.08.17-19.03.01:258][  0]LogD3D12RHI:     Adapter Name: Radeon Vega Frontier Edition
+[2022.08.17-19.03.01:258][  0]LogD3D12RHI:   Driver Version: AMD Software: Adrenalin Edition 22.7.1 (internal:31.0.12015.1008, unified:31.0.12015.1008)
+[2022.08.17-19.03.01:258][  0]LogD3D12RHI:      Driver Date: 7-25-2022
+[2022.08.17-19.03.01:258][  0]LogRHI: Texture pool is 14751 MB (70% of 21073 MB)
+[2022.08.17-19.03.01:258][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.17-19.03.01:258][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.17-19.03.01:285][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyReport_0.log" -log="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyLog_0.log" -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"  -platform=all'
+[2022.08.17-19.03.01:285][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyReport_0.log" -log="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyLog_0.log" -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"  -platform=all" ]
+[2022.08.17-19.03.01:314][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.17-19.03.01:324][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.17-19.03.01:324][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.17-19.03.01:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.17-19.03.01:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.17-19.03.01:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.17-19.03.01:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.17-19.03.01:337][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.17-19.03.01:345][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.17-19.03.01:349][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.17-19.03.01:349][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.17-19.03.01:349][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.17-19.03.01:349][  0]LogTargetPlatformManager:   PCM
+[2022.08.17-19.03.01:352][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.17-19.03.01:352][  0]LogTargetPlatformManager:   BINKA
+[2022.08.17-19.03.01:352][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.17-19.03.01:352][  0]LogTargetPlatformManager:   OGG
+[2022.08.17-19.03.01:352][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.17-19.03.01:352][  0]LogTargetPlatformManager:   OPUS
+[2022.08.17-19.03.01:414][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.17-19.03.01:414][  0]LogShaderCompilers: Display: Compiling shader autogen file: F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.17-19.03.01:414][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.17-19.03.01:414][  0]LogShaderCompilers: Display: Compiling shader autogen file: F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.17-19.03.01:415][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.17-19.03.01:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.17-19.03.01:418][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.17-19.03.01:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.17-19.03.01:418][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.17-19.03.01:441][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.17-19.03.01:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.17-19.03.01:441][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.17-19.03.01:452][  0]LogDerivedDataCache: Speed tests for C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.17-19.03.01:452][  0]LogDerivedDataCache: Display: Performance to C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=641.25MBs, RandomWriteSpeed=104.14MBs. Assigned SpeedClass 'Local'
+[2022.08.17-19.03.01:454][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.17-19.03.01:454][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.17-19.03.01:454][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.17-19.03.01:463][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.17-19.03.01:464][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.17-19.03.01:464][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Shaders/WorkingDirectory/11744/).
+[2022.08.17-19.03.01:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zizom/AppData/Local/Temp/UnrealShaderWorkingDir/4BAC8F7D4EEBF20ABF6E60A008338366/'.
+[2022.08.17-19.03.01:494][  0]LogXGEController: Display: Initialized XGE controller. XGE tasks will not be spawned on this machine.
+[2022.08.17-19.03.01:494][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.08.17-19.03.02:593][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.17-19.03.02:593][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.17-19.03.02:594][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.17-19.03.02:640][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Valid, Installed=r21b, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.17-19.03.02:640][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.17-19.03.02:640][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.17-19.03.02:640][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.17-19.03.02:640][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.17-19.03.02:705][  0]LogInit: Using OS detected language (pt-BR).
+[2022.08.17-19.03.02:705][  0]LogInit: Using OS detected locale (pt-BR).
+[2022.08.17-19.03.02:705][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the language.
+[2022.08.17-19.03.02:705][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the locale.
+[2022.08.17-19.03.02:705][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.08.17-19.03.02:706][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.08.17-19.03.02:725][  0]LogAssetRegistry: FAssetRegistry took 0.0185 seconds to start up
+[2022.08.17-19.03.02:986][  0]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.002933 seconds
+[2022.08.17-19.03.02:986][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.17-19.03.02:987][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.08.17-19.03.03:450][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.17-19.03.03:451][  0]LogDeviceProfileManager: Active device profile: [000005CEFABF4440][000005CEF57F2800 50] WindowsEditor
+[2022.08.17-19.03.03:451][  0]LogDeviceProfileManager: Profiles: [000005CEFABF3F00][000005CEF1E7C800 50] Windows, [000005CEFABF4440][000005CEF57F2800 50] WindowsEditor, [000005CEFABF2840][000005CECEF25000 50] WindowsServer, [000005CEFABF01C0][000005CEF5905000 50] WindowsClient, [000005CEFABF0000][000005CEDF735000 50] IOS, [000005CEFABF0A80][000005CEFABD0000 50] iPadAir2, [000005CEFABF55C0][000005CEFABD7800 50] IPadPro, [000005CEFABF5940][000005CEFABD5000 50] iPadAir3, [000005CEFABF5080][000005CEFABDA000 50] iPadAir4, [000005CEFABF5B00][000005CEFABDC800 50] iPadMini4, [000005CEFABF1C00][000005CEF590C800 50] iPadMini5, [000005CEFABF5400][000005CEFABE0000 50] iPadMini6, [000005CEFABF86C0][000005CEFABEA000 50] iPhone6S, [000005CEFABF8A40][000005CEFABE7800 50] iPhone7, [000005CEFABF5E80][000005CEFABE5000 50] iPodTouch7, [000005CEFABF6740][000005CEFABEC800 50] iPhone6SPlus, [000005CEFABF2F40][000005CEFABD2800 50] iPhone7Plus, [000005CEFABF0700][000005CEFABB0000 50] iPhoneSE, [000005CEFABF5240][000005CEFABB5000 50] iPhone8, [000005CEFABF6C80][000005CEFABB7800 50] iPhone8Plus, [000005CEFABF2140][000005CEFABBA000 50] iPhoneX, [000005CEFABF1180][000005CEFABBC800 50] iPhoneXS, [000005CEFABF1F80][000005CEFABE2800 50] iPhoneXSMax, [000005CEFABF7700][000005CEFAC90000 50] iPhoneXR, [000005CEFABF4EC0][000005CEFAC95000 50] iPhone11, [000005CEFABF2680][000005CEFAC97800 50] iPhone11Pro, [000005CEFABF1A40][000005CEFAC9A000 50] iPhone11ProMax, [000005CEFABF24C0][000005CEFAC9C800 50] iPhoneSE2, [000005CEFABF0FC0][000005CEFABB2800 50] iPhone12Mini, [000005CEFABF7FC0][000005CEFAC20000 50] iPhone12, [000005CEFABF4280][000005CEFAC25000 50] iPhone12Pro, [000005CEFABF1340][000005CEFAC27800 50] iPhone12ProMax, [000005CEFABF8180][000005CEFAC2A000 50] iPhone13Mini, [000005CEFABF3640][000005CEFAC2C800 50] iPhone13, [000005CEFABF7380][000005CEFAC92800 50] iPhone13Pro, [000005CEFABF4B40][000005CEFAC60000 50] iPhone13ProMax, [000005CEFABF3D40][000005CEFAC65000 50] iPadPro105, [000005CEFABF0E00][000005CEFAC67800 50] iPadPro129, [000005CEFABF2D80][000005CEFAC6A000 50] iPadPro97, [000005CEFABF3100][000005CEFAC6C800 50] iPadPro2_129, [000005CEFABF6E40][000005CEFAC22800 50] iPad5, [000005CEFABF8340][000005CEFAC70000 50] iPad6, [000005CEFABF08C0][000005CEFAC75000 50] iPad7, [000005CEFABF5780][000005CEFAC77800 50] iPad8, [000005CEFABF0540][000005CEFAC7A000 50] iPad9, [000005CEFABF7540][000005CEFAC7C800 50] iPadPro11, [000005CEFABF2300][000005CEFAC62800 50] iPadPro2_11, [000005CEFABF78C0][000005CEFAC40000 50] iPadPro3_11, [000005CEFABF7E00][000005CEFAC45000 50] iPadPro3_129, [000005CEFABF6200][000005CEFAC47800 50] iPadPro4_129, [000005CEFABF8500][000005CEFAC4A000 50] iPadPro5_129, [000005CEFABF7000][000005CEFAC4C800 50] AppleTV, [000005CEFABF32C0][000005CEFAC72800 50] AppleTV4K, [000005CEFABF7C40][000005CEFACB0000 50] TVOS, [000005CEFABFA640][000005CEFACB7800 50] Mac, [000005CEFABFA9C0][000005CEFACB5000 50] MacEditor, [000005CEFABF9680][000005CEFACBA000 50] MacClient, [000005CEFABFAB80][000005CEFACBC800 50] MacServer, [000005CEFABFAD40][000005CEFAD10000 50] Linux, [000005CEFABFB0C0][000005CEFAD12800 50] LinuxEditor, [000005CEFABF1DC0][000005CEFAD17800 50] LinuxArm64Editor, [000005CEFABFA2C0][000005CEFAD1A000 50] LinuxArm64, [000005CEFABF94C0][000005CEFAD1C800 50] LinuxClient, [000005CEFABFA100][000005CEFAC42800 50] LinuxArm64Client, [000005CEFABF47C0][000005CEFAD15000 50] LinuxServer, [000005CEFABF9F40][000005CEFACE0000 50] LinuxArm64Server, [000005CEFABF9D80][000005CEFACE5000 50] Android, [000005CEFABF6AC0][000005CEFACE7800 50] Android_Preview_OpenGL, [000005CEFABF9840][000005CEFACEA000 50] Android_Preview_Vulkan, [000005CEFABFB7C0][000005CEFACEC800 50] Android_Low, [000005CEFABF4600][000005CEFACB2800 50] Android_Mid, [000005CEFABFB440][000005CEFACF0000 50] Android_High, [000005CEFABF8DC0][000005CEFACF5000 50] Android_Default, [000005CEFABFB600][000005CEFACF7800 50] Android_Adreno4xx, [000005CEFABF6900][000005CEFACFA000 50] Android_Adreno5xx_Low, [000005CEFABFA480][000005CEFACFC800 50] Android_Adreno5xx, [000005CEFABF2BC0][000005CEFACE2800 50] Android_Adreno6xx, [000005CEFABF9BC0][000005CEFAD00000 50] Android_Adreno6xx_Vulkan, [000005CEFABFA800][000005CEFAD05000 50] Android_Adreno7xx, [000005CEFABF39C0][000005CEFAD07800 50] Android_Adreno7xx_Vulkan, [000005CEFABF6580][000005CEFAD0A000 50] Android_Mali_T6xx, [000005CEFABF16C0][000005CEFAD0C800 50] Android_Mali_T7xx, [000005CEFABF2A00][000005CEFACF2800 50] Android_Mali_T8xx, [000005CEFABF63C0][000005CEFAC10000 50] Android_Mali_G71, [000005CEFABFB280][000005CEFAC15000 50] Android_Mali_G72, [000005CEFABF1500][000005CEFAC17800 50] Android_Mali_G72_Vulkan, [000005CEFABF3B80][000005CEFAC1A000 50] Android_Mali_G76, [000005CEFABF8F80][000005CEFAC1C800 50] Android_Mali_G76_Vulkan, [000005CEFABF6040][000005CEFAD02800 50] Android_Mali_G77, [000005CEFABF4980][000005CEFAD20000 50] Android_Mali_G77_Vulkan, [000005CEFABFBD00][000005CEFAD25000 50] Android_Mali_G78, [000005CEFABFC400][000005CEFAD27800 50] Android_Mali_G78_Vulkan, [000005CEFABFC080][000005CEFAD2A000 50] Android_Mali_G710, [000005CEFABFBEC0][000005CEFAD2C800 50] Android_Mali_G710_Vulkan, [000005CEFABF8880][000005CEFAC12800 50] Android_Xclipse_920, [000005CEFABFAF00][000005CEFAD30000 50] Android_Xclipse_920_Vulkan, [000005CEFABFC240][000005CEFAD35000 50] Android_Vulkan_SM5, [000005CEFABF7A80][000005CEFAD37800 50] Android_PowerVR_G6xxx, [000005CEFABFD900][000005CEFAD3A000 50] Android_PowerVR_GT7xxx, [000005CEFABFD580][000005CEFAD3C800 50] Android_PowerVR_GE8xxx, [000005CEFABFD3C0][000005CEFAD22800 50] Android_PowerVR_GM9xxx, [000005CEFABF8C00][000005CEFAD40000 50] Android_PowerVR_GM9xxx_Vulkan, [000005CEFABFB980][000005CEFAD45000 50] Android_TegraK1, [000005CEFABF71C0][000005CEFAD47800 50] Android_Unknown_Vulkan, [000005CEFABF9300][000005CEFAD4A000 50] Oculus_Quest, [000005CEFABF5CC0][000005CEFAD4C800 50] Oculus_Quest2, [000005CEFABFDAC0][000005CEFAD32800 50] HoloLens, 
+[2022.08.17-19.03.03:451][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.17-19.03.03:473][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.17-19.03.03:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.17-19.03.03:623][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.17-19.03.03:623][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.17-19.03.03:623][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.17-19.03.03:623][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.17-19.03.03:676][  0]LogNetVersion: GravitySpace 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 444591871)
+[2022.08.17-19.03.03:925][  0]SourceControl: Source control is disabled
+[2022.08.17-19.03.03:975][  0]SourceControl: Source control is disabled
+[2022.08.17-19.03.03:975][  0]SourceControl: Source control is disabled
+[2022.08.17-19.03.04:159][  0]LogMoviePlayer: Initializing movie player
+[2022.08.17-19.03.04:299][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 53ABF8B848564DA53B01839F6770415F | Instance: 2B38CF1F4F82C78B3F86E2B6907B58DA (WORKSATION-11744).
+[2022.08.17-19.03.04:325][  0]LogCollectionManager: Loaded 0 collections in 0.003481 seconds
+[2022.08.17-19.03.04:330][  0]LogFileCache: Scanning file cache for directory 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Collections/' took 0.00s
+[2022.08.17-19.03.04:330][  0]LogFileCache: Scanning file cache for directory 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Developers/zizom/Collections/' took 0.00s
+[2022.08.17-19.03.04:330][  0]LogFileCache: Scanning file cache for directory 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Collections/' took 0.00s
+[2022.08.17-19.03.04:330][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.17-19.03.04:367][  0]LogPython: Using Python 3.9.7
+[2022.08.17-19.03.05:197][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.17-19.03.05:202][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.17-19.03.05:394][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.17-19.03.05:400][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2022.08.17-19.03.05:457][  0]SourceControl: Source control is disabled
+[2022.08.17-19.03.05:480][  0]LogUProjectInfo: Found projects:
+[2022.08.17-19.03.05:555][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.17-19.03.05:612][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.17-19.03.05:633][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.17-19.03.05:633][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.17-19.03.05:773][  0]LogUObjectArray: 27421 objects as part of root set at end of initial load.
+[2022.08.17-19.03.05:773][  0]LogUObjectAllocator: 7841712 out of 0 bytes used by permanent object pool.
+[2022.08.17-19.03.05:773][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.17-19.03.05:856][  0]LogEngine: Initializing Engine...
+[2022.08.17-19.03.05:860][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.17-19.03.06:034][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.17-19.03.06:034][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.17-19.03.06:044][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.17-19.03.06:044][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.17-19.03.06:045][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.17-19.03.06:045][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-19.03.06:045][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-19.03.06:045][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-19.03.06:045][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-19.03.06:045][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-19.03.06:045][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-19.03.06:056][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-19.03.06:118][  0]LogAudioMixer: Display: Using Audio Hardware Device Master (2- Audiofuse)
+[2022.08.17-19.03.06:118][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-19.03.06:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-19.03.06:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-19.03.06:122][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.17-19.03.06:122][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.17-19.03.06:124][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.17-19.03.06:124][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.17-19.03.06:124][  0]LogInit: FAudioDevice initialized.
+[2022.08.17-19.03.06:124][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.17-19.03.06:124][  0]LogInit: Texture streaming: Enabled
+[2022.08.17-19.03.06:205][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.17-19.03.06:213][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.17-19.03.06:213][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.17-19.03.06:218][  0]LogLiveCoding: Display: Detected running instance in process group "UE_GravitySpace_0x52498e5f", connecting to console process (PID: 41104)
+[2022.08.17-19.03.06:218][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.17-19.03.06:218][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.17-19.03.06:218][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-19.03.06:218][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-19.03.06:220][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.17-19.03.06:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-19.03.06:221][  0]LogInit: Display: Game Engine Initialized.
+[2022.08.17-19.03.06:221][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.08.17-19.03.06:253][  0]LogInit: Display: Starting Game.
+[2022.08.17-19.03.06:253][  0]LogNet: Browse: /Game/Maps/LVL_GravitySpace?Name=Player
+[2022.08.17-19.03.06:253][  0]LogLoad: LoadMap: /Game/Maps/LVL_GravitySpace?Name=Player
+[2022.08.17-19.03.06:253][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.08.17-19.03.06:253][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-19.03.06:253][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-19.03.06:258][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-19.03.06:261][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.17-19.03.06:347][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_GravitySpace'.
+[2022.08.17-19.03.06:347][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-19.03.06:347][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-19.03.06:371][  0]LogAIModule: Creating AISystem for world LVL_GravitySpace
+[2022.08.17-19.03.06:519][  0]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.08.17-19.03.06:527][  0]LogWorld: Bringing World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace up for play (max tick rate 0) at 2022.08.17-15.03.06
+[2022.08.17-19.03.06:527][  0]LogWorld: Bringing up level for play took: 0.002509
+[2022.08.17-19.03.06:534][  0]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.08.17-19.03.06:535][  0]LogLoad: Took 0.281875 seconds to LoadMap(/Game/Maps/LVL_GravitySpace)
+[2022.08.17-19.03.06:535][  0]LogViewport: Scene viewport resized to 608x1280, mode Windowed.
+[2022.08.17-19.03.06:714][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.17-19.03.06:811][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.17-19.03.06:811][  0]LogLoad: (Engine Initialization) Total time: 7.95 seconds
+[2022.08.17-19.03.06:811][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.17-19.03.06:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.17-19.03.06:818][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-19.03.06:855][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.17-19.03.06:867][  0]LogAutomationController: Ignoring very large delta of 17370517.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.08.17-19.03.06:891][  1]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.17-19.03.09:295][441]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.09:296][441]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -323.921442
+[2022.08.17-19.03.09:298][442]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -662.243319
+[2022.08.17-19.03.09:300][443]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -859.35955
+[2022.08.17-19.03.09:302][444]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1059.258366
+[2022.08.17-19.03.09:304][445]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1267.815685
+[2022.08.17-19.03.09:306][446]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1435.375786
+[2022.08.17-19.03.09:307][447]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1601.35994
+[2022.08.17-19.03.09:309][448]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1776.760292
+[2022.08.17-19.03.09:311][449]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1958.893776
+[2022.08.17-19.03.09:313][450]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2148.698044
+[2022.08.17-19.03.09:315][451]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2362.472343
+[2022.08.17-19.03.09:317][452]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2547.029686
+[2022.08.17-19.03.09:319][453]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2750.440025
+[2022.08.17-19.03.09:321][454]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2948.453712
+[2022.08.17-19.03.09:323][455]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3161.03096
+[2022.08.17-19.03.09:325][456]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3344.321442
+[2022.08.17-19.03.09:327][457]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3542.874146
+[2022.08.17-19.03.09:329][458]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3732.798004
+[2022.08.17-19.03.09:331][459]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3931.220627
+[2022.08.17-19.03.09:333][460]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4141.533661
+[2022.08.17-19.03.09:335][461]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4345.602036
+[2022.08.17-19.03.09:336][462]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4508.84285
+[2022.08.17-19.03.09:338][463]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4690.567398
+[2022.08.17-19.03.09:340][464]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4872.930145
+[2022.08.17-19.03.09:342][465]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5036.480331
+[2022.08.17-19.03.09:343][466]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5201.427078
+[2022.08.17-19.03.09:345][467]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5369.475937
+[2022.08.17-19.03.09:347][468]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5553.604507
+[2022.08.17-19.03.09:349][469]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5765.453339
+[2022.08.17-19.03.09:351][470]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5979.058075
+[2022.08.17-19.03.09:354][471]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6200.094223
+[2022.08.17-19.03.09:355][472]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6396.33255
+[2022.08.17-19.03.09:358][473]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6608.052063
+[2022.08.17-19.03.09:360][474]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6819.023895
+[2022.08.17-19.03.09:362][475]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7024.838257
+[2022.08.17-19.03.09:364][476]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7263.111115
+[2022.08.17-19.03.09:366][477]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7449.304199
+[2022.08.17-19.03.09:368][478]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7619.418335
+[2022.08.17-19.03.09:369][479]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7804.055786
+[2022.08.17-19.03.09:371][480]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7978.627777
+[2022.08.17-19.03.09:373][481]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8142.706299
+[2022.08.17-19.03.09:375][482]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8313.528442
+[2022.08.17-19.03.09:376][483]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8488.320923
+[2022.08.17-19.03.09:379][484]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8729.735565
+[2022.08.17-19.03.09:382][485]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8995.13092
+[2022.08.17-19.03.09:384][486]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9201.972961
+[2022.08.17-19.03.09:386][487]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9439.227295
+[2022.08.17-19.03.09:388][488]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9672.203827
+[2022.08.17-19.03.09:390][489]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9864.770508
+[2022.08.17-19.03.09:393][490]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10097.088623
+[2022.08.17-19.03.09:395][491]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10314.892578
+[2022.08.17-19.03.09:397][492]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10508.856201
+[2022.08.17-19.03.10:262][861]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.10:262][861]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -382.90329
+[2022.08.17-19.03.10:265][862]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -710.771751
+[2022.08.17-19.03.10:267][863]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -972.944736
+[2022.08.17-19.03.10:270][864]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1237.012863
+[2022.08.17-19.03.10:273][865]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1512.392712
+[2022.08.17-19.03.10:275][866]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1771.293831
+[2022.08.17-19.03.10:278][867]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2023.850822
+[2022.08.17-19.03.10:280][868]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2249.345779
+[2022.08.17-19.03.10:283][869]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2512.885094
+[2022.08.17-19.03.10:285][870]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2739.616776
+[2022.08.17-19.03.10:287][871]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2939.595795
+[2022.08.17-19.03.10:290][872]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3199.324799
+[2022.08.17-19.03.10:293][873]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3487.073898
+[2022.08.17-19.03.10:295][874]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3758.493423
+[2022.08.17-19.03.10:297][875]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3986.122894
+[2022.08.17-19.03.10:300][876]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4199.318314
+[2022.08.17-19.03.10:302][877]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4445.431519
+[2022.08.17-19.03.10:304][878]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4676.492691
+[2022.08.17-19.03.10:308][879]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4984.420776
+[2022.08.17-19.03.10:310][880]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5248.529053
+[2022.08.17-19.03.10:313][881]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5489.105988
+[2022.08.17-19.03.10:315][882]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5751.278687
+[2022.08.17-19.03.10:318][883]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6003.167725
+[2022.08.17-19.03.10:320][884]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6249.908829
+[2022.08.17-19.03.10:323][885]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6490.95459
+[2022.08.17-19.03.10:326][886]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6788.828278
+[2022.08.17-19.03.10:329][887]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7104.626465
+[2022.08.17-19.03.10:331][888]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7347.766876
+[2022.08.17-19.03.10:333][889]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7583.306122
+[2022.08.17-19.03.10:337][890]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7901.647949
+[2022.08.17-19.03.10:339][891]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8175.062561
+[2022.08.17-19.03.10:342][892]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8421.455383
+[2022.08.17-19.03.10:344][893]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8641.384125
+[2022.08.17-19.03.10:346][894]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8853.621674
+[2022.08.17-19.03.10:348][895]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9061.77063
+[2022.08.17-19.03.10:351][896]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9330.716705
+[2022.08.17-19.03.10:354][897]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9612.550354
+[2022.08.17-19.03.10:356][898]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9853.585815
+[2022.08.17-19.03.10:359][899]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10091.419983
+[2022.08.17-19.03.10:361][900]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10315.059662
+[2022.08.17-19.03.10:363][901]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10545.95108
+[2022.08.17-19.03.10:366][902]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10790.827179
+[2022.08.17-19.03.10:369][903]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11064.710236
+[2022.08.17-19.03.10:371][904]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11355.521393
+[2022.08.17-19.03.10:374][905]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11596.417236
+[2022.08.17-19.03.10:377][906]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11869.393158
+[2022.08.17-19.03.10:380][907]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -12192.583466
+[2022.08.17-19.03.10:383][908]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -12500.152588
+[2022.08.17-19.03.11:854][532]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.11:855][532]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -297.657299
+[2022.08.17-19.03.11:857][533]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -618.164062
+[2022.08.17-19.03.11:859][534]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -847.339439
+[2022.08.17-19.03.11:862][535]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1065.343189
+[2022.08.17-19.03.11:863][536]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1256.434345
+[2022.08.17-19.03.11:865][537]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1446.50774
+[2022.08.17-19.03.11:867][538]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1624.38221
+[2022.08.17-19.03.11:869][539]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1807.632637
+[2022.08.17-19.03.11:872][540]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2056.12011
+[2022.08.17-19.03.11:874][541]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2286.283302
+[2022.08.17-19.03.11:877][542]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2558.281708
+[2022.08.17-19.03.11:879][543]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2777.970886
+[2022.08.17-19.03.11:881][544]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2979.595757
+[2022.08.17-19.03.11:883][545]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3236.312103
+[2022.08.17-19.03.11:886][546]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3513.796997
+[2022.08.17-19.03.11:888][547]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3716.917801
+[2022.08.17-19.03.11:890][548]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3905.704498
+[2022.08.17-19.03.11:892][549]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4094.960022
+[2022.08.17-19.03.11:894][550]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4283.856964
+[2022.08.17-19.03.11:896][551]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4477.022552
+[2022.08.17-19.03.11:898][552]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4675.904465
+[2022.08.17-19.03.11:900][553]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4862.646484
+[2022.08.17-19.03.11:902][554]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5067.193222
+[2022.08.17-19.03.11:904][555]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5265.665817
+[2022.08.17-19.03.11:906][556]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5457.1064
+[2022.08.17-19.03.11:907][557]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5646.790695
+[2022.08.17-19.03.11:910][558]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5893.761826
+[2022.08.17-19.03.11:913][559]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6166.428375
+[2022.08.17-19.03.11:915][560]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6402.865601
+[2022.08.17-19.03.11:917][561]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6611.972046
+[2022.08.17-19.03.11:920][562]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6843.202972
+[2022.08.17-19.03.11:922][563]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7100.019073
+[2022.08.17-19.03.11:924][564]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7340.795898
+[2022.08.17-19.03.11:927][565]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7561.073303
+[2022.08.17-19.03.11:929][566]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7775.545502
+[2022.08.17-19.03.11:931][567]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7991.175079
+[2022.08.17-19.03.11:934][568]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8254.594421
+[2022.08.17-19.03.11:937][569]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8542.702484
+[2022.08.17-19.03.11:939][570]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8776.138306
+[2022.08.17-19.03.11:941][571]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8994.221497
+[2022.08.17-19.03.11:944][572]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9251.77536
+[2022.08.17-19.03.11:946][573]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9522.307587
+[2022.08.17-19.03.11:949][574]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9745.239258
+[2022.08.17-19.03.11:951][575]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9952.040863
+[2022.08.17-19.03.11:953][576]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10174.602509
+[2022.08.17-19.03.11:955][577]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10392.137909
+[2022.08.17-19.03.11:957][578]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10598.081207
+[2022.08.17-19.03.11:959][579]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10810.559845
+[2022.08.17-19.03.11:961][580]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11020.204163
+[2022.08.17-19.03.11:963][581]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11231.245422
+[2022.08.17-19.03.11:966][582]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11447.554016
+[2022.08.17-19.03.11:968][583]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11662.275696
+[2022.08.17-19.03.11:970][584]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11894.992828
+[2022.08.17-19.03.11:973][585]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -12156.298065
+[2022.08.17-19.03.11:975][586]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -12399.517822
+[2022.08.17-19.03.11:978][587]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -12664.304352
+[2022.08.17-19.03.11:980][588]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -12907.185364
+[2022.08.17-19.03.11:983][589]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -13167.723083
+[2022.08.17-19.03.12:076][628]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.12:077][628]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -381.746507
+[2022.08.17-19.03.12:079][629]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -678.083801
+[2022.08.17-19.03.12:082][630]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -945.843029
+[2022.08.17-19.03.12:084][631]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1178.858948
+[2022.08.17-19.03.12:086][632]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1411.386204
+[2022.08.17-19.03.12:088][633]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1628.861237
+[2022.08.17-19.03.12:091][634]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1855.203819
+[2022.08.17-19.03.12:093][635]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2121.656227
+[2022.08.17-19.03.12:096][636]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2364.677048
+[2022.08.17-19.03.12:099][637]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2635.328674
+[2022.08.17-19.03.12:101][638]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2845.731354
+[2022.08.17-19.03.12:103][639]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3103.385353
+[2022.08.17-19.03.12:105][640]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3341.21933
+[2022.08.17-19.03.12:108][641]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3572.310257
+[2022.08.17-19.03.12:111][642]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3851.690292
+[2022.08.17-19.03.12:113][643]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4074.920654
+[2022.08.17-19.03.12:116][644]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4345.262909
+[2022.08.17-19.03.12:118][645]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4600.782394
+[2022.08.17-19.03.12:120][646]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4824.781418
+[2022.08.17-19.03.12:123][647]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5073.009109
+[2022.08.17-19.03.12:125][648]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5292.499161
+[2022.08.17-19.03.12:127][649]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5513.884354
+[2022.08.17-19.03.12:130][650]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5777.91214
+[2022.08.17-19.03.12:133][651]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6031.217575
+[2022.08.17-19.03.12:135][652]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6303.544998
+[2022.08.17-19.03.12:138][653]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6555.952454
+[2022.08.17-19.03.12:141][654]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6827.870178
+[2022.08.17-19.03.12:143][655]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7054.931641
+[2022.08.17-19.03.12:145][656]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7264.456177
+[2022.08.17-19.03.12:147][657]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7471.257782
+[2022.08.17-19.03.12:149][658]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7666.847229
+[2022.08.17-19.03.12:152][659]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7937.190247
+[2022.08.17-19.03.12:154][660]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8153.148651
+[2022.08.17-19.03.12:156][661]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8350.26474
+[2022.08.17-19.03.12:249][699]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.12:250][699]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -421.317196
+[2022.08.17-19.03.12:252][700]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -738.023615
+[2022.08.17-19.03.12:254][701]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -945.712948
+[2022.08.17-19.03.12:256][702]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1140.913963
+[2022.08.17-19.03.12:258][703]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1386.14912
+[2022.08.17-19.03.12:261][704]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1663.284492
+[2022.08.17-19.03.12:264][705]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1943.193054
+[2022.08.17-19.03.12:266][706]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2164.029503
+[2022.08.17-19.03.12:268][707]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2362.841225
+[2022.08.17-19.03.12:271][708]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2628.116417
+[2022.08.17-19.03.12:273][709]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2911.705589
+[2022.08.17-19.03.12:276][710]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3128.681946
+[2022.08.17-19.03.12:278][711]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3352.830505
+[2022.08.17-19.03.12:280][712]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3571.113205
+[2022.08.17-19.03.12:282][713]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3778.463745
+[2022.08.17-19.03.12:284][714]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3999.978256
+[2022.08.17-19.03.12:287][715]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4222.290802
+[2022.08.17-19.03.12:289][716]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4430.858231
+[2022.08.17-19.03.12:291][717]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4640.602493
+[2022.08.17-19.03.12:293][718]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4847.693634
+[2022.08.17-19.03.12:296][719]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5105.936432
+[2022.08.17-19.03.12:298][720]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5385.475922
+[2022.08.17-19.03.12:300][721]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5605.314636
+[2022.08.17-19.03.12:303][722]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5851.208496
+[2022.08.17-19.03.12:306][723]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6113.810349
+[2022.08.17-19.03.12:308][724]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6356.372452
+[2022.08.17-19.03.12:310][725]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6600.939178
+[2022.08.17-19.03.12:313][726]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6816.529083
+[2022.08.17-19.03.12:315][727]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7072.477722
+[2022.08.17-19.03.12:317][728]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7281.453705
+[2022.08.17-19.03.12:320][729]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7543.497467
+[2022.08.17-19.03.12:322][730]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7780.293274
+[2022.08.17-19.03.12:325][731]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8029.090118
+[2022.08.17-19.03.12:327][732]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8283.472443
+[2022.08.17-19.03.12:329][733]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8508.418274
+[2022.08.17-19.03.12:332][734]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8740.795898
+[2022.08.17-19.03.12:765][915]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.12:766][915]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -393.965769
+[2022.08.17-19.03.12:768][916]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -673.764324
+[2022.08.17-19.03.12:770][917]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -886.571312
+[2022.08.17-19.03.12:772][918]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1114.450264
+[2022.08.17-19.03.12:774][919]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1336.323833
+[2022.08.17-19.03.12:777][920]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1571.494579
+[2022.08.17-19.03.12:779][921]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1792.580414
+[2022.08.17-19.03.12:781][922]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2020.569038
+[2022.08.17-19.03.12:783][923]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2231.071663
+[2022.08.17-19.03.12:785][924]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2444.885635
+[2022.08.17-19.03.12:788][925]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2701.562309
+[2022.08.17-19.03.12:791][926]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2966.318893
+[2022.08.17-19.03.12:793][927]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3236.820984
+[2022.08.17-19.03.12:796][928]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3480.689621
+[2022.08.17-19.03.12:798][929]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3703.700638
+[2022.08.17-19.03.12:800][930]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3914.053726
+[2022.08.17-19.03.12:802][931]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4128.356171
+[2022.08.17-19.03.12:804][932]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4341.312408
+[2022.08.17-19.03.12:806][933]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4560.10437
+[2022.08.17-19.03.12:809][934]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4806.606293
+[2022.08.17-19.03.12:811][935]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5032.360458
+[2022.08.17-19.03.12:814][936]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5313.875198
+[2022.08.17-19.03.12:818][937]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5710.30159
+[2022.08.17-19.03.12:821][938]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5961.641693
+[2022.08.17-19.03.12:823][939]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6202.707672
+[2022.08.17-19.03.12:825][940]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6427.763367
+[2022.08.17-19.03.12:827][941]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6645.847321
+[2022.08.17-19.03.12:830][942]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6857.01828
+[2022.08.17-19.03.12:832][943]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7073.754883
+[2022.08.17-19.03.12:834][944]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7327.000427
+[2022.08.17-19.03.12:836][945]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7548.215485
+[2022.08.17-19.03.12:839][946]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7757.930756
+[2022.08.17-19.03.12:841][947]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7961.579895
+[2022.08.17-19.03.12:843][948]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8225.87738
+[2022.08.17-19.03.12:846][949]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8499.092865
+[2022.08.17-19.03.12:848][950]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8725.086212
+[2022.08.17-19.03.12:851][951]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8934.202576
+[2022.08.17-19.03.12:853][952]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9212.30545
+[2022.08.17-19.03.12:856][953]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9485.62088
+[2022.08.17-19.03.12:858][954]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9743.005371
+[2022.08.17-19.03.12:861][955]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9966.056061
+[2022.08.17-19.03.12:863][956]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10180.688477
+[2022.08.17-19.03.12:866][957]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10451.828003
+[2022.08.17-19.03.12:868][958]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10717.831421
+[2022.08.17-19.03.12:870][959]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10947.724915
+[2022.08.17-19.03.12:872][960]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11146.996307
+[2022.08.17-19.03.12:875][961]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11393.697357
+[2022.08.17-19.03.12:878][962]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11653.556061
+[2022.08.17-19.03.13:169][ 84]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.13:170][ 84]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -343.971372
+[2022.08.17-19.03.13:172][ 85]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -639.939642
+[2022.08.17-19.03.13:174][ 86]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -874.691296
+[2022.08.17-19.03.13:177][ 87]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1140.973759
+[2022.08.17-19.03.13:179][ 88]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1394.907284
+[2022.08.17-19.03.13:182][ 89]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1661.219788
+[2022.08.17-19.03.13:185][ 90]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1913.278198
+[2022.08.17-19.03.13:187][ 91]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2147.9002
+[2022.08.17-19.03.13:189][ 92]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2355.509758
+[2022.08.17-19.03.13:192][ 93]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2594.181633
+[2022.08.17-19.03.13:194][ 94]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2829.831123
+[2022.08.17-19.03.13:196][ 95]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3047.964478
+[2022.08.17-19.03.13:198][ 96]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3283.254623
+[2022.08.17-19.03.13:201][ 97]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3514.694595
+[2022.08.17-19.03.13:203][ 98]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3745.745468
+[2022.08.17-19.03.13:205][ 99]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3954.372787
+[2022.08.17-19.03.13:207][100]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4180.166626
+[2022.08.17-19.03.13:210][101]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4459.177399
+[2022.08.17-19.03.13:213][102]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4705.190659
+[2022.08.17-19.03.13:215][103]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4923.583603
+[2022.08.17-19.03.13:217][104]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5133.976364
+[2022.08.17-19.03.13:219][105]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5349.117279
+[2022.08.17-19.03.13:222][106]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5610.721588
+[2022.08.17-19.03.13:225][107]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5883.777237
+[2022.08.17-19.03.13:227][108]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6110.718155
+[2022.08.17-19.03.13:229][109]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6324.681854
+[2022.08.17-19.03.13:231][110]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6540.291595
+[2022.08.17-19.03.13:233][111]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6756.629181
+[2022.08.17-19.03.13:236][112]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7025.854492
+[2022.08.17-19.03.13:239][113]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7277.772522
+[2022.08.17-19.03.13:241][114]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7536.463928
+[2022.08.17-19.03.13:243][115]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7766.577911
+[2022.08.17-19.03.13:246][116]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7996.470642
+[2022.08.17-19.03.13:248][117]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8225.746918
+[2022.08.17-19.03.13:250][118]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8441.526031
+[2022.08.17-19.03.13:253][119]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8718.740845
+[2022.08.17-19.03.13:256][120]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8993.053436
+[2022.08.17-19.03.13:258][121]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9239.435577
+[2022.08.17-19.03.13:260][122]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9475.254822
+[2022.08.17-19.03.13:263][123]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9710.674286
+[2022.08.17-19.03.13:265][124]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9942.602539
+[2022.08.17-19.03.13:267][125]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10173.504639
+[2022.08.17-19.03.13:270][126]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10457.732391
+[2022.08.17-19.03.13:273][127]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10724.723053
+[2022.08.17-19.03.13:275][128]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -10967.254639
+[2022.08.17-19.03.13:278][129]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11231.642151
+[2022.08.17-19.03.13:281][130]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -11530.014038
+[2022.08.17-19.03.13:380][170]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.13:381][170]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -364.369869
+[2022.08.17-19.03.13:383][171]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -693.445253
+[2022.08.17-19.03.13:386][172]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -985.413265
+[2022.08.17-19.03.13:388][173]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1216.634083
+[2022.08.17-19.03.13:390][174]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1443.176365
+[2022.08.17-19.03.13:393][175]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1690.296936
+[2022.08.17-19.03.13:395][176]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1932.380295
+[2022.08.17-19.03.13:398][177]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2213.525581
+[2022.08.17-19.03.13:401][178]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2481.214523
+[2022.08.17-19.03.13:404][179]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2747.247887
+[2022.08.17-19.03.13:406][180]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2975.924683
+[2022.08.17-19.03.13:408][181]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3181.010628
+[2022.08.17-19.03.13:411][182]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3430.245972
+[2022.08.17-19.03.13:413][183]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3718.32428
+[2022.08.17-19.03.13:416][184]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3984.128189
+[2022.08.17-19.03.13:418][185]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4227.637482
+[2022.08.17-19.03.13:421][186]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4459.67598
+[2022.08.17-19.03.13:423][187]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4670.467758
+[2022.08.17-19.03.13:426][188]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4932.610703
+[2022.08.17-19.03.13:428][189]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5176.269913
+[2022.08.17-19.03.13:431][190]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5457.48558
+[2022.08.17-19.03.13:433][191]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5725.124741
+[2022.08.17-19.03.13:435][192]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5934.878922
+[2022.08.17-19.03.13:437][193]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6130.707932
+[2022.08.17-19.03.13:439][194]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6339.764023
+[2022.08.17-19.03.13:441][195]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6536.032867
+[2022.08.17-19.03.13:443][196]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6730.914307
+[2022.08.17-19.03.13:445][197]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6928.648376
+[2022.08.17-19.03.13:448][198]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7178.352356
+[2022.08.17-19.03.13:451][199]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7441.822815
+[2022.08.17-19.03.13:453][200]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7716.374969
+[2022.08.17-19.03.13:456][201]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7983.35495
+[2022.08.17-19.03.13:458][202]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8213.009644
+[2022.08.17-19.03.13:460][203]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8418.884277
+[2022.08.17-19.03.13:463][204]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8681.16684
+[2022.08.17-19.03.13:466][205]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8925.753784
+[2022.08.17-19.03.13:468][206]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9174.510193
+[2022.08.17-19.03.13:470][207]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9414.109802
+[2022.08.17-19.03.13:473][208]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9664.671326
+[2022.08.17-19.03.13:563][245]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -125.0
+[2022.08.17-19.03.13:563][245]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -385.427189
+[2022.08.17-19.03.13:566][246]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -714.253283
+[2022.08.17-19.03.13:568][247]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -951.89743
+[2022.08.17-19.03.13:570][248]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1177.891254
+[2022.08.17-19.03.13:572][249]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1398.428535
+[2022.08.17-19.03.13:575][250]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1613.399696
+[2022.08.17-19.03.13:577][251]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -1820.111656
+[2022.08.17-19.03.13:580][252]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2095.022583
+[2022.08.17-19.03.13:582][253]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2381.324959
+[2022.08.17-19.03.13:584][254]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2606.979561
+[2022.08.17-19.03.13:587][255]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -2809.531784
+[2022.08.17-19.03.13:589][256]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3064.153481
+[2022.08.17-19.03.13:592][257]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3341.53862
+[2022.08.17-19.03.13:595][258]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3619.41185
+[2022.08.17-19.03.13:598][259]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -3898.472595
+[2022.08.17-19.03.13:600][260]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4180.755234
+[2022.08.17-19.03.13:603][261]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4422.499084
+[2022.08.17-19.03.13:606][262]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4711.315536
+[2022.08.17-19.03.13:608][263]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -4943.803024
+[2022.08.17-19.03.13:610][264]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5192.44957
+[2022.08.17-19.03.13:613][265]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5412.248611
+[2022.08.17-19.03.13:615][266]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5622.113037
+[2022.08.17-19.03.13:617][267]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -5858.520508
+[2022.08.17-19.03.13:620][268]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6123.406219
+[2022.08.17-19.03.13:622][269]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6366.606903
+[2022.08.17-19.03.13:624][270]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6593.93692
+[2022.08.17-19.03.13:627][271]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -6800.279999
+[2022.08.17-19.03.13:629][272]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7000.208282
+[2022.08.17-19.03.13:631][273]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7255.189514
+[2022.08.17-19.03.13:634][274]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7539.177704
+[2022.08.17-19.03.13:637][275]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -7808.831787
+[2022.08.17-19.03.13:639][276]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8043.414307
+[2022.08.17-19.03.13:642][277]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8292.321014
+[2022.08.17-19.03.13:644][278]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8579.720306
+[2022.08.17-19.03.13:647][279]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -8814.511871
+[2022.08.17-19.03.13:649][280]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9032.875061
+[2022.08.17-19.03.13:652][281]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9308.514404
+[2022.08.17-19.03.13:654][282]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9554.766846
+[2022.08.17-19.03.13:657][283]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] -9820.471191
+[2022.08.17-19.03.15:157][910]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.15:158][910]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 379.781127
+[2022.08.17-19.03.15:160][911]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 666.761971
+[2022.08.17-19.03.15:162][912]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 898.331642
+[2022.08.17-19.03.15:164][913]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1115.986061
+[2022.08.17-19.03.15:166][914]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1329.541016
+[2022.08.17-19.03.15:169][915]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1593.828773
+[2022.08.17-19.03.15:172][916]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1840.380478
+[2022.08.17-19.03.15:174][917]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2061.715889
+[2022.08.17-19.03.15:176][918]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2269.425392
+[2022.08.17-19.03.15:178][919]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2491.53862
+[2022.08.17-19.03.15:180][920]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2715.916252
+[2022.08.17-19.03.15:183][921]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2929.471016
+[2022.08.17-19.03.15:185][922]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3190.397263
+[2022.08.17-19.03.15:187][923]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3402.614975
+[2022.08.17-19.03.15:189][924]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3592.559052
+[2022.08.17-19.03.15:192][925]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3842.393112
+[2022.08.17-19.03.15:194][926]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4100.835419
+[2022.08.17-19.03.15:197][927]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4365.831375
+[2022.08.17-19.03.15:199][928]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4604.393387
+[2022.08.17-19.03.15:202][929]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4862.785721
+[2022.08.17-19.03.15:204][930]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5098.265839
+[2022.08.17-19.03.15:206][931]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5302.872467
+[2022.08.17-19.03.15:209][932]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5566.990662
+[2022.08.17-19.03.15:212][933]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5806.610489
+[2022.08.17-19.03.15:214][934]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6058.3992
+[2022.08.17-19.03.15:216][935]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6281.0215
+[2022.08.17-19.03.15:218][936]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6489.548492
+[2022.08.17-19.03.15:220][937]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6711.273193
+[2022.08.17-19.03.15:223][938]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6964.558411
+[2022.08.17-19.03.15:225][939]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7190.492249
+[2022.08.17-19.03.15:228][940]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7431.477356
+[2022.08.17-19.03.15:230][941]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7648.713684
+[2022.08.17-19.03.15:233][942]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7910.786438
+[2022.08.17-19.03.15:235][943]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8188.140869
+[2022.08.17-19.03.15:238][944]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8431.680298
+[2022.08.17-19.03.15:241][945]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8713.972473
+[2022.08.17-19.03.15:243][946]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8946.240234
+[2022.08.17-19.03.15:245][947]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9156.493378
+[2022.08.17-19.03.15:247][948]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9392.831421
+[2022.08.17-19.03.15:250][949]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9654.914856
+[2022.08.17-19.03.15:252][950]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9899.022675
+[2022.08.17-19.03.15:255][951]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10118.822479
+[2022.08.17-19.03.15:257][952]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10351.957703
+[2022.08.17-19.03.15:259][953]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10564.465332
+[2022.08.17-19.03.15:261][954]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10764.95285
+[2022.08.17-19.03.15:343][987]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.15:343][987]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 361.53717
+[2022.08.17-19.03.15:345][988]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 677.425718
+[2022.08.17-19.03.15:348][989]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 954.441357
+[2022.08.17-19.03.15:350][990]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1173.003674
+[2022.08.17-19.03.15:352][991]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1383.346558
+[2022.08.17-19.03.15:354][992]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1589.689159
+[2022.08.17-19.03.15:357][993]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1848.350906
+[2022.08.17-19.03.15:360][994]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2132.798195
+[2022.08.17-19.03.15:363][995]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2408.367157
+[2022.08.17-19.03.15:366][996]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2687.128639
+[2022.08.17-19.03.15:368][997]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2916.593552
+[2022.08.17-19.03.15:370][998]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3174.736595
+[2022.08.17-19.03.15:373][999]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3412.311172
+[2022.08.17-19.03.15:375][  0]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3629.207611
+[2022.08.17-19.03.15:378][  1]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3889.685059
+[2022.08.17-19.03.15:380][  2]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4131.548691
+[2022.08.17-19.03.15:383][  3]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4414.339828
+[2022.08.17-19.03.15:386][  4]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4671.914673
+[2022.08.17-19.03.15:388][  5]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4944.08226
+[2022.08.17-19.03.15:391][  6]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5186.953354
+[2022.08.17-19.03.15:393][  7]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5423.540878
+[2022.08.17-19.03.15:395][  8]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5653.075027
+[2022.08.17-19.03.15:398][  9]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5917.592239
+[2022.08.17-19.03.15:401][ 10]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6229.790115
+[2022.08.17-19.03.15:404][ 11]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6515.962219
+[2022.08.17-19.03.15:406][ 12]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6747.981262
+[2022.08.17-19.03.15:408][ 13]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6955.770874
+[2022.08.17-19.03.15:411][ 14]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7206.980896
+[2022.08.17-19.03.15:414][ 15]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7476.974487
+[2022.08.17-19.03.15:416][ 16]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7703.855896
+[2022.08.17-19.03.15:418][ 17]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7905.281067
+[2022.08.17-19.03.15:420][ 18]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8128.430939
+[2022.08.17-19.03.15:423][ 19]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8383.740997
+[2022.08.17-19.03.15:425][ 20]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8620.328522
+[2022.08.17-19.03.15:428][ 21]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8880.046844
+[2022.08.17-19.03.15:430][ 22]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9116.744232
+[2022.08.17-19.03.15:432][ 23]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9366.218567
+[2022.08.17-19.03.15:435][ 24]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9583.654022
+[2022.08.17-19.03.15:437][ 25]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9810.285187
+[2022.08.17-19.03.15:794][176]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.15:794][176]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 351.41263
+[2022.08.17-19.03.15:797][177]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 664.837074
+[2022.08.17-19.03.15:799][178]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 900.346756
+[2022.08.17-19.03.15:801][179]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1149.063492
+[2022.08.17-19.03.15:804][180]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1382.837391
+[2022.08.17-19.03.15:806][181]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1638.895798
+[2022.08.17-19.03.15:809][182]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1912.639427
+[2022.08.17-19.03.15:812][183]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2150.852585
+[2022.08.17-19.03.15:814][184]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2385.833549
+[2022.08.17-19.03.15:816][185]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2642.769623
+[2022.08.17-19.03.15:820][186]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2957.730293
+[2022.08.17-19.03.15:822][187]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3186.72657
+[2022.08.17-19.03.15:824][188]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3403.533173
+[2022.08.17-19.03.15:826][189]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3616.73851
+[2022.08.17-19.03.15:828][190]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3836.458206
+[2022.08.17-19.03.15:831][191]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4070.002747
+[2022.08.17-19.03.15:833][192]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4337.940979
+[2022.08.17-19.03.15:836][193]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4574.438477
+[2022.08.17-19.03.15:838][194]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4840.691376
+[2022.08.17-19.03.15:841][195]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5072.62001
+[2022.08.17-19.03.15:843][196]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5298.553467
+[2022.08.17-19.03.15:845][197]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5521.804047
+[2022.08.17-19.03.15:847][198]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5737.533188
+[2022.08.17-19.03.15:850][199]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5999.905777
+[2022.08.17-19.03.15:852][200]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6221.570206
+[2022.08.17-19.03.15:854][201]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6442.945862
+[2022.08.17-19.03.15:857][202]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6665.937042
+[2022.08.17-19.03.15:859][203]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6879.09317
+[2022.08.17-19.03.15:861][204]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7141.97464
+[2022.08.17-19.03.15:864][205]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7363.189697
+[2022.08.17-19.03.15:866][206]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7630.210876
+[2022.08.17-19.03.15:869][207]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7890.478516
+[2022.08.17-19.03.15:872][208]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8164.841461
+[2022.08.17-19.03.15:875][209]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8438.514709
+[2022.08.17-19.03.15:877][210]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8731.669617
+[2022.08.17-19.03.15:880][211]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9027.667999
+[2022.08.17-19.03.15:883][212]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9270.779419
+[2022.08.17-19.03.15:885][213]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9527.784729
+[2022.08.17-19.03.15:888][214]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9808.612061
+[2022.08.17-19.03.15:890][215]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10041.119385
+[2022.08.17-19.03.15:893][216]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10310.683441
+[2022.08.17-19.03.15:896][217]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10554.452515
+[2022.08.17-19.03.15:898][218]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10793.823242
+[2022.08.17-19.03.15:900][219]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11038.220215
+[2022.08.17-19.03.15:903][220]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11310.009003
+[2022.08.17-19.03.15:906][221]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11582.307434
+[2022.08.17-19.03.16:008][261]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.16:008][261]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 384.170818
+[2022.08.17-19.03.16:011][262]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 698.363352
+[2022.08.17-19.03.16:013][263]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 933.134747
+[2022.08.17-19.03.16:015][264]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1184.375286
+[2022.08.17-19.03.16:018][265]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1407.346153
+[2022.08.17-19.03.16:020][266]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1626.945877
+[2022.08.17-19.03.16:022][267]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1842.176437
+[2022.08.17-19.03.16:024][268]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2050.424576
+[2022.08.17-19.03.16:026][269]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2255.590439
+[2022.08.17-19.03.16:028][270]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2457.84359
+[2022.08.17-19.03.16:030][271]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2662.700272
+[2022.08.17-19.03.16:033][272]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2925.860405
+[2022.08.17-19.03.16:036][273]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3189.001083
+[2022.08.17-19.03.16:038][274]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3467.22374
+[2022.08.17-19.03.16:041][275]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3725.007629
+[2022.08.17-19.03.16:043][276]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3974.3927
+[2022.08.17-19.03.16:046][277]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4192.625427
+[2022.08.17-19.03.16:048][278]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4411.507034
+[2022.08.17-19.03.16:050][279]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4626.568222
+[2022.08.17-19.03.16:052][280]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4831.76384
+[2022.08.17-19.03.16:054][281]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5036.251068
+[2022.08.17-19.03.16:056][282]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5243.202591
+[2022.08.17-19.03.16:058][283]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5457.475281
+[2022.08.17-19.03.16:061][284]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5684.336853
+[2022.08.17-19.03.16:063][285]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5966.889191
+[2022.08.17-19.03.16:066][286]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6200.144196
+[2022.08.17-19.03.16:068][287]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6407.374573
+[2022.08.17-19.03.16:071][288]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6676.400757
+[2022.08.17-19.03.16:073][289]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6922.364044
+[2022.08.17-19.03.16:075][290]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7142.044067
+[2022.08.17-19.03.16:078][291]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7401.583099
+[2022.08.17-19.03.16:080][292]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7646.778107
+[2022.08.17-19.03.16:083][293]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7906.467438
+[2022.08.17-19.03.16:085][294]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8141.149139
+[2022.08.17-19.03.16:088][295]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8426.054382
+[2022.08.17-19.03.16:090][296]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8657.225037
+[2022.08.17-19.03.16:093][297]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8908.545685
+[2022.08.17-19.03.16:095][298]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9130.558777
+[2022.08.17-19.03.16:097][299]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9336.882019
+[2022.08.17-19.03.16:099][300]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9539.713287
+[2022.08.17-19.03.16:221][351]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.16:221][351]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 326.72441
+[2022.08.17-19.03.16:223][352]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 645.30592
+[2022.08.17-19.03.16:226][353]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 887.040234
+[2022.08.17-19.03.16:228][354]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1151.696968
+[2022.08.17-19.03.16:231][355]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1397.660446
+[2022.08.17-19.03.16:233][356]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1613.190079
+[2022.08.17-19.03.16:235][357]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1815.303612
+[2022.08.17-19.03.16:238][358]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2077.626228
+[2022.08.17-19.03.16:240][359]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2323.919106
+[2022.08.17-19.03.16:242][360]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2540.436363
+[2022.08.17-19.03.16:245][361]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2802.339935
+[2022.08.17-19.03.16:247][362]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3035.585403
+[2022.08.17-19.03.16:250][363]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3304.291916
+[2022.08.17-19.03.16:252][364]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3557.238007
+[2022.08.17-19.03.16:254][365]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3761.146927
+[2022.08.17-19.03.16:257][366]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3972.646713
+[2022.08.17-19.03.16:259][367]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4171.947098
+[2022.08.17-19.03.16:260][368]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4361.013412
+[2022.08.17-19.03.16:263][369]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4611.785126
+[2022.08.17-19.03.16:266][370]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4877.758408
+[2022.08.17-19.03.16:268][371]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5140.330124
+[2022.08.17-19.03.16:271][372]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5403.390884
+[2022.08.17-19.03.16:273][373]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5607.200241
+[2022.08.17-19.03.16:276][374]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5850.779724
+[2022.08.17-19.03.16:278][375]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6116.234589
+[2022.08.17-19.03.16:281][376]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6382.277298
+[2022.08.17-19.03.16:283][377]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6622.186279
+[2022.08.17-19.03.16:285][378]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6827.561188
+[2022.08.17-19.03.16:287][379]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7048.876953
+[2022.08.17-19.03.16:290][380]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7308.287048
+[2022.08.17-19.03.16:293][381]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7558.150482
+[2022.08.17-19.03.16:295][382]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7796.832275
+[2022.08.17-19.03.16:298][383]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8039.484406
+[2022.08.17-19.03.16:300][384]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8313.247681
+[2022.08.17-19.03.16:399][424]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.16:399][424]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 381.277561
+[2022.08.17-19.03.16:401][425]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 711.948967
+[2022.08.17-19.03.16:404][426]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 973.46344
+[2022.08.17-19.03.16:407][427]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1242.150211
+[2022.08.17-19.03.16:409][428]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1483.405495
+[2022.08.17-19.03.16:412][429]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1747.264099
+[2022.08.17-19.03.16:414][430]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1986.544418
+[2022.08.17-19.03.16:416][431]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2203.331184
+[2022.08.17-19.03.16:418][432]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2418.2127
+[2022.08.17-19.03.16:421][433]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2636.764908
+[2022.08.17-19.03.16:423][434]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2851.865768
+[2022.08.17-19.03.16:425][435]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3072.442818
+[2022.08.17-19.03.16:427][436]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3287.523651
+[2022.08.17-19.03.16:429][437]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3489.716721
+[2022.08.17-19.03.16:433][438]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3800.3685
+[2022.08.17-19.03.16:435][439]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4074.531555
+[2022.08.17-19.03.16:438][440]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4311.008835
+[2022.08.17-19.03.16:440][441]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4553.840256
+[2022.08.17-19.03.16:442][442]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4797.020721
+[2022.08.17-19.03.16:444][443]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5013.637543
+[2022.08.17-19.03.16:447][444]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5268.808365
+[2022.08.17-19.03.16:450][445]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5510.751724
+[2022.08.17-19.03.16:452][446]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5752.92511
+[2022.08.17-19.03.16:455][447]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6001.541519
+[2022.08.17-19.03.16:457][448]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6237.620163
+[2022.08.17-19.03.16:460][449]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6501.599121
+[2022.08.17-19.03.16:462][450]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6739.92157
+[2022.08.17-19.03.16:465][451]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6997.985077
+[2022.08.17-19.03.16:467][452]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7264.28833
+[2022.08.17-19.03.16:469][453]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7485.473633
+[2022.08.17-19.03.16:472][454]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7732.234955
+[2022.08.17-19.03.16:474][455]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7946.608734
+[2022.08.17-19.03.16:476][456]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8146.786499
+[2022.08.17-19.03.16:478][457]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8368.531036
+[2022.08.17-19.03.16:481][458]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8607.183075
+[2022.08.17-19.03.16:483][459]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8830.941772
+[2022.08.17-19.03.16:485][460]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9060.805511
+[2022.08.17-19.03.16:487][461]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9275.098419
+[2022.08.17-19.03.16:489][462]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9503.076935
+[2022.08.17-19.03.16:491][463]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9706.626129
+[2022.08.17-19.03.16:494][464]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9961.317444
+[2022.08.17-19.03.16:497][465]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10201.455688
+[2022.08.17-19.03.16:499][466]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10471.359253
+[2022.08.17-19.03.16:501][467]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10685.302734
+[2022.08.17-19.03.16:503][468]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10898.399353
+[2022.08.17-19.03.16:506][469]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11111.504364
+[2022.08.17-19.03.16:508][470]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11319.184875
+[2022.08.17-19.03.16:510][471]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11568.779755
+[2022.08.17-19.03.16:512][472]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11787.800598
+[2022.08.17-19.03.16:515][473]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11989.933777
+[2022.08.17-19.03.16:609][512]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.16:609][512]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 386.853766
+[2022.08.17-19.03.16:612][513]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 733.445168
+[2022.08.17-19.03.16:614][514]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 960.735512
+[2022.08.17-19.03.16:616][515]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1170.390224
+[2022.08.17-19.03.16:618][516]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1380.433559
+[2022.08.17-19.03.16:621][517]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1647.145081
+[2022.08.17-19.03.16:624][518]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1924.191093
+[2022.08.17-19.03.16:627][519]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2195.231438
+[2022.08.17-19.03.16:629][520]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2458.052826
+[2022.08.17-19.03.16:631][521]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2666.580009
+[2022.08.17-19.03.16:634][522]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2894.798279
+[2022.08.17-19.03.16:636][523]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3164.671898
+[2022.08.17-19.03.16:638][524]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3399.533081
+[2022.08.17-19.03.16:641][525]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3666.125107
+[2022.08.17-19.03.16:644][526]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3937.934113
+[2022.08.17-19.03.16:646][527]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4187.9673
+[2022.08.17-19.03.16:649][528]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4447.456741
+[2022.08.17-19.03.16:651][529]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4667.545319
+[2022.08.17-19.03.16:653][530]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4867.414474
+[2022.08.17-19.03.16:655][531]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5075.213623
+[2022.08.17-19.03.16:657][532]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5277.985001
+[2022.08.17-19.03.16:659][533]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5479.929352
+[2022.08.17-19.03.16:662][534]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5737.623215
+[2022.08.17-19.03.16:664][535]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5960.015869
+[2022.08.17-19.03.16:667][536]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6242.318344
+[2022.08.17-19.03.16:669][537]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6470.117188
+[2022.08.17-19.03.16:672][538]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6702.065277
+[2022.08.17-19.03.16:674][539]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6919.451141
+[2022.08.17-19.03.16:676][540]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7134.003448
+[2022.08.17-19.03.16:678][541]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7347.278595
+[2022.08.17-19.03.16:680][542]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7569.521332
+[2022.08.17-19.03.16:683][543]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7816.372681
+[2022.08.17-19.03.16:685][544]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8076.730347
+[2022.08.17-19.03.16:688][545]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8380.089569
+[2022.08.17-19.03.16:691][546]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8616.716766
+[2022.08.17-19.03.16:693][547]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8850.131989
+[2022.08.17-19.03.16:695][548]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9063.247681
+[2022.08.17-19.03.16:697][549]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9276.194
+[2022.08.17-19.03.16:699][550]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9480.741119
+[2022.08.17-19.03.16:702][551]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9745.328522
+[2022.08.17-19.03.16:705][552]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10032.30896
+[2022.08.17-19.03.16:708][553]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10292.916107
+[2022.08.17-19.03.16:710][554]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10552.245331
+[2022.08.17-19.03.16:713][555]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10823.575592
+[2022.08.17-19.03.16:716][556]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11122.735596
+[2022.08.17-19.03.16:719][557]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11389.666748
+[2022.08.17-19.03.16:722][558]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11681.565094
+[2022.08.17-19.03.16:724][559]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11892.556
+[2022.08.17-19.03.16:726][560]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12141.841125
+[2022.08.17-19.03.16:729][561]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12409.460449
+[2022.08.17-19.03.16:732][562]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12678.117371
+[2022.08.17-19.03.16:734][563]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12962.713623
+[2022.08.17-19.03.16:737][564]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 13250.772095
+[2022.08.17-19.03.16:740][565]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 13507.528687
+[2022.08.17-19.03.16:742][566]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 13750.140381
+[2022.08.17-19.03.16:746][567]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 14062.876892
+[2022.08.17-19.03.17:998][105]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.17:998][105]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 383.951211
+[2022.08.17-19.03.18:000][106]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 696.17877
+[2022.08.17-19.03.18:003][107]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 924.805737
+[2022.08.17-19.03.18:006][108]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1228.983307
+[2022.08.17-19.03.18:008][109]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1467.994213
+[2022.08.17-19.03.18:011][110]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1717.62886
+[2022.08.17-19.03.18:013][111]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1937.018967
+[2022.08.17-19.03.18:015][112]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2164.129448
+[2022.08.17-19.03.18:018][113]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2409.953499
+[2022.08.17-19.03.18:020][114]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2678.191376
+[2022.08.17-19.03.18:023][115]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2913.162231
+[2022.08.17-19.03.18:025][116]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3114.427757
+[2022.08.17-19.03.18:027][117]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3319.464111
+[2022.08.17-19.03.18:029][118]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3569.297791
+[2022.08.17-19.03.18:032][119]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3839.490509
+[2022.08.17-19.03.18:034][120]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4059.199905
+[2022.08.17-19.03.18:037][121]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4304.704666
+[2022.08.17-19.03.18:039][122]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4518.040085
+[2022.08.17-19.03.18:041][123]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4773.549652
+[2022.08.17-19.03.18:044][124]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5035.163879
+[2022.08.17-19.03.18:046][125]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5258.703613
+[2022.08.17-19.03.18:048][126]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5463.889694
+[2022.08.17-19.03.18:050][127]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5672.037888
+[2022.08.17-19.03.18:052][128]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5873.323441
+[2022.08.17-19.03.18:055][129]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6133.102036
+[2022.08.17-19.03.18:057][130]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6369.519806
+[2022.08.17-19.03.18:060][131]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6633.847809
+[2022.08.17-19.03.18:062][132]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6868.978119
+[2022.08.17-19.03.18:065][133]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7097.23587
+[2022.08.17-19.03.18:068][134]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7380.186462
+[2022.08.17-19.03.18:070][135]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7645.342255
+[2022.08.17-19.03.18:073][136]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7911.286163
+[2022.08.17-19.03.18:075][137]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8164.900208
+[2022.08.17-19.03.18:078][138]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8403.07312
+[2022.08.17-19.03.18:080][139]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8661.087036
+[2022.08.17-19.03.18:082][140]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8862.531281
+[2022.08.17-19.03.18:084][141]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9054.102325
+[2022.08.17-19.03.18:086][142]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9231.356812
+[2022.08.17-19.03.18:088][143]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9425.211334
+[2022.08.17-19.03.18:091][144]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9674.93515
+[2022.08.17-19.03.18:093][145]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9911.721802
+[2022.08.17-19.03.18:570][348]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 125.0
+[2022.08.17-19.03.18:570][348]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 320.420265
+[2022.08.17-19.03.18:572][349]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 650.832319
+[2022.08.17-19.03.18:575][350]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 883.967876
+[2022.08.17-19.03.18:577][351]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1100.036335
+[2022.08.17-19.03.18:580][352]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1355.017376
+[2022.08.17-19.03.18:582][353]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1626.816177
+[2022.08.17-19.03.18:585][354]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 1878.026772
+[2022.08.17-19.03.18:588][355]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2147.271919
+[2022.08.17-19.03.18:590][356]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2392.218018
+[2022.08.17-19.03.18:592][357]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2626.231575
+[2022.08.17-19.03.18:595][358]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 2885.232162
+[2022.08.17-19.03.18:597][359]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3110.497665
+[2022.08.17-19.03.18:599][360]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3328.710556
+[2022.08.17-19.03.18:602][361]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3586.205673
+[2022.08.17-19.03.18:605][362]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 3858.433151
+[2022.08.17-19.03.18:607][363]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4131.80809
+[2022.08.17-19.03.18:610][364]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4402.070618
+[2022.08.17-19.03.18:612][365]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4617.430878
+[2022.08.17-19.03.18:614][366]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 4830.596924
+[2022.08.17-19.03.18:616][367]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5029.418182
+[2022.08.17-19.03.18:618][368]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5237.118149
+[2022.08.17-19.03.18:620][369]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5437.825012
+[2022.08.17-19.03.18:623][370]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5655.409622
+[2022.08.17-19.03.18:625][371]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 5876.595306
+[2022.08.17-19.03.18:627][372]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6134.997559
+[2022.08.17-19.03.18:630][373]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6398.496628
+[2022.08.17-19.03.18:632][374]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6617.308044
+[2022.08.17-19.03.18:635][375]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 6894.32373
+[2022.08.17-19.03.18:637][376]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7135.678864
+[2022.08.17-19.03.18:640][377]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7404.06723
+[2022.08.17-19.03.18:642][378]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7620.574951
+[2022.08.17-19.03.18:645][379]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 7892.642975
+[2022.08.17-19.03.18:647][380]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8105.259705
+[2022.08.17-19.03.18:649][381]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8309.916687
+[2022.08.17-19.03.18:652][382]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8571.142578
+[2022.08.17-19.03.18:654][383]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 8810.453033
+[2022.08.17-19.03.18:657][384]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9045.803833
+[2022.08.17-19.03.18:659][385]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9314.550018
+[2022.08.17-19.03.18:661][386]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9537.950134
+[2022.08.17-19.03.18:664][387]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9745.031738
+[2022.08.17-19.03.18:666][388]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 9962.15744
+[2022.08.17-19.03.18:669][389]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10234.335327
+[2022.08.17-19.03.18:670][390]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10439.700317
+[2022.08.17-19.03.18:672][391]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10626.322937
+[2022.08.17-19.03.18:674][392]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 10816.985321
+[2022.08.17-19.03.18:676][393]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11004.206848
+[2022.08.17-19.03.18:679][394]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11249.710846
+[2022.08.17-19.03.18:681][395]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11487.913513
+[2022.08.17-19.03.18:684][396]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11775.603485
+[2022.08.17-19.03.18:686][397]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 11985.736847
+[2022.08.17-19.03.18:689][398]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12232.836914
+[2022.08.17-19.03.18:691][399]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12452.666473
+[2022.08.17-19.03.18:693][400]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12710.160828
+[2022.08.17-19.03.18:696][401]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 12972.743225
+[2022.08.17-19.03.18:698][402]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] 13213.35907
+[2022.08.17-19.03.19:232][630]LogWindowsDesktop: Alt-F4 pressed!
+[2022.08.17-19.03.19:243][630]LogSlate: Window 'GravitySpace (64-bit Development PCD3D_ES31) ' being destroyed
+[2022.08.17-19.03.19:243][630]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.19:252][630]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.17-19.03.19:254][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-19.03.19:254][630]LogEngine: All Windows Closed
+[2022.08.17-19.03.19:254][630]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.08.17-19.03.19:254][630]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.08.17-19.03.19:254][630]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.08.17-19.03.19:255][631]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.17-19.03.19:255][631]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.08.17-19.03.19:255][631]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.08.17-19.03.19:255][631]LogInit: Display: PreExit Game.
+[2022.08.17-19.03.19:269][631]LogWorld: BeginTearingDown for /Game/Maps/LVL_GravitySpace
+[2022.08.17-19.03.19:269][631]LogWorld: UWorld::CleanupWorld for LVL_GravitySpace, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-19.03.19:270][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-19.03.19:865][631]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.17-19.03.19:865][631]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.17-19.03.19:865][631]LogAudio: Display: Audio Device unregistered from world 'LVL_GravitySpace'.
+[2022.08.17-19.03.19:908][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.08.17-19.03.19:909][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.08.17-19.03.19:914][631]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.17-19.03.19:916][631]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.08.17-19.03.19:916][631]LogExit: Preparing to exit.
+[2022.08.17-19.03.19:923][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-19.03.19:926][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.17-19.03.20:016][631]LogMoviePlayer: Shutting down movie player
+[2022.08.17-19.03.20:230][631]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.17-19.03.20:239][631]LogExit: Game engine shut down
+[2022.08.17-19.03.20:292][631]LogExit: Object subsystem successfully closed.
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: ================================================
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.17-19.03.20:297][631]LogShaderCompilers: Display: ================================================
+[2022.08.17-19.03.20:308][631]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.17-19.03.20:308][631]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module SequenceRecorder (544)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module AutomationController (542)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module AutomationWorker (540)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module Voice (538)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module AIModule (536)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module GameplayDebugger (535)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module AITestSuite (533)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module NavigationSystem (531)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (528)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (526)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module WebMMedia (524)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (522)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (520)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (518)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module PlanarCut (516)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module CharacterAI (514)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module SessionServices (512)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (510)
+[2022.08.17-19.03.20:337][631]LogModuleManager: Shutting down and abandoning module LiveCoding (508)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (506)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module MovieScene (504)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (502)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module PortalServices (500)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module PortalRpc (498)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module MessagingRpc (496)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (494)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module AudioMixer (493)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module AudioMixerCore (492)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (488)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module TypedElementFramework (486)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (484)
+[2022.08.17-19.03.20:342][631]LogModuleManager: Shutting down and abandoning module ProfilerService (482)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module TaskGraph (480)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (478)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (476)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangePipelines (474)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangeExport (472)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangeMessages (470)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangeImport (468)
+[2022.08.17-19.03.20:542][631]LogModuleManager: Shutting down and abandoning module InterchangeNodes (466)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ResonanceAudio (464)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module Synthesis (462)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (460)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (458)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ModelingOperators (456)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ModelingComponents (454)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module MeshModelingTools (452)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GooglePAD (450)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module DynamicMesh (448)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (446)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (444)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (443)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryCache (440)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (439)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AssetTags (436)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (434)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module CableComponent (432)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AudioCapture (430)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (429)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AndroidPermission (418)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (416)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module TemplateSequence (414)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module SequencerScripting (412)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ControlRigSpline (410)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (408)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module MediaCompositing (406)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ImgMedia (404)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (402)
+[2022.08.17-19.03.20:543][631]LogOpenImageDenoise: OIDN shutting down
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (400)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (398)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (396)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (394)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (393)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (390)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module HotReload (389)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (386)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module ChaosNiagara (384)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module UObjectPlugin (382)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (380)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module BackChannel (378)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module AutomationUtils (376)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (374)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (372)
+[2022.08.17-19.03.20:543][631]LogModuleManager: Shutting down and abandoning module SignificanceManager (370)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (366)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (364)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (362)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundEditor (360)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module AudioWidgets (359)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (358)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (354)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundEngine (352)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (351)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (348)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (346)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (344)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (342)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module GameplayCameras (340)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (338)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (337)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (334)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (332)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module IKRig (330)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (326)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module ControlRig (324)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module LevelSequence (323)
+[2022.08.17-19.03.20:544][631]LogModuleManager: Shutting down and abandoning module UdpMessaging (320)
+[2022.08.17-19.03.20:644][631]LogModuleManager: Shutting down and abandoning module TcpMessaging (318)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (316)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (310)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module Niagara (308)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module SignalProcessing (307)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module NiagaraEditor (305)
+[2022.08.17-19.03.21:203][631]LogModuleManager: Shutting down and abandoning module ContentBrowser (304)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module ToolMenus (303)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module CollectionManager (301)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (300)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module ContentBrowserData (297)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module NiagaraCore (292)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module PBIK (290)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module FullBodyIK (288)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module FacialAnimation (286)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (284)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (282)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module AnimationSharing (280)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (278)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module TreeMap (277)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (274)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (272)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (270)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module AndroidFileServer (268)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module AnimationDataController (262)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2022.08.17-19.03.21:204][631]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module Sequencer (234)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2022.08.17-19.03.21:205][631]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2022.08.17-19.03.21:206][631]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (222)
+[2022.08.17-19.03.21:206][631]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2022.08.17-19.03.21:206][631]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module Messaging (214)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (212)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (210)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module Core (206)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (172)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (170)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (168)
+[2022.08.17-19.03.21:207][631]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (161)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (159)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module AudioFormatBink (157)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (155)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (153)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (151)
+[2022.08.17-19.03.21:209][631]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (149)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormat (147)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (146)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (144)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (142)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (140)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (138)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (136)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module ImageWrapper (135)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module TurnkeySupport (131)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (98)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (96)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.08.17-19.03.21:210][631]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2022.08.17-19.03.21:211][631]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2022.08.17-19.03.21:211][631]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2022.08.17-19.03.21:245][631]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2022.08.17-19.03.21:245][631]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.08.17-19.03.21:255][631]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2022.08.17-19.03.21:256][631]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.08.17-19.03.21:256][631]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.08.17-19.03.21:258][631]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2022.08.17-19.03.21:259][631]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.08.17-19.03.21:260][631]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.08.17-19.03.21:261][631]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.08.17-19.03.21:299][631]LogD3D12RHI: Display: D3D12 ReleaseResources: 22 items to release
+[2022.08.17-19.03.21:299][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 608 x 1280 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.08.17-19.03.21:299][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 608 x 1280 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.08.17-19.03.21:299][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 608 x 1280 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.08.17-19.03.21:300][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.08.17-19.03.21:301][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:302][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.08.17-19.03.21:302][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:302][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.08.17-19.03.21:302][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.08.17-19.03.21:303][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.08.17-19.03.21:303][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.08.17-19.03.21:303][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.08.17-19.03.21:303][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionBrightness", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:303][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "SSProfilePreIntegratedTexture", 64 x 64 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.08.17-19.03.21:304][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 1024 x 32 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.08.17-19.03.21:304][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:304][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:304][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:304][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:305][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.08.17-19.03.21:305][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.08.17-19.03.21:305][631]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.08.17-19.03.21:330][631]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.08.17-19.03.21:330][631]LogExit: Exiting.
+[2022.08.17-19.03.21:399][631]Log file closed, 08/17/22 15:03:21
