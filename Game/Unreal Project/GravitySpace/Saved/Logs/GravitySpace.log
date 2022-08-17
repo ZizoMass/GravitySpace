@@ -1352,3 +1352,780 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.16-19.55.07:017][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2022.08.16-19.58.35:889][173]LogEditorViewport: Clicking Background
 [2022.08.16-19.58.44:794][110]LogContentBrowser: Attempting asset rename: BP_DodgdableObstacle -> BP_DodgdableObstacle
+[2022.08.16-20.17.10:364][716]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.17.10:445][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.16-20.17.29:329][868]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.17.29:333][868]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_DodgdableObstacle.uasset: [Compiler] This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2022.08.16-20.17.29:408][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.16-20.18.29:260][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.16-20.18.29:274][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_GravitySpace_Auto3
+[2022.08.16-20.18.29:275][726]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace_Auto3F03E53024670300942627698D1B7C752.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Maps/LVL_GravitySpace_Auto3.umap'
+[2022.08.16-20.18.29:282][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_GravitySpace' took 0.071
+[2022.08.16-20.18.29:282][726]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2022.08.16-20.18.29:282][726]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_DodgdableObstacle] ([2] browsable assets)...
+[2022.08.16-20.18.29:297][726]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle]
+[2022.08.16-20.18.29:297][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DodgdableObstacle]
+[2022.08.16-20.18.29:306][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_DodgdableObstacle_Auto3
+[2022.08.16-20.18.29:307][726]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacle_Auto3FCFA6E5B407C8831B509E2A6460EDD25.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Blueprints/BP_DodgdableObstacle_Auto3.uasset'
+[2022.08.16-20.18.29:307][726]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.08.16-20.21.04:432][ 30]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.21.04:512][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.16-20.21.35:702][826]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.21.35:762][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.16-20.21.37:351][826]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.21.37:679][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgdableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset" SILENT=true
+[2022.08.16-20.21.37:688][826]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgdableObstacle
+[2022.08.16-20.21.37:689][826]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacle2B5EF24245E490607F9A93B03A1D573F.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset'
+[2022.08.16-20.21.37:692][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.21.37:742][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.16-20.21.37:752][826]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.21.37:753][826]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace453323B044F1A8860F96AA81D75FF2CF.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.21.37:765][826]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.074
+[2022.08.16-20.21.37:803][827]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-20.21.37:803][827]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle
+[2022.08.16-20.21.37:803][827]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.22.56:272][449]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.22.56:354][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.16-20.22.59:622][718]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.22.59:678][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.08.16-20.23.01:729][718]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.23.02:019][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgdableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset" SILENT=true
+[2022.08.16-20.23.02:028][718]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgdableObstacle
+[2022.08.16-20.23.02:029][718]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacle6A1D364D4BD2F2ED3CB29998BC77E78E.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset'
+[2022.08.16-20.23.02:031][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.23.02:079][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.16-20.23.02:089][718]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.23.02:090][718]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace2976E87C4C0A5E997F16339D40305C33.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.23.02:103][718]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.072
+[2022.08.16-20.23.02:137][719]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-20.23.02:137][719]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle
+[2022.08.16-20.23.02:137][719]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.24.26:504][211]LogDerivedDataCache: C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.299 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.16-20.24.34:368][895]Cmd: TRANSACTION UNDO
+[2022.08.16-20.24.34:368][895]LogEditorTransaction: Undo Move Elements
+[2022.08.16-20.24.45:978][851]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.24.46:036][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.16-20.24.46:845][851]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.24.47:046][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.24.47:095][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.16-20.24.47:104][851]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.24.47:105][851]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace7C588CA74A29BB34C8E6B7A13F951CFA.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.24.47:118][851]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.072
+[2022.08.16-20.24.47:153][852]AssetCheck: New page: Asset Save: LVL_GravitySpace
+[2022.08.16-20.24.47:153][852]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.25.13:981][530]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.25.14:065][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.08.16-20.25.19:645][976]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.25.19:701][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.16-20.25.24:317][976]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.25.24:600][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgdableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset" SILENT=true
+[2022.08.16-20.25.24:609][976]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgdableObstacle
+[2022.08.16-20.25.24:610][976]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacleE472C9514746A5A0829C3DB38D453249.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset'
+[2022.08.16-20.25.24:612][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.25.24:661][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.08.16-20.25.24:671][976]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.25.24:672][976]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace72A4645C49F8E49A792477A4565DCB2E.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.25.24:685][976]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.074
+[2022.08.16-20.25.24:718][977]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-20.25.24:719][977]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle
+[2022.08.16-20.25.24:719][977]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.26.37:702][238]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgdableObstacle'
+[2022.08.16-20.26.37:703][238]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle'
+[2022.08.16-20.26.38:855][312]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgdableObstacle'
+[2022.08.16-20.26.38:856][312]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle'
+[2022.08.16-20.27.30:728][718]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.27.30:813][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.16-20.27.34:202][972]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.27.34:206][972]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_DodgdableObstacle.uasset: [Compiler] This blueprint (self) is not a ProjectileMovementComponent, therefore ' Target ' must have a connection.
+[2022.08.16-20.27.34:207][972]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_DodgdableObstacle.uasset: [Compiler] The current value (0, 0, 0) of the ' New Location ' pin is invalid: 'New Location' in action 'Move Interpolation Target' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.08.16-20.27.34:207][972]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_DodgdableObstacle.uasset: [Compiler] The current value (0, 0, 0) of the ' New Rotation ' pin is invalid: 'New Rotation' in action 'Move Interpolation Target' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.08.16-20.27.34:284][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.16-20.28.18:494][584]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.28.19:073][592]LogEditorTransaction: Undo Add Node
+[2022.08.16-20.28.19:656][624]LogEditorTransaction: Undo Add Component Nodes
+[2022.08.16-20.28.20:181][652]LogEditorTransaction: Undo Attach Component
+[2022.08.16-20.28.20:623][675]LogEditorTransaction: Undo Delete current selection
+[2022.08.16-20.28.21:856][750]LogEditorTransaction: Undo Delete current selection
+[2022.08.16-20.28.22:299][770]LogEditorTransaction: Undo Add Node
+[2022.08.16-20.28.35:444][605]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgdableObstacle'
+[2022.08.16-20.28.35:445][605]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle'
+[2022.08.16-20.29.03:108][880]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgdableObstacle'
+[2022.08.16-20.29.03:108][880]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle'
+[2022.08.16-20.29.09:696][300]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.16-20.29.09:898][301]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgdableObstacle'
+[2022.08.16-20.29.09:898][301]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle'
+[2022.08.16-20.29.12:512][459]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.29.12:611][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.16-20.29.12:763][460]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgdableObstacle'
+[2022.08.16-20.29.12:764][460]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle'
+[2022.08.16-20.29.42:146][527]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.29.42:203][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.16-20.29.43:961][527]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.29.44:239][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgdableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset" SILENT=true
+[2022.08.16-20.29.44:249][527]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgdableObstacle
+[2022.08.16-20.29.44:250][527]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacle8941FA014680D3D886B7EC9E9510BA07.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset'
+[2022.08.16-20.29.44:253][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.29.44:300][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.08.16-20.29.44:311][527]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.29.44:312][527]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace49095F1845CCD366A03D128473BA7C38.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.29.44:325][527]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.073
+[2022.08.16-20.29.44:363][528]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-20.29.44:363][528]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle
+[2022.08.16-20.29.44:363][528]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.29.59:498][711]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.16-20.29.59:498][711]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.08.16-20.30.05:549][105]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.30.05:605][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.08.16-20.30.08:315][105]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.30.08:547][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.30.08:595][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.08.16-20.30.08:605][105]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.30.08:606][105]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace114C86774B4BAF18133B8EA1E1A5511E.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.30.08:618][105]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.072
+[2022.08.16-20.30.08:656][106]AssetCheck: New page: Asset Save: LVL_GravitySpace
+[2022.08.16-20.30.08:656][106]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.30.51:934][173]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.30.52:020][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.16-20.31.33:886][715]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-20.31.33:973][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.16-20.31.37:980][ 58]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.31.38:037][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.16-20.31.39:209][ 58]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.31.39:483][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgdableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset" SILENT=true
+[2022.08.16-20.31.39:493][ 58]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgdableObstacle
+[2022.08.16-20.31.39:494][ 58]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacle13A2DFA84CAE6B59E5E59CAA312D02B1.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset'
+[2022.08.16-20.31.39:496][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-20.31.39:544][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.08.16-20.31.39:555][ 58]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-20.31.39:556][ 58]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace97C25F8A4B0375BD471894B70D414C20.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-20.31.39:568][ 58]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.073
+[2022.08.16-20.31.39:602][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-20.31.39:602][ 59]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle
+[2022.08.16-20.31.39:603][ 59]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-20.32.02:972][307]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.32.03:030][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.16-20.32.43:331][184]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.32.43:387][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.08.16-20.32.45:175][184]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.32.45:444][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.32.45:478][184]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.32.45:479][184]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship052650354CFA76042DBB4EBB456AED5D.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.32.45:515][185]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.32.45:515][185]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.33.16:723][630]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.33.16:832][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.16-20.33.19:517][808]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.33.19:574][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.16-20.33.21:661][808]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.33.21:891][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.33.21:922][808]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.33.21:923][808]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipF5CA09AF4C821B46CF5BB5BF15533CF4.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.33.21:961][809]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.33.21:961][809]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.37.23:733][436]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.37.23:839][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.16-20.37.25:242][509]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.37.25:298][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.16-20.37.30:937][509]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.37.31:161][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.37.31:192][509]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.37.31:193][509]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship039AF75B4CDB3A112B06FA9B5AE3270F.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.37.31:233][510]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.37.31:233][510]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.38.54:739][807]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.38.54:845][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.16-20.38.55:952][880]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.38.56:008][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.16-20.38.58:615][880]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.38.58:826][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.38.58:857][880]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.38.58:858][880]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship770A962B472150E544792DA210F493CD.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.38.58:895][881]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.38.58:895][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.39.41:948][877]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.39.42:053][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.16-20.39.43:069][932]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.39.43:126][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.16-20.39.45:467][932]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.39.45:694][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.39.45:726][932]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.39.45:727][932]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship8C9261064462822FAF411CA23E85BE08.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.39.45:765][933]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.39.45:766][933]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.40.46:274][805]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.40.46:329][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.08.16-20.40.48:135][805]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.40.48:360][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.40.48:392][805]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.40.48:393][805]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipC82A67524E5221C41B78AE9A5C5954DF.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.40.48:436][806]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.40.48:436][806]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.47.24:232][891]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.49.19:160][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.16-20.49.19:166][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_GravitySpace' took 0.059
+[2022.08.16-20.49.19:166][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CharacterSpaceship] ([2] browsable assets)...
+[2022.08.16-20.49.19:185][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship]
+[2022.08.16-20.49.19:185][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CharacterSpaceship]
+[2022.08.16-20.49.19:219][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto4
+[2022.08.16-20.49.19:220][ 77]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship_Auto4CBA47EBE42BAD8D4397BE3909E41A0C0.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto4.uasset'
+[2022.08.16-20.49.19:221][ 77]LogFileHelpers: Auto-saving content packages took 0.056
+[2022.08.16-20.50.08:162][507]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.50.08:272][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.16-20.50.11:068][645]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.50.11:129][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.16-20.50.13:483][645]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.50.13:767][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.50.13:801][645]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.50.13:802][645]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipBC629F1D42B82DA11E80A7BD475E786F.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.50.13:850][646]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.50.13:850][646]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.50.55:253][934]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.50.55:603][937]LogEditorTransaction: Undo Create Reroute Node
+[2022.08.16-20.50.55:885][939]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.50.56:193][948]LogEditorTransaction: Undo Create Reroute Node
+[2022.08.16-20.50.56:520][956]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.50.56:940][970]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.50.57:473][991]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.50.57:936][  8]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.50.58:232][ 15]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.50.58:565][ 23]LogEditorTransaction: Undo Delete current selection
+[2022.08.16-20.50.58:897][ 32]LogEditorTransaction: Undo Break Pin Links
+[2022.08.16-20.50.59:338][ 47]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.50.59:776][ 62]LogEditorTransaction: Undo Paste clipboard contents
+[2022.08.16-20.51.00:200][ 76]LogEditorTransaction: Undo Move Nodes
+[2022.08.16-20.51.00:536][ 86]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.08.16-20.51.00:844][ 94]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.08.16-20.51.01:093][ 99]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.51.01:375][106]LogEditorTransaction: Undo Create Reroute Node
+[2022.08.16-20.51.01:795][121]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.51.02:196][135]LogEditorTransaction: Undo Create Reroute Node
+[2022.08.16-20.51.02:674][153]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.51.03:231][176]LogEditorTransaction: Undo Break Pin Links
+[2022.08.16-20.51.03:766][198]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.51.04:306][220]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.51.04:871][243]LogEditorTransaction: Undo Move Node
+[2022.08.16-20.51.05:398][264]LogEditorTransaction: Undo Add Node
+[2022.08.16-20.51.08:080][395]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.51.08:210][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.08.16-20.51.09:354][448]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.51.09:412][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.16-20.52.56:934][448]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.52.57:160][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.52.57:193][448]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.52.57:194][448]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship003E67DA4DFC0F405DB8B498F84BBF7C.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.52.57:243][449]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.52.57:243][449]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.53.25:473][695]LogEditorTransaction: Undo Create Pin Link
+[2022.08.16-20.53.26:842][746]LogEditorTransaction: Undo Break Pin Links
+[2022.08.16-20.53.27:941][800]LogEditorTransaction: Undo Break Pin Links
+[2022.08.16-20.54.43:132][273]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.54.43:246][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.08.16-20.54.44:339][334]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.54.44:396][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.16-20.54.47:899][334]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.54.48:125][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.54.48:158][334]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.54.48:159][334]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship10D2505F47EE1030870BF1B335DD501C.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.54.48:197][335]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.54.48:197][335]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-20.55.51:034][485]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-20.55.51:142][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.16-20.55.55:992][826]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-20.55.56:051][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.16-20.56.02:565][826]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-20.56.02:794][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-20.56.02:827][826]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-20.56.02:828][826]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship07DAA50B43FCA47E1789F3B917DBA654.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-20.56.02:868][827]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-20.56.02:868][827]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.00.33:156][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.16-21.00.33:163][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_GravitySpace' took 0.059
+[2022.08.16-21.00.33:164][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CharacterSpaceship] ([2] browsable assets)...
+[2022.08.16-21.00.33:185][754]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship]
+[2022.08.16-21.00.33:185][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CharacterSpaceship]
+[2022.08.16-21.00.33:218][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto5
+[2022.08.16-21.00.33:219][754]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship_Auto591ED85484EB912D0A8FC3E97D82F0735.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto5.uasset'
+[2022.08.16-21.00.33:220][754]LogFileHelpers: Auto-saving content packages took 0.056
+[2022.08.16-21.00.53:836][ 37]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.00.53:945][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.16-21.01.21:021][663]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.01.21:128][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.16-21.01.23:372][795]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.01.23:430][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.08.16-21.01.24:825][795]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.01.25:062][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.01.25:097][795]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.01.25:098][795]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipA66C8350484282730171688786F56C6F.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.01.25:139][796]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-21.01.25:139][796]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.04.18:902][875]LogEditorTransaction: Undo Move Node
+[2022.08.16-21.04.31:339][658]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.04.31:447][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.16-21.04.44:857][591]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.04.44:916][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.16-21.04.49:166][591]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.04.49:403][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.04.49:439][591]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.04.49:440][591]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship449F5C6743A890B6FE4CDD91772DFE32.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.04.49:480][592]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-21.04.49:480][592]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.05.42:092][297]LogEditorTransaction: Undo Move Node
+[2022.08.16-21.06.01:208][426]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.06.01:319][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.16-21.06.02:469][474]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.06.02:526][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.08.16-21.06.21:489][474]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.06.21:713][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.06.21:749][474]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.06.21:750][474]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship2B7D3F1F4A0A7AF18E8ED891E622AAFE.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.06.21:794][475]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-21.06.21:794][475]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.07.10:182][397]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.07.10:289][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.08.16-21.07.55:320][851]LogEditorViewport: Clicking Background
+[2022.08.16-21.08.00:115][377]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.08.00:172][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.08.16-21.08.02:756][377]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.08.02:992][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.08.03:026][377]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.08.03:027][377]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship30BBDA424EAE95E2FB2C8A9C3A080298.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.08.03:059][378]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-21.08.03:059][378]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.08.39:370][793]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.08.39:484][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.16-21.08.40:764][873]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.08.40:819][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.16-21.09.07:201][873]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.09.07:488][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.09.07:524][873]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.09.07:526][873]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship752600F44B5A28D28427BB98E6736D8D.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.09.07:528][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-21.09.07:576][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.08.16-21.09.07:588][873]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-21.09.07:589][873]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpaceCBBDA70449C5579EE49165ACEDC0F001.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-21.09.07:602][873]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.074
+[2022.08.16-21.09.07:639][874]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-21.09.07:639][874]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-21.09.07:639][874]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.11.48:540][ 88]BlueprintLog: New page: Compile BP_DodgdableObstacle
+[2022.08.16-21.11.48:636][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.08.16-21.18.01:280][714]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.18.01:390][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.16-21.18.04:568][942]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.18.04:624][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.16-21.18.13:420][942]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.18.13:705][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.18.13:740][942]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.18.13:741][942]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipB002AEC7400459C6825803BFA53367AA.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.18.13:756][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgdableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset" SILENT=true
+[2022.08.16-21.18.13:765][942]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgdableObstacle
+[2022.08.16-21.18.13:766][942]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgdableObstacle6E0CBB7940F943581E7634B41FE76153.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgdableObstacle.uasset'
+[2022.08.16-21.18.13:768][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-21.18.13:818][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.08.16-21.18.13:828][942]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-21.18.13:829][942]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace137B89C345E5275C46FC3CAE044EFE9A.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-21.18.13:842][942]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.074
+[2022.08.16-21.18.13:880][943]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-21.18.13:880][943]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgdableObstacle.BP_DodgdableObstacle
+[2022.08.16-21.18.13:880][943]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-21.18.13:880][943]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.18.42:458][173]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.18.42:516][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.16-21.20.14:242][348]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.20.14:251][348]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_CharacterSpaceship.uasset: [Compiler] BaseAsyncTask: Internal connection error.  Task Wait Delay
+[2022.08.16-21.20.14:263][348]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_CharacterSpaceship.uasset: [Compiler] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2022.08.16-21.20.14:352][348]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.08.16-21.24.26:639][690]LogDerivedDataCache: C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.277 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.16-21.28.37:302][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.08.16-21.28.37:304][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_GravitySpace' took 0.059
+[2022.08.16-21.28.37:305][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CharacterSpaceship] ([2] browsable assets)...
+[2022.08.16-21.28.37:322][871]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship]
+[2022.08.16-21.28.37:322][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CharacterSpaceship]
+[2022.08.16-21.28.37:359][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto6
+[2022.08.16-21.28.37:360][871]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship_Auto62D25D6AC40F33DCAF130ADBDA272A4AE.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto6.uasset'
+[2022.08.16-21.28.37:361][871]LogFileHelpers: Auto-saving content packages took 0.057
+[2022.08.16-21.29.32:437][542]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.29.32:455][542]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_CharacterSpaceship.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.08.16-21.29.32:542][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.16-21.29.39:451][ 33]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.16-21.29.45:110][372]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.29.45:219][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.16-21.31.00:360][384]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.31.00:379][384]LogBlueprint: Error: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_CharacterSpaceship.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.08.16-21.31.00:470][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.16-21.32.04:689][970]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.32.04:799][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.08.16-21.32.11:641][373]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.32.11:699][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.08.16-21.32.16:273][373]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.32.16:529][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.32.16:567][373]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.32.16:568][373]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipCC89929C454CFCE0BDCCB8B1CA27E3DE.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.32.16:617][374]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-21.32.16:617][374]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.33.25:550][332]LogEditorTransaction: Undo Delete current selection
+[2022.08.16-21.33.27:465][424]LogEditorTransaction: Undo Delete current selection
+[2022.08.16-21.35.59:049][767]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.35.59:176][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.16-21.36.14:912][962]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.14:912][962]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.14:913][962]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.16:621][ 91]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.16:663][ 94]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.16:765][101]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/Anisotropy.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/Anisotropy.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.17:607][144]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.17:718][148]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.16-21.36.22:319][396]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.23:172][444]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/Anisotropy.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/Anisotropy.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.23:189][445]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.23:460][461]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.23:477][462]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.23:512][464]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/BaseColor.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/BaseColor.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.25:811][597]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/BlinkingCaret.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/BlinkingCaret.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.36.37:126][242]LogEditorTransaction: Undo Change Object Pin Value
+[2022.08.16-21.36.37:476][243]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.16-21.36.48:389][852]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-21.37.16:308][408]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.37.16:441][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.16-21.38.00:092][636]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.38.00:203][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.16-21.39.05:796][493]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.39.05:911][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.16-21.39.07:392][580]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.39.07:458][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.16-21.39.10:868][580]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.39.11:103][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.39.11:143][580]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.39.11:144][580]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipB5BDA66B41217D41A245B4B3A436A8C9.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.39.11:185][581]AssetCheck: New page: Asset Save: BP_CharacterSpaceship
+[2022.08.16-21.39.11:185][581]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.40.19:444][256]LogEditorViewport: Clicking Background
+[2022.08.16-21.41.34:020][542]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-21.42.10:563][542]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.16-21.42.10:574][542]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.16-21.42.10:584][542]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.16-21.42.10:602][543]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.16-21.42.21:236][453]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ElementsSpawner
+[2022.08.16-21.42.21:380][453]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.16-21.42.37:505][877]LogViewport: Scene viewport resized to 678x622, mode Windowed.
+[2022.08.16-21.42.37:554][877]LogViewport: Scene viewport resized to 678x629, mode Windowed.
+[2022.08.16-21.42.37:598][877]LogViewport: Scene viewport resized to 678x622, mode Windowed.
+[2022.08.16-21.42.37:639][877]LogViewport: Scene viewport resized to 678x629, mode Windowed.
+[2022.08.16-21.42.37:709][879]LogViewport: Scene viewport resized to 678x563, mode Windowed.
+[2022.08.16-21.42.37:750][879]LogViewport: Scene viewport resized to 678x688, mode Windowed.
+[2022.08.16-21.42.37:791][879]LogViewport: Scene viewport resized to 678x563, mode Windowed.
+[2022.08.16-21.42.37:832][879]LogViewport: Scene viewport resized to 678x688, mode Windowed.
+[2022.08.16-21.42.38:006][892]LogViewport: Scene viewport resized to 678x545, mode Windowed.
+[2022.08.16-21.42.38:052][892]LogViewport: Scene viewport resized to 678x706, mode Windowed.
+[2022.08.16-21.42.38:094][892]LogViewport: Scene viewport resized to 678x545, mode Windowed.
+[2022.08.16-21.42.38:137][892]LogViewport: Scene viewport resized to 678x706, mode Windowed.
+[2022.08.16-21.42.38:205][894]LogViewport: Scene viewport resized to 678x435, mode Windowed.
+[2022.08.16-21.42.38:249][894]LogViewport: Scene viewport resized to 678x816, mode Windowed.
+[2022.08.16-21.42.38:289][894]LogViewport: Scene viewport resized to 678x435, mode Windowed.
+[2022.08.16-21.42.38:331][894]LogViewport: Scene viewport resized to 678x816, mode Windowed.
+[2022.08.16-21.42.41:243][148]LogViewport: Scene viewport resized to 681x435, mode Windowed.
+[2022.08.16-21.42.41:287][148]LogViewport: Scene viewport resized to 681x816, mode Windowed.
+[2022.08.16-21.42.41:328][148]LogViewport: Scene viewport resized to 675x435, mode Windowed.
+[2022.08.16-21.42.41:372][148]LogViewport: Scene viewport resized to 675x816, mode Windowed.
+[2022.08.16-21.42.41:439][150]LogViewport: Scene viewport resized to 765x435, mode Windowed.
+[2022.08.16-21.42.41:480][150]LogViewport: Scene viewport resized to 765x816, mode Windowed.
+[2022.08.16-21.42.41:520][150]LogViewport: Scene viewport resized to 591x435, mode Windowed.
+[2022.08.16-21.42.41:561][150]LogViewport: Scene viewport resized to 591x816, mode Windowed.
+[2022.08.16-21.42.41:627][152]LogViewport: Scene viewport resized to 895x435, mode Windowed.
+[2022.08.16-21.42.41:670][152]LogViewport: Scene viewport resized to 895x816, mode Windowed.
+[2022.08.16-21.42.41:709][152]LogViewport: Scene viewport resized to 461x435, mode Windowed.
+[2022.08.16-21.42.41:754][152]LogViewport: Scene viewport resized to 461x816, mode Windowed.
+[2022.08.16-21.42.41:810][153]LogViewport: Scene viewport resized to 941x435, mode Windowed.
+[2022.08.16-21.42.41:849][153]LogViewport: Scene viewport resized to 941x816, mode Windowed.
+[2022.08.16-21.42.41:890][153]LogViewport: Scene viewport resized to 415x435, mode Windowed.
+[2022.08.16-21.42.41:933][153]LogViewport: Scene viewport resized to 415x816, mode Windowed.
+[2022.08.16-21.42.41:998][155]LogViewport: Scene viewport resized to 942x435, mode Windowed.
+[2022.08.16-21.42.42:042][155]LogViewport: Scene viewport resized to 942x816, mode Windowed.
+[2022.08.16-21.42.42:082][155]LogViewport: Scene viewport resized to 414x435, mode Windowed.
+[2022.08.16-21.42.42:124][155]LogViewport: Scene viewport resized to 414x816, mode Windowed.
+[2022.08.16-21.42.44:597][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner_C
+[2022.08.16-21.42.44:597][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner_C
+[2022.08.16-21.42.44:598][362]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner as actor: BP_ElementsSpawner_C /Game/Maps/LVL_GravitySpace.LVL_GravitySpace:PersistentLevel.BP_ElementsSpawner_C_0
+[2022.08.16-21.42.44:599][362]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner as actor: BP_ElementsSpawner_C /Game/Maps/LVL_GravitySpace.LVL_GravitySpace:PersistentLevel.BP_ElementsSpawner_C_0
+[2022.08.16-21.42.45:192][413]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner_C
+[2022.08.16-21.42.45:192][413]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner_C
+[2022.08.16-21.42.45:193][413]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner as actor: BP_ElementsSpawner_C /Game/Maps/LVL_GravitySpace.LVL_GravitySpace:PersistentLevel.BP_ElementsSpawner_C_1
+[2022.08.16-21.42.45:194][413]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner as actor: BP_ElementsSpawner_C /Game/Maps/LVL_GravitySpace.LVL_GravitySpace:PersistentLevel.BP_ElementsSpawner_C_1
+[2022.08.16-21.43.15:845][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner
+[2022.08.16-21.43.15:845][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-21.43.16:292][661]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.16-21.43.16:483][661]LogViewport: Scene viewport resized to 894x974, mode Windowed.
+[2022.08.16-21.44.04:062][500]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ElementsSpawner'
+[2022.08.16-21.44.04:062][500]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner'
+[2022.08.16-21.44.19:317][656]BlueprintLog: New page: Compile BP_ElementsSpawner
+[2022.08.16-21.44.19:410][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.16-21.44.19:529][657]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ElementsSpawner'
+[2022.08.16-21.44.43:384][469]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ElementsSpawner'
+[2022.08.16-21.48.08:265][480]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ElementsSpawner'
+[2022.08.16-21.48.21:504][498]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_ElementsSpawner'
+[2022.08.16-21.48.42:929][265]BlueprintLog: New page: Compile BP_ElementsSpawner
+[2022.08.16-21.48.43:020][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.16-21.48.55:324][121]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.48.55:388][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.08.16-21.48.57:321][121]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.48.57:591][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ElementsSpawner" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset" SILENT=true
+[2022.08.16-21.48.57:597][121]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ElementsSpawner
+[2022.08.16-21.48.57:597][121]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_ElementsSpawner9C1CEA214E4FCC91856BE1AB241F9410.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset'
+[2022.08.16-21.48.57:599][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-21.48.57:655][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.16-21.48.57:666][121]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-21.48.57:667][121]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace7B32B0A54485D7743E70918772B52097.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-21.48.58:028][121]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.430
+[2022.08.16-21.48.58:061][122]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-21.48.58:061][122]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-21.48.58:061][122]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner
+[2022.08.16-21.50.16:924][446]BlueprintLog: New page: Compile BP_CharacterSpaceship
+[2022.08.16-21.50.17:050][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.08.16-21.50.18:604][525]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.16-21.50.18:669][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.16-21.53.19:050][525]LogWindowsTextInputMethodSystem: Activated input method: Inglês (Canadá) - (Keyboard).
+[2022.08.16-21.53.19:050][525]LogWindowsTextInputMethodSystem: Activated input method: Inglês (Canadá) - (Keyboard).
+[2022.08.16-21.53.20:135][525]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-21.53.20:407][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CharacterSpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" SILENT=true
+[2022.08.16-21.53.20:450][525]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CharacterSpaceship
+[2022.08.16-21.53.20:451][525]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceshipE26E18A84EB8E5F1B5D0FEAE62D4D966.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset'
+[2022.08.16-21.53.20:453][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ElementsSpawner" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset" SILENT=true
+[2022.08.16-21.53.20:459][525]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ElementsSpawner
+[2022.08.16-21.53.20:460][525]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_ElementsSpawner519BB920457A776A8C489BAC38833450.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset'
+[2022.08.16-21.53.20:463][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-21.53.20:523][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.08.16-21.53.20:535][525]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-21.53.20:536][525]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpaceA1E42DEE4B9DD6150CA423B31C1B064B.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-21.53.20:550][525]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.088
+[2022.08.16-21.53.20:596][526]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-21.53.20:596][526]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-21.53.20:596][526]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner
+[2022.08.16-21.53.20:596][526]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship
+[2022.08.16-21.54.23:937][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-21.54.23:997][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.16-21.54.24:008][995]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.16-21.54.24:009][995]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpaceC0CDF7A348CE1478873728994D284604.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.16-21.54.24:044][995]AssetCheck: New page: Asset Save: LVL_GravitySpace
+[2022.08.16-21.54.24:044][995]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.16-22.24.26:611][637]LogDerivedDataCache: C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.363 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.16-23.24.26:447][304]LogDerivedDataCache: C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.188 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.16-23.43.19:748][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.08.16-23.43.19:770][441]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.16-23.44.21:557][991]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.08.16-23.44.21:578][991]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.16-23.45.39:279][212]LogEditorTransaction: Undo Move Nodes
+[2022.08.16-23.45.42:370][356]LogEditorTransaction: Undo Rename Component Variable
+[2022.08.16-23.45.44:603][461]LogEditorTransaction: Undo Add Component
+[2022.08.16-23.45.51:022][815]LogEditorTransaction: Redo Add Component
+[2022.08.16-23.45.51:030][815]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.BP_CharacterSpaceship_C_0.CollisionCylinder) Component already registered.
+[2022.08.16-23.45.51:036][815]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.BP_CharacterSpaceship_C_0.CollisionCylinder) Component already registered.
+[2022.08.16-23.45.53:013][899]LogEditorTransaction: Redo Rename Component Variable
+[2022.08.16-23.45.54:889][987]LogEditorTransaction: Redo Move Nodes
+[2022.08.16-23.46.37:219][578]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_CharacterSpaceship'
+[2022.08.16-23.46.37:222][578]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship'
+[2022.08.16-23.46.59:026][962]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_CharacterSpaceship'
+[2022.08.16-23.46.59:027][962]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship'
+[2022.08.16-23.47.04:524][331]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_CharacterSpaceship'
+[2022.08.16-23.47.04:525][331]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship'
+[2022.08.16-23.47.57:233][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.08.16-23.47.57:243][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_GravitySpace' took 0.083
+[2022.08.16-23.47.57:244][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CharacterSpaceship] ([2] browsable assets)...
+[2022.08.16-23.47.57:262][339]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship]
+[2022.08.16-23.47.57:262][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CharacterSpaceship]
+[2022.08.16-23.47.57:309][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto7
+[2022.08.16-23.47.57:310][339]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship_Auto714D6A9584CF7B72735152793BAA9BF90.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto7.uasset'
+[2022.08.16-23.47.57:312][339]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.08.16-23.49.16:028][717]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-23.49.54:903][717]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.16-23.49.54:918][717]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.16-23.49.54:931][717]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.16-23.49.54:955][718]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.16-23.50.12:423][797]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CharacterBullet
+[2022.08.16-23.50.12:594][797]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.16-23.50.14:862][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CharacterBullet.BP_CharacterBullet
+[2022.08.16-23.50.14:863][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-23.50.35:503][491]LogContentBrowser: Attempting asset rename: BP_CharacterBullet -> BP_CharacterBullet
+[2022.08.16-23.50.36:682][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.16-23.50.38:051][569]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.16-23.50.38:132][569]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-23.50.38:132][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-23.50.38:193][569]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_CharacterBullet.BP_CharacterBullet
+	Asset Type: Blueprint
+[2022.08.16-23.50.38:970][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.16-23.50.39:036][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.08.16-23.50.39:095][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.16-23.50.43:178][795]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-23.50.44:836][795]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.16-23.50.44:851][795]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.16-23.50.44:864][795]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.16-23.50.44:884][796]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.16-23.50.47:147][945]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CharacterBullet
+[2022.08.16-23.50.47:318][945]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.16-23.50.48:426][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CharacterBullet.BP_CharacterBullet
+[2022.08.16-23.50.48:427][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-23.50.48:869][ 20]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.16-23.50.49:091][ 20]LogViewport: Scene viewport resized to 894x976, mode Windowed.
+[2022.08.16-23.51.29:139][458]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.29:139][458]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.29:139][458]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.30:986][568]LogMaterial: Display: Missing cached shadermap for 3dParticleOpacity_Mat in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 0141F288BED2EF9B2531F8A40B90E087B0141CF1), compiling. 
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: ================================================
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Total job queries 252, among them cache hits 0 (0.00%)
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Tracking 235 distinct input hashes that result in 161 distinct outputs (68.51%)
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Shaders Compiled: 210
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Jobs assigned 267, completed 250 (93.63%)
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Average time worker was idle: 4.74 s
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.12 s
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Job execution time: average 18.31 s, max 74.27 s
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Job life time (pending + execution): average 18.33 s, max 74.27
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 107.16 s
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Jobs were issued in 140 batches (101 local, 39 distributed), average 1.91 jobs/batch (1.00 jobs/local batch. 4.26 jobs/distributed batch)
+[2022.08.16-23.51.35:116][763]LogShaderCompilers: Display: Average processing rate: 2.33 jobs/sec
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.05% of total time (compiled   23 times, average 0.70 sec, max 0.82 sec, min 0.64 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.96% of total time (compiled   23 times, average 0.70 sec, max 0.80 sec, min 0.62 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.90% of total time (compiled   23 times, average 0.64 sec, max 0.98 sec, min 0.57 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.85% of total time (compiled   23 times, average 0.28 sec, max 0.57 sec, min 0.24 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display:                TMobileBasePassVSFNoLightMapPolicyHDRLinear64 - 3.60% of total time (compiled   11 times, average 0.44 sec, max 0.54 sec, min 0.41 sec)
+[2022.08.16-23.51.35:117][763]LogShaderCompilers: Display: ================================================
+[2022.08.16-23.51.47:970][451]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.47:970][451]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.47:970][451]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.48:674][497]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.48:941][514]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/Anisotropy.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization/Anisotropy.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.49:133][525]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.50:083][580]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.50:638][614]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.51.50:852][626]LogMaterial: Display: Missing cached shadermap for AntiAliasedTextMaterialTranslucent in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 0813AD5B0C137C5378CA847649D1C595FFD261F5), compiling. 
+[2022.08.16-23.52.08:016][528]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.08:197][539]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization: 'C:/Epic Games/UE_5.0/Engine/Content/BufferVisualization' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.08:197][539]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.08:197][539]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.08:197][539]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.11:958][769]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.13:445][863]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.13:445][863]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/FlowMaps.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/FlowMaps.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.13:445][863]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/VREditor/FloatingText/LineMaterial.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/VREditor/FloatingText/LineMaterial.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.13:445][863]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.13:445][863]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float_Mat.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float_Mat.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.14:654][938]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.14:655][938]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.14:655][938]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.17:016][ 86]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.24:712][544]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01_Inst.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01_Inst.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.25:474][583]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.25:786][599]LogMaterial: Display: Missing cached shadermap for M_FlipbookPreview_01 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: B87A9822C02331C1B42D0B9AE7E2A0AFE4DBB806), compiling. 
+[2022.08.16-23.52.37:423][214]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorResources: 'C:/Epic Games/UE_5.0/Engine/Content/EditorResources' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.37:473][217]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Particles/ParticleSpriteEmitter.h: 'C:/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Particles/ParticleSpriteEmitter.h' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.52.37:473][217]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.14:165][  2]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 1A9C172157A8721B97E7F2567A3D7F977E121847), compiling. 
+[2022.08.16-23.53.14:169][  2]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DB35FE34A274DDE5FE68736B493116439E57144), compiling. 
+[2022.08.16-23.53.15:227][ 49]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook_UniformNonUniform.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook_UniformNonUniform.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.15:227][ 49]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/MAXScripts/MS_SequencePainter_SequenceFlipbook.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/MAXScripts/MS_SequencePainter_SequenceFlipbook.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.15:814][ 76]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/MaterialFunctions: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/MaterialFunctions' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.15:814][ 76]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.15:814][ 76]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Debug: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Debug' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.15:814][ 76]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Textures/FlipbookMotionVectors/Position1.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Textures/FlipbookMotionVectors/Position1.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.16:665][122]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.16:665][122]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.16:665][122]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.16:665][122]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.21:262][348]LogMaterial: Display: Missing cached shadermap for M_FlipbookLocalCoordinateTest_01 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: A8AEBF33A45B8AD93EE2195E9CEA049BBC2F110E), compiling. 
+[2022.08.16-23.53.23:627][458]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 1072DE989ADE73E12E61D3F6842EB9E9CF78E9DC), compiling. 
+[2022.08.16-23.53.23:630][458]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6FCAE5F3DB3729AD124A4D43D3DE94D7F7AEB8B8), compiling. 
+[2022.08.16-23.53.28:779][696]LogMaterial: Display: Missing cached shadermap for M_FlipBookCounter_01 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: CEA7D9478875A461B088F7BBEAE8752B505DDC06), compiling. 
+[2022.08.16-23.53.35:265][968]LogMaterial: Display: Missing cached shadermap for M_TestFlipbookAnimation in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 1BE5AAA00BC4A76623D2C80F4D2BAF0BB9E28852), compiling. 
+[2022.08.16-23.53.49:588][640]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: AA1DC509C695D76D8F82E38F3885B89223225C0D), compiling. 
+[2022.08.16-23.53.49:591][640]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 39E911BCBF12B7DD0C9EFDF18721DB809F88BD40), compiling. 
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials: 'C:/Epic Games/UE_5.0/Engine/Content/EngineMaterials' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/MaterialFunctions: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/MaterialFunctions' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Enums: 'C:/Epic Games/UE_5.0/Engine/Content/ArtTools/RenderToTexture/Enums' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/Ellipsoid-ConeShadow-Texture.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/Ellipsoid-ConeShadow-Texture.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorResources: 'C:/Epic Games/UE_5.0/Engine/Content/EditorResources' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Source/Editor/UnrealEd/Classes/Factories/FbxTextureImportData.h: 'C:/Epic Games/UE_5.0/Engine/Source/Editor/UnrealEd/Classes/Factories/FbxTextureImportData.h' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.53.58:097][ 20]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/GizmoTexture.uasset: 'C:/Epic Games/UE_5.0/Engine/Content/EditorLandscapeResources/GizmoTexture.uasset' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.16-23.55.18:751][245]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.16-23.55.18:780][245]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.16-23.55.18:806][246]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.16-23.55.21:632][405]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2022.08.16-23.55.21:633][405]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.16-23.55.33:704][ 57]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.08.16-23.55.33:704][ 57]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.08.16-23.55.40:237][376]LogSavePackage: Moving output files for package: /Game/Assets/Spaceship/StarSparrow01_PhysicsAsset
+[2022.08.16-23.55.40:237][376]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_PhysicsAsset5216AD824E38DB5AC47E238C7F39D7E7.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01_PhysicsAsset.uasset'
+[2022.08.16-23.55.40:266][376]LogSavePackage: Moving output files for package: /Game/Characters/Spaceship/StarSparrow01_PhysicsAsset
+[2022.08.16-23.55.40:267][376]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_PhysicsAsset8F8A7CE646B11544877A3A999CAA2879.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Characters/Spaceship/StarSparrow01_PhysicsAsset.uasset'
+[2022.08.16-23.55.40:269][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Spaceship/StarSparrow01_Skeleton" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01_Skeleton.uasset" SILENT=true
+[2022.08.16-23.55.40:270][376]LogSavePackage: Moving output files for package: /Game/Assets/Spaceship/StarSparrow01_Skeleton
+[2022.08.16-23.55.40:270][376]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_Skeleton8542590B4FFC3D02EFD3059A9E2D0012.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01_Skeleton.uasset'
+[2022.08.16-23.55.40:278][376]LogSavePackage: Moving output files for package: /Game/Characters/Spaceship/StarSparrow01_Skeleton
+[2022.08.16-23.55.40:280][376]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_Skeleton922FF5DB4B1D9144DBB61B9704CC66BE.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Characters/Spaceship/StarSparrow01_Skeleton.uasset'
+[2022.08.16-23.55.40:313][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Spaceship/StarSparrow01" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01.uasset" SILENT=true
+[2022.08.16-23.55.40:337][376]LogSavePackage: Moving output files for package: /Game/Assets/Spaceship/StarSparrow01
+[2022.08.16-23.55.40:337][376]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01107FBE82497C439FBDEF1681308F57EF.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01.uasset'
+[2022.08.16-23.55.40:339][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Spaceship/StarSparrow01" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Characters/Spaceship/StarSparrow01.uasset" SILENT=true
+[2022.08.16-23.55.40:340][376]LogSavePackage: Moving output files for package: /Game/Characters/Spaceship/StarSparrow01
+[2022.08.16-23.55.40:341][376]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01A35045FD44664A4ED86C87887C1C52E1.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Characters/Spaceship/StarSparrow01.uasset'
+[2022.08.16-23.55.42:160][376]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-23.55.42:161][376]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/Spaceship/StarSparrow01.StarSparrow01
+[2022.08.16-23.55.42:161][376]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/Spaceship/StarSparrow01_Skeleton.StarSparrow01_Skeleton
+[2022.08.16-23.55.42:161][376]LogContentValidation: Display: Validating ObjectRedirector /Game/Characters/Spaceship/StarSparrow01_PhysicsAsset.StarSparrow01_PhysicsAsset
+[2022.08.16-23.55.42:161][376]LogContentValidation: Display: Validating PhysicsAsset /Game/Assets/Spaceship/StarSparrow01_PhysicsAsset.StarSparrow01_PhysicsAsset
+[2022.08.16-23.55.42:161][376]LogContentValidation: Display: Validating Skeleton /Game/Assets/Spaceship/StarSparrow01_Skeleton.StarSparrow01_Skeleton
+[2022.08.16-23.55.42:161][376]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Spaceship/StarSparrow01.StarSparrow01
+[2022.08.16-23.56.03:431][542]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.16-23.56.03:467][542]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.16-23.56.03:496][543]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.16-23.56.21:729][616]LogContentBrowser: Attempting asset rename: NewFolder -> Meshs
+[2022.08.16-23.56.21:730][616]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.16-23.56.28:344][927]LogSavePackage: Moving output files for package: /Game/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset
+[2022.08.16-23.56.28:344][927]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_PhysicsAsset44EBAB724C2955176C057B92CA026DC1.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset.uasset'
+[2022.08.16-23.56.28:346][927]LogSavePackage: Moving output files for package: /Game/Assets/Spaceship/StarSparrow01_PhysicsAsset
+[2022.08.16-23.56.28:347][927]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_PhysicsAssetF01CB1CE4AA4F917A8280D81C45AB549.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01_PhysicsAsset.uasset'
+[2022.08.16-23.56.28:350][927]LogSavePackage: Moving output files for package: /Game/Assets/Meshs/Spaceship/StarSparrow01_Skeleton
+[2022.08.16-23.56.28:351][927]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_Skeleton17BF211F44CFD48089CA39A8DC734159.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_Skeleton.uasset'
+[2022.08.16-23.56.28:352][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Spaceship/StarSparrow01_Skeleton" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01_Skeleton.uasset" SILENT=true
+[2022.08.16-23.56.28:353][927]LogSavePackage: Moving output files for package: /Game/Assets/Spaceship/StarSparrow01_Skeleton
+[2022.08.16-23.56.28:354][927]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01_SkeletonFA8A47544C87FFE269C25ABBADBCE537.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01_Skeleton.uasset'
+[2022.08.16-23.56.28:356][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshs/Spaceship/StarSparrow01" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01.uasset" SILENT=true
+[2022.08.16-23.56.28:376][927]LogSavePackage: Moving output files for package: /Game/Assets/Meshs/Spaceship/StarSparrow01
+[2022.08.16-23.56.28:376][927]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01E1D42ADA475B2DBB6F8375BFE1E69DD1.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01.uasset'
+[2022.08.16-23.56.28:378][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Spaceship/StarSparrow01" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01.uasset" SILENT=true
+[2022.08.16-23.56.28:391][927]LogSavePackage: Moving output files for package: /Game/Assets/Spaceship/StarSparrow01
+[2022.08.16-23.56.28:392][927]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/StarSparrow01F9782CD24FBAD8844A2BEA90E3F369C5.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Spaceship/StarSparrow01.uasset'
+[2022.08.16-23.56.30:046][927]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.16-23.56.30:046][927]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Spaceship/StarSparrow01.StarSparrow01
+[2022.08.16-23.56.30:046][927]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Spaceship/StarSparrow01_Skeleton.StarSparrow01_Skeleton
+[2022.08.16-23.56.30:046][927]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Spaceship/StarSparrow01_PhysicsAsset.StarSparrow01_PhysicsAsset
+[2022.08.16-23.56.30:046][927]LogContentValidation: Display: Validating PhysicsAsset /Game/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset.StarSparrow01_PhysicsAsset
+[2022.08.16-23.56.30:046][927]LogContentValidation: Display: Validating Skeleton /Game/Assets/Meshs/Spaceship/StarSparrow01_Skeleton.StarSparrow01_Skeleton
+[2022.08.16-23.56.30:047][927]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Meshs/Spaceship/StarSparrow01.StarSparrow01
+[2022.08.16-23.57.57:780][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.08.16-23.57.57:784][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_GravitySpace' took 0.081
+[2022.08.16-23.57.57:784][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CharacterSpaceship] ([2] browsable assets)...
+[2022.08.16-23.57.57:804][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_CharacterSpaceship.BP_CharacterSpaceship]
+[2022.08.16-23.57.57:804][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CharacterSpaceship]
+[2022.08.16-23.57.57:848][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto8
+[2022.08.16-23.57.57:849][372]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_CharacterSpaceship_Auto859129D0F4BCFF44D9C6752BFDF44C778.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Autosaves/Game/Blueprints/BP_CharacterSpaceship_Auto8.uasset'
+[2022.08.16-23.57.57:850][372]LogFileHelpers: Auto-saving content packages took 0.066
+[2022.08.17-00.03.06:399][653]LogContentBrowser: Attempting asset rename: BP_DodgdableObstacle -> BP_DodgdableObstacle
+[2022.08.17-00.03.43:342][933]BlueprintLog: New page: Compile BP_ElementsSpawner
+[2022.08.17-00.03.43:444][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.08.17-00.03.48:270][240]BlueprintLog: New page: Compile BP_ElementsSpawner
+[2022.08.17-00.03.48:369][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
