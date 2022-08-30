@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "../../../Engine/Plugins/BlueprintFileUtils/BlueprintFileUtils.uplugin" 2
 "../../../Engine/Plugins/JsonBlueprintUtilities/JsonBlueprintUtilities.uplugin" 3
 "../../../Engine/Plugins/AudioGameplayVolume/AudioGameplayVolume.uplugin" 4
@@ -49,6 +50,8 @@
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "../../../Engine/Plugins/LightWeightInstancesEditor/LightWeightInstancesEditor.uplugin" 2
 "../../../Engine/Plugins/Bridge/Bridge.uplugin" 3
 "../../../Engine/Plugins/AudioGameplay/AudioGameplay.uplugin" 4
@@ -925,11 +928,14 @@
 >>>>>>> main
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> main
 =======
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "../../../Engine/Content/Internationalization/icudt64l/cnvalias.icu" 436
 "../../../Engine/Content/Internationalization/icudt64l/res_index.res" 437
 "../../../Engine/Content/Internationalization/icudt64l/plurals.res" 438
@@ -998,6 +1004,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "../../../Engine/Config/IOS/IOSEngine.ini" 501
 "../../../Engine/Config/Mac/BaseMacEngine.ini" 502
 "../../../Engine/Config/HoloLens/HoloLensEngine.ini" 503
@@ -1018,6 +1025,8 @@
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "../../../Engine/Config/Mac/BaseMacEngine.ini" 501
 "../../../Engine/Config/Linux/BaseLinuxEngine.ini" 502
 "../../../Engine/Config/HoloLens/HoloLensEngine.ini" 503
@@ -1130,11 +1139,14 @@
 >>>>>>> main
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> main
 =======
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "../../../Engine/Plugins/Editor/ModelingToolsEditorMode/Binaries/Win64/UnrealEditor.modules" 552
 "../../../Engine/Plugins/Runtime/MeshModelingToolset/Binaries/Win64/UnrealEditor.modules" 553
 "../../../Engine/Plugins/Experimental/MeshModelingToolsetExp/Binaries/Win64/UnrealEditor.modules" 554
@@ -1155,6 +1167,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "../../../Engine/Plugins/FastBuildController/Binaries/Win64/UnrealEditor.modules" 569
 "../../../Engine/Plugins/MeshPainting/Binaries/Win64/UnrealEditor.modules" 570
 "../../../Engine/Plugins/Bridge/Binaries/Win64/UnrealEditor.modules" 571
@@ -1164,6 +1177,8 @@
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "../../../Engine/Plugins/MeshPainting/Binaries/Win64/UnrealEditor.modules" 569
 "../../../Engine/Plugins/Bridge/Binaries/Win64/UnrealEditor.modules" 570
 "../../../Engine/Plugins/FastBuildController/Binaries/Win64/UnrealEditor.modules" 571
@@ -3125,6 +3140,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_9_Sprite.uasset" 2414
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_24_Sprite.uasset" 2415
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_23_Sprite.uasset" 2416
@@ -3161,6 +3177,8 @@
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_22_Sprite.uasset" 2414
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_8_Sprite.uasset" 2415
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_21_Sprite.uasset" 2416
@@ -3225,11 +3243,14 @@
 >>>>>>> main
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> main
 =======
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "../../../Engine/Content/EditorResources/S_Actor.uasset" 2444
 "../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 2445
 "../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 2446
@@ -3434,8 +3455,24 @@
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/cf/d7/ce8f4895224a327a3ecc8863d349c20b5e3a.udd" 2627
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/cb/fb/3f53311708d01205e16ad27719cb8a033947.udd" 2628
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/22/23/5fd7e1e1abc0e277fdfc3745d05acb42149b.udd" 2629
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/dd/3d/1d070f173b3185e8440ad5ccca94c65d1b8c.udd" 2630
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/99/66/8082d20e539348167daebf22f5d5a2be8bb0.udd" 2631
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/6c/3d/7fcb560f1a653a250e5c1b09d34cfaa07d52.udd" 2632
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/f2/a8/ea277f35372f73bcaee447d9ece4c7706791.udd" 2633
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/06/19/c2438de4170fd1ca45f3a99f45023d2cf4d6.udd" 2634
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/a6/55/ae4be6c6b400d3bbb7cf60e722b2c08c4d47.udd" 2635
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/2b/a9/c67e1a204258e31ef875e9816e6cb6b943d3.udd" 2636
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e7/8a/37ec5755c2d5b120b6b991f4e630d31f6742.udd" 2637
+=======
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/cf/d7/ce8f4895224a327a3ecc8863d349c20b5e3a.udd" 2626
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/1f/43/e7b1c7fbeeba528a1217fcdf6f2eb22ecee9.udd" 2627
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/cb/fb/3f53311708d01205e16ad27719cb8a033947.udd" 2628
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/22/23/5fd7e1e1abc0e277fdfc3745d05acb42149b.udd" 2629
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/dd/3d/1d070f173b3185e8440ad5ccca94c65d1b8c.udd" 2630
@@ -3520,8 +3557,35 @@
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/01/0a/b88e91281dda1cfdabc9077c54e5e572b6fa.udd" 2649
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/4e/70/75c7be06133196969fdf48e0ac6449c6e934.udd" 2650
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/17/30/86c9b13d1971dfe378c12e0255309de08864.udd" 2651
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/96/6e/2edbcf15fa5be2b4c8bdb5dafc040325f7ff.udd" 2652
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/a6/b5/3361ca1f9cbcd2241a747e8d02e9d4cdae3a.udd" 2653
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/f1/3c/4066ece20cbba201529375903bf5c4951e15.udd" 2654
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/a1/80/e45df1a926b5ffaa9e9d646e92ca57541922.udd" 2655
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/a5/63/8ec2bbe61c6eed3841e5c0e64eea779ae3bb.udd" 2656
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/68/5f/0a8f1911e767fc2c3d41753fa8940099f9b8.udd" 2657
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/cb/fb/f52a12eefb0c1cbbc3cbed0f557977ab3b2a.udd" 2658
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/08/c9/0d4910be3897a1e0734f423585fec58d87b7.udd" 2659
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/90/09/4ebbc58127ec8fb4a0b2b621e4b585bd72f4.udd" 2660
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/24/e7/882c544d1d6bd816a98855d35becb5c9c71b.udd" 2661
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/5b/bf/280cf8f1a87aa0bf871eb63045b3125c8468.udd" 2662
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/b3/d2/2deb21170008a56b9c1b2730f1ada1ff7528.udd" 2663
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/0c/ab/c2253373382598f78f614de24c153c9ed6c9.udd" 2664
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/c5/56/ad7621919ac80e0fbbae4426785b75754b35.udd" 2665
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/57/64/6f5eb526a2f9aece3f97a8c3f336a564d97e.udd" 2666
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/de/25/33a02d4a6982c5696eb7772debace8c1bc9f.udd" 2667
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/7f/d2/3817220958581f01314a428fb3c6c9759ea8.udd" 2668
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/ae/2a/d94ca658a95fd74b1b3b1652fefb501c69e6.udd" 2669
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/30/59/e75da60d803619de56ebaea0441d4bb07bfc.udd" 2670
+=======
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/01/0a/b88e91281dda1cfdabc9077c54e5e572b6fa.udd" 2648
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/d8/a5/20d564c78cc16ea27495b55e7c237527512d.udd" 2649
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/4e/70/75c7be06133196969fdf48e0ac6449c6e934.udd" 2650
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/17/30/86c9b13d1971dfe378c12e0255309de08864.udd" 2651
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/96/6e/2edbcf15fa5be2b4c8bdb5dafc040325f7ff.udd" 2652
@@ -3743,11 +3807,14 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> main
 =======
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/da/de/df48e4fc9022d1b761eadda548504717c572.udd" 2717
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/96/b6/87acd42454510cf4cb88d4a7a4bc92efec10.udd" 2718
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e2/b9/f74eb7daf95d9c398559c97a1d3fd3603df1.udd" 2719
@@ -3815,8 +3882,486 @@
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/dc/f9/165c694f075a8b2d914c1dd501c93d84337b.udd" 2744
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/22/ff/44c66ec71530cd3c31dce2d36b4b42040601.udd" 2745
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/37/72/923d5ff797ffb2deadeeb4f041f6e39cfd2f.udd" 2746
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e7/11/77a257a8213dd6a8f34cc1d3f6d7b268217a.udd" 2747
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/36/be/710c2be85bdadf3b085871ec86c747a3737b.udd" 2748
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/54/59/88008c984c8b80526184fc35b43a51e74a6b.udd" 2749
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/bb/8d/99dfc3ba0ab6aa57ab036243ba5f11945f70.udd" 2750
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e9/0a/ccea46af06a16fd4e62436d3354e5948af21.udd" 2751
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/1b/73/5251e5cd2bf180ec737d1cc77df2e55bc977.udd" 2752
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/63/81/88789c28d61c816ba39f5e7caf67ca985a2a.udd" 2753
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/c7/85/b8135b83e99d336ca5f0a50996ddd10cf40b.udd" 2754
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/f0/0b/cdfa3e21d8461d14e79fb7a7504913ab1024.udd" 2755
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/43/97/4ea9fa01c277aa09ffa1396673c22e2530c4.udd" 2756
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e8/ad/9c4f7d72e66c33c3ceb2b91f452fff5d0065.udd" 2757
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/9b/4e/6f932aaf01e60c56009001595f95b137cba5.udd" 2758
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/d2/d2/984dc925d68e00207160b61f31d9bdc2c64f.udd" 2759
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/22/04/a216125b41ec5281afc363d4592412f530fc.udd" 2760
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/62/4c/2029d7e3dd12e8a8385f61c5aa0bc718451f.udd" 2761
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/c4/06/e41edd95bfff6d1ce41e8dd75dd5bd82512d.udd" 2762
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/ea/f1/8e3778f96618501486abc621f5010c270227.udd" 2763
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/31/5b/b930f6c2da01bdae859eba065ee9c7185a0a.udd" 2764
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/78/32/fb988c21248be26eb253789c52cded3379b1.udd" 2765
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/80/dd/3188728ae112a0e813e5cdd81b8724abce65.udd" 2766
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/4d/5f/b548bc2d456769136dd29a8578165590ff3c.udd" 2767
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/ef/b7/939f0bcf116b50ebc57e6a398200d4886e27.udd" 2768
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/ff/d5/348d80885e096c4cabbd84fed3815293aad5.udd" 2769
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/36/af/92ae396b2957fdc87a9d1be0e7c9f4c2f258.udd" 2770
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/bd/51/2912389004c716f6bc971f3c2b69fb99dc67.udd" 2771
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/1a/44/b5189afd433cef5950ec53b7a902682a4932.udd" 2772
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/70/6c/2160d1e9cbe6a344aa9bd6125c27139b25d6.udd" 2773
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/9b/00/85c2ce338ee0e38dfc6ed882b0d5ea05a5e1.udd" 2774
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e6/8b/3f3880770153733c33865e1e25f3d69b6436.udd" 2775
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/b9/f3/f81754db77ded2c035c6004d60b7299251bd.udd" 2776
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/d7/62/0723d3477a6ab7ba96708754f453d88b84c3.udd" 2777
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/4a/92/219279d19f80b89d0c7cc8eb7894282c2301.udd" 2778
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/54/58/2e0a03270dcd2571cb9fc924e5ab716732ad.udd" 2779
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/c1/21/eda4452fe88ce5f3a309402dc713971e32ee.udd" 2780
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/bf/af/1c75448722fa11d8dfbd0dd232f4cc391f27.udd" 2781
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/c6/19/e248f1603e7cd6571ddaf45b810bd0fefcd5.udd" 2782
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/b1/3a/88e52402d4b037524b7f8da0d2803ca2da45.udd" 2783
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/c1/b1/35061615cfae9457966360e908b8d183e6e0.udd" 2784
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/22/5b/e65d51902bd9fa2f63f489d3f48974d5ac76.udd" 2785
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/72/5d/946ad017797ba6aa66418cd2fd46a01585e1.udd" 2786
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/57/ec/6c5dd85655d6e394486f69a07791f4882ed2.udd" 2787
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/93/6c/af28d2b016fd495e1447d93ade63c9b00f4c.udd" 2788
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/aa/53/b65b9ff20ba92e2c6fe760deb6389ac9e57c.udd" 2789
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/00/29/3fa3457269f5869f39859854533e85a51c9a.udd" 2790
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/99/f3/fd8875d3a3bc87dcc9b943d537dd1582475f.udd" 2791
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/bf/25/4635ea16c9d47efbbbeace5ac25790a621e5.udd" 2792
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/57/32/1660ac661424ada362b0f28ce66d69b0bfc5.udd" 2793
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/83/0e/353ce3f146c3b3b00305d8519a096bd14cb5.udd" 2794
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/7b/de/f58d5fff37fa151c25dc39cb8b36d5acc4ff.udd" 2795
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/15/b9/0d2d4080e797143c43be9b2947b725c688e7.udd" 2796
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/2e/63/03890f377d42958aee1ab53008512420e2ab.udd" 2797
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/f9/34/55727888d03be0b3c8b84c7885fb48e33e86.udd" 2798
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/60/ca/78c2289fdbda273ca3a8e835ebe0b8f0c00d.udd" 2799
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/10/81/be76b5afae4ccf9603ae18d70b8b88fd6a57.udd" 2800
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/f1/9c/ec1dc525f268f6e39a1cce0e84ce14af3d62.udd" 2801
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 2802
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 2803
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 2804
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 2805
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2806
+"../../../Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset" 2807
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2808
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2809
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2810
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 2811
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2812
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_GameInstance.uasset" 2813
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/PlayerStart_Blueprint.uasset" 2814
+"../../../Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset" 2815
+"../../../Engine/Content/EngineSounds/Master.uasset" 2816
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 2817
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 2818
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 2819
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/DefaultWhiteGrid.uasset" 2820
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset.uasset" 2821
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_Skeleton.uasset" 2822
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2823
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/4f/9f/72f6e1b2a4c0229bd981529d46fbb3984885.udd" 2824
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/c7/ee/46dab4329cc503c0fe6b9f958d74563feeda.udd" 2825
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/32/ba/cd4dd6ba95cf9ea23b5698c1268c1c0e9f9f.udd" 2826
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/bb/e7/67ef18941b1e892d9cc8a0b20089665046d0.udd" 2827
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b5/da/f01d9eb9db0a8b8ea6da9afee7a2d797368c.udd" 2828
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/97/2b/1dd5585878ae1c72e669eebc4cc1d7dec5f0.udd" 2829
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/49/ab/498a009cbc3a4833dd366ea665ac975fff20.udd" 2830
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/40/1e/549627eba15418061ce4ce261e32966455a2.udd" 2831
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/90/09/e540aed27f473601fe8a551b89f9fdb4a42d.udd" 2832
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/83/67/af04d50ef33078e80c65190657b95d7721bf.udd" 2833
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/76/8b/3e06dbba0ba712901dc17207312cd701954a.udd" 2834
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f7/56/f9bd57744995c6f0256f8c0fe3a387d68f4c.udd" 2835
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a9/ba/6cb17f2210974539bfa87ba5ceaa80a3fa86.udd" 2836
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2b/d8/880cee5ea337090ff243bfa2795c2ff741d2.udd" 2837
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e9/81/a0af95406357b7e47aea03dc753dcb44111a.udd" 2838
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/98/1e/be50c629982c00e0e4a3f40dfc426729875c.udd" 2839
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/6b/fb/373b846555d964a33654d390157bf4db7246.udd" 2840
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fe/37/ba329784e9f197274b05b9596ecc91b967ec.udd" 2841
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/56/e5/e005e1dbea1c8912806bb5b977e613f5d091.udd" 2842
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/45/01/f06f4f0d3b7af4f2781a9070de1545d36788.udd" 2843
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/09/7e/ff74d8f6db70f08b5f634914cae021716d50.udd" 2844
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/22/a8/f9ba0593b68b5bc1fad8be4e6bf3c7eb74de.udd" 2845
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/46/15/491fa80d08072439c3123a2eca461aec978b.udd" 2846
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/db/8d/e57103ff21d9c2ada8d9aa7df9d913b081de.udd" 2847
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b3/8a/88cebbcaf934e2cf3dd395ca707be6d01a29.udd" 2848
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/40/21/f82265bbe817cf9dd97d023b56230423fc07.udd" 2849
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/6e/9b/47511fc901f48815cfc276fb9e3bbf026d5a.udd" 2850
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/aa/90/f38d4589d41433f9c222c4b390e10a596982.udd" 2851
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a9/25/7c873d1f6a64068a77840e00ec93d7b6b554.udd" 2852
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/25/b8/c3678a6c04ae6278b9327e4b66171d9db422.udd" 2853
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b4/ed/cba0c47e02e7dbf9c83fd6463f4dfdcf01d3.udd" 2854
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/02/fc/31f2ae7308d583b4a503e62155b8e026c650.udd" 2855
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/b9/5e/df6d06ead25aa653c282e3bd770e0ae0f855.udd" 2856
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1b/1a/be4bcec7bc0aff7aa5569fa4d6f55eccb0d0.udd" 2857
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/07/f4/f0654b06c201e0a3eb634cb6575473ee8a08.udd" 2858
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b0/71/37a07f4eeecbf99cce35f6a88d065b2d727f.udd" 2859
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/dc/e3/0df3f8db470a330039ae408dca7691910ca8.udd" 2860
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/05/33/66aca77cece5a91bbddfe8b7eb36b8ac5c9b.udd" 2861
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/03/77/17a12b0863adcc2cdd2c423d7beef3a2e314.udd" 2862
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/06/bf/6022f9f766d94793543ea732d0941ac17265.udd" 2863
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7d/18/44294f7ea02af0eb5500ad267d0831ec4f8b.udd" 2864
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fe/e0/27a8271309cda9870fdbd4fde45e58b9d71c.udd" 2865
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c4/f8/0ae87f4309a9e265ee90754922cd06279ff3.udd" 2866
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/09/8a/e993adcd20f3aacaa1ad5321c52362df13dd.udd" 2867
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b0/d6/754bb11b124b6d04d46c06e4e878ef2c0398.udd" 2868
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7a/29/f0e542daece7ee69010c3fe166e9cb60ba74.udd" 2869
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/22/f8/daeac0d9e10b71f6b4aa76e71b0a319c7b85.udd" 2870
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/34/ce/8fe22d071211023a1fc08f05d439cbb490ab.udd" 2871
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/c6/11/d398a94fe545d97ad1dff6e01d362e89740c.udd" 2872
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/7c/4a/05d2bd7e901453013b3abd1ea9c7b5b83030.udd" 2873
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/68/75/2250b31c36f04d2406fd2d0d6b5754a22aa2.udd" 2874
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/70/f3/d4e8315f616306820e31331272bdd52fa6b3.udd" 2875
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b9/ea/414f1bd1981aaa6ef557533892a3e4eaab24.udd" 2876
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/65/b6/dbdec30b12ace93845c8304af270fe14e0bf.udd" 2877
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b2/da/5a8d087735a795b02733a2cc9065b1ca6a3b.udd" 2878
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/28/29/330f046f7d408b6a1999f8027e5a0597fd2c.udd" 2879
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/39/64/c498ebd3acd71a6f16212f55f4afb153d064.udd" 2880
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cd/47/d6c152203b6c1db5a0576489970ca53b5f3b.udd" 2881
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/98/1a/f60c31d1aa54bb114cea5390192bf1e80ff8.udd" 2882
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/83/cf/af530090baea784eff398ed36b538fd84c6b.udd" 2883
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7f/f5/0df65f10262b3e6cfa1e0095758c8f408f66.udd" 2884
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fd/8b/eecdb1e6a0e0cad48ad3ddfcfc9fdeb58e33.udd" 2885
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1f/09/2ce4380b1c273b9ec5db97a388103bb9214e.udd" 2886
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/df/0a/36bb477028366a3741fc31f558a408a2fa40.udd" 2887
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/ab/91/b83ba1f0b7e1dbadcef963ef6c00172b418c.udd" 2888
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/50/a9/2cdd836cf393fe5f743fdeeacbd04ec2d9c0.udd" 2889
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/8d/2d/c41ed541b2a77f19e6bb63f33d32676405fb.udd" 2890
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/6f/dd/e1752a2954cbd381ace5bf95bd40eb8f7e09.udd" 2891
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/2f/bb/16fc1cf70b190563179a5f620f22b23aab6a.udd" 2892
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/7e/06/ca1ee865d651962f5b3732ec19b9d4e6b384.udd" 2893
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b8/a0/c4997c05db7fe4dc1daf3008758c5597af53.udd" 2894
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/95/6a/47b6c2f2ef84f1d0600d9c8d6c5dd1fb862c.udd" 2895
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ac/d5/79dbdb3bcbd9b63d4388cc132bfde361f69f.udd" 2896
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/03/9e/544107cda102d8cc7817c7091ea0499ec78a.udd" 2897
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/f2/ef/62718b0054d8d82692e511aaabcfbef35d74.udd" 2898
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/af/e9/acefb135fb80b1865c9dfeff2217e28f7fde.udd" 2899
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/bb/3c/a0b2d7bf2c633a5d3955600de3bea55257f2.udd" 2900
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/22/8a/133303da4e0575d039786da77ab9fa483d21.udd" 2901
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d2/dc/7368e24c7fc1cc6924a4791413dce687a50a.udd" 2902
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c0/02/e0ac9575d387c3dfeaf0864b30dd5a91e959.udd" 2903
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/64/85/4f365c2a118c3f0198440fc3d136ab210111.udd" 2904
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/e6/a9/85e238f1725884623c4e9e52cafe5e14f422.udd" 2905
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f1/22/814ef83a9f9970958f0f625676788d039294.udd" 2906
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/24/88/95bd2f9a2b94ac42a5448a4748355452b75c.udd" 2907
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b5/76/0b38693db5276fdea31635b23cd41a5ea7cf.udd" 2908
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/81/da/73b165fdc0f47801b1366c4cd4108a3b0d32.udd" 2909
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a4/df/921ede959fc13cbc525c275cf508bfc64677.udd" 2910
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/49/e0/6eaa40eb1479acd05dc709775137651251ad.udd" 2911
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/0e/0a/fdf08f8217c4bbc424fe233afc9e7aa4ec84.udd" 2912
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/11/99/68226f664558105113dafbd2aa91935035e9.udd" 2913
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/27/cc/8bf72d350bafee075edcb85903613f7258f9.udd" 2914
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/48/0b/b52e8013bf67c6668fe0ea9a6409a0f1b76f.udd" 2915
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/19/73/9a9bafcf054017feb5a310c0b830d5253770.udd" 2916
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/4d/96/d46492e0251cd643eac3dcb98e85faa72344.udd" 2917
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/52/c9/408958e838bf32bfe3a22c43820907c40b2e.udd" 2918
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/44/f8/d3325605cb2b6a6a13e3a44958a96e5e1e09.udd" 2919
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/76/09/0c26b55e4c12ee6171464e91ccbc5f29fb0e.udd" 2920
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b5/24/c2f307e27f25daa4a6a5a9313c32a3c8c53d.udd" 2921
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/72/4f/8e76988f0f12d0f5586f28f1dacb4dc024bb.udd" 2922
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ce/b0/bd74d23d4024379bc95b10e383373ff89fc9.udd" 2923
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/94/bf/f5ca665c83f3b315c7adefc5e20a4ed1dc14.udd" 2924
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8d/59/de17cc21fb11012e537e72a3ecd097e5ef40.udd" 2925
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/01/b3/45bcd720d12a5d0970ba94b70946cc601f3a.udd" 2926
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/08/42/6389df3da8107c29fe187c451bfc8df582c6.udd" 2927
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/dd/2d/cf3b58817496104364ac4a7040af7dbac9d1.udd" 2928
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/26/f1/536fee2d43279a19f30260b2ab485d3639a8.udd" 2929
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/08/ba/46d3f67307cf52e5b719b9b39511723e3e3b.udd" 2930
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8c/19/edb5a2bae2ea006c869bea1c6a4ec4944329.udd" 2931
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/84/8d/9a628d6f668fa122fa269893a07467fa8389.udd" 2932
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5a/66/923147b4eff6e8e536684686e78075ee1825.udd" 2933
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/81/a7/2a0e4bd88ccdb6df538593f5595694b93250.udd" 2934
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/72/94/173008547245a91718fb2602a658aa0b304c.udd" 2935
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ad/98/ca208f35456374f054abeef3b8c581151c33.udd" 2936
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5a/ee/f256b5ec5660fe0f38e217bd2bcbdc5b3570.udd" 2937
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ed/23/56cb7c255332eab874b35d69aaa99b237c9a.udd" 2938
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/53/05/07f8e5fd985f8da5d09c30aed7c332bd5050.udd" 2939
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ff/fc/ab1d72b14c1473281617ee500f0c70558bab.udd" 2940
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cc/84/767293019bae303a77b4fc56be922d817e42.udd" 2941
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c0/4e/cf529e9394c8ee3ebf6d5fc18c7c53e91c56.udd" 2942
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/13/46/c3d65c74daad93c93da429f28ee04b18e006.udd" 2943
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a9/86/a7837ebcdcbe2a3f35d676edeee4d7530617.udd" 2944
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/08/c9/aea5d353c4674597e8e3523be15b7ca9cb6b.udd" 2945
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c5/dc/d77da86867ad716b82f39dbfc9b56ab23418.udd" 2946
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/13/15/b91990101d0f529474af57198710f51ac493.udd" 2947
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/dc/5b/caa3c8ac6ca08aa785984d609836a6f1afbd.udd" 2948
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/47/4c/c248ed2bda558f6b0cd6d28c601e89aae735.udd" 2949
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c0/72/d02f7869e0f81119a82e699bbcd592a4c29c.udd" 2950
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/33/e1/dabf0d52e2573d995b5f5d81655e53415a62.udd" 2951
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d9/47/7324eb5f58335d8bccd05cfda5ffde9a70bd.udd" 2952
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/34/81/6a1a19774ef9f7064b203334e4d4f7de2641.udd" 2953
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/54/8c/063d814901eef0a2579182847f42b79f615d.udd" 2954
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3b/a0/76b27abd7ebab16440093a3351920028fb3c.udd" 2955
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cb/bc/34ffc8fcdbca49878fff0a907b74a1674a06.udd" 2956
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8b/e5/26c74cb8c4fb1ffe35d7a6325ad06d721fbe.udd" 2957
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ba/3e/7cf8538d8dbe272df8ad917f8f2ab30d546f.udd" 2958
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/14/a5/6df2b1489615272c67d6ede5b2368e601cd1.udd" 2959
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cf/b1/3480258a0d8c88575eb1d5f8ad5f8c1472c9.udd" 2960
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cd/06/6925ddaa498864bb94c991ee3dbea714bfa6.udd" 2961
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/bf/6b/e4d372f928c934979a9ab459749e27253650.udd" 2962
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/55/ec/8ca6b3c45e9b44004f9f5d0e978a236ffe98.udd" 2963
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fa/40/4d4a4034c62d62708790a6ff367aaa0f14ed.udd" 2964
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/16/4e/07a88f7888af73e42b0df4656025c1caabff.udd" 2965
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/aa/f3/99b88776a4b8270f80c441226dbb51e52efd.udd" 2966
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/85/ed/a657fc29e603841125d1f9a68de31c9af839.udd" 2967
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/46/05/80ba415a6528c9e9f553f390a9000a56fc14.udd" 2968
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/06/f9/a0c906647b4874a1146feb817307b6f5041b.udd" 2969
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d1/f4/f96e1d9894c2aa6754f8fad75bb31127112b.udd" 2970
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9a/95/dd7aa105398c4dd1ce5e998c1f11ba2b3af8.udd" 2971
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/af/f7/b74e0ff50c6027ffc603a215669c9ab93238.udd" 2972
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/0d/9c/d494ca292006ab6d8a63a9dc4c5098036ab5.udd" 2973
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/48/0a/c6383ce190fdd0a7e48e0e60236d42cad82e.udd" 2974
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cc/e1/cd5aae8e9b2355269631b2da4837e8470fe4.udd" 2975
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cc/e0/d28bdc6806e57684c8f6b740ee603e3e6846.udd" 2976
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/0a/aa/af88dbc1ec1b769b47160843b187a7595240.udd" 2977
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/ba/47/78a9cb05bd7b62032407228228aecbf43a4f.udd" 2978
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ee/37/c858b39475cf7c9466a5c9ff3cea87332e57.udd" 2979
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a6/50/b0faa2061de701e72b171676cbf77b05143c.udd" 2980
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/91/99/6ec103a8378e0c79f0c0304b7a9f7195a331.udd" 2981
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/48/86/debad0e4d8fc113cd37caae97c2848dfc53f.udd" 2982
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3f/67/cce7f844ce80163879b1af268e6bcda056f7.udd" 2983
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5a/63/c3bab48f7a6de87fb1585593fe117fd95827.udd" 2984
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c3/8c/40b5e19ebc3980ec1db87df2a5cb704b748e.udd" 2985
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8a/07/c5a61fc023f23d2e3168d08ea5e6fdfcb585.udd" 2986
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b2/32/03da6b67524acf811ea10a7b4b6bb9b1a198.udd" 2987
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ac/d3/285cfd3ff3870325bceafba200f5126f8638.udd" 2988
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f2/23/31f55786687176f5ea06d90e445b084eef88.udd" 2989
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/4e/07/201f123a2371a26ec6e496b2672a0d579507.udd" 2990
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/0c/6a/ce6af9b5529f6c4d37f9762f892a1c746627.udd" 2991
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8e/b7/f095bfc914104b45ced4c4dc8ac39695aa28.udd" 2992
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/78/e4/7d1f53e88615162d239862dd5730e76129d6.udd" 2993
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/32/f2/8d63d5cf2af908bfcfb7633d5d7b2e864459.udd" 2994
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a1/33/3eef764f715a58afb3bc626b865f2b99adfe.udd" 2995
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ce/1c/4d2cd446c498c2d86d6c63e5f446685cc644.udd" 2996
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b7/87/9cafc2ae278b7ecf896e6f296a7f8a15d55c.udd" 2997
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c4/d1/449ebb6a3919fd223d6f6e8d2055f52b1cdd.udd" 2998
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/47/10/514150252a4ce794dae2643af2581b3216d9.udd" 2999
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/08/df/0c87e886f39523fe0c8eca181eb068b47953.udd" 3000
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b9/57/77f31752fb50fb9530cd4dce3659430db88e.udd" 3001
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e5/f2/1d4d148b172d185f4103aa5f2beff6982166.udd" 3002
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/39/e5/046a718e87d925c632d4d9d4ab4f97be3248.udd" 3003
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5f/7c/7a320dd0f6147aa3361600521a9f7d77f82e.udd" 3004
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/45/12/72183a904a8777ea714e25b4afa6153eb4b0.udd" 3005
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cd/4e/3f1d5df3117483838aea43946e8049c00fdf.udd" 3006
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/dc/df/49b6bac660fbb45056475bb12e688ae785ac.udd" 3007
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/29/32/b6e8ac4a1e87a7efca48c81dd0533f20d704.udd" 3008
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/31/b5/fe879adc2c315b711e98581fa0c390c7598d.udd" 3009
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/0a/f7/96f582feff56e7eafc30914ea32e7bfa84fa.udd" 3010
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ba/7d/038688c3913aee48123bea635f1aa674d0ab.udd" 3011
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2b/53/6c9ed436041da311dd859df08297b18f9603.udd" 3012
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ce/b0/acaf1084b4782213aacd397c6f7ebcd8d3fd.udd" 3013
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f5/fd/b42a9d8abed79ce07a2fe9f0141f73b97bd0.udd" 3014
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8f/ea/4003c26974e9da51951ee9e8055d0341f103.udd" 3015
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ea/71/fef4053cd55ad23b919d5f9566f0fd6ee420.udd" 3016
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/28/99/9b24be23bb77b60393c53e03333e21d617e6.udd" 3017
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8d/12/8c50b74f736668a7fa1accff6609befa542c.udd" 3018
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1e/21/f3afd2b18902570fe4f4a4ebe5e82264fe95.udd" 3019
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/bd/2d/1fdf52f23e061c70aef0f4eb9c596005f872.udd" 3020
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ea/8e/881793aa088fc6bcd619de65a8ab3d18427a.udd" 3021
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9a/aa/f6f8eb48c9885a68361907d190c43c82b649.udd" 3022
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9e/0e/13f2fab79d14456bc982852c1c9181c7351b.udd" 3023
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/0f/8f/33ab580dc77a9673dffb1ff33b48853f9cfb.udd" 3024
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7f/31/ba04d5e03f18f95451a2846c8c4070191fe4.udd" 3025
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a4/47/d02641c0d4a437f59f40d04d60925125feb3.udd" 3026
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9f/ff/0ef23c67e304481680e6b06199c01109bb32.udd" 3027
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1d/f9/fd595c70598af716ac1c879e71fa87d6e837.udd" 3028
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/41/cf/e1052f972482daf36f2f53a2dd0ce5e07620.udd" 3029
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/20/e2/818b0c3fdee78239388d87bbf7e15cee5136.udd" 3030
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/71/d1/e7668e93c45bd72adec88ca0fb1ddf415207.udd" 3031
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7f/47/ea7c8fc6e111fde2fc24dc06b1fc4159dfbf.udd" 3032
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/70/48/455f77b2acbda1b56022dd85fbac13f4b1f9.udd" 3033
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/08/3c/c9997e4f7792a41638ee39410f5a28687831.udd" 3034
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d3/eb/e50d0dad29ff7e5c1fb4e68b12c230f7e9fc.udd" 3035
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a0/c3/fbf1d5bf997058a6ab25ee668267b1aa8eee.udd" 3036
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ed/54/31b1a631cc2e34b658d8bbcf8d478fa15111.udd" 3037
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/98/b3/68653ba345ca2bfff69c334bc5fee08dc7c7.udd" 3038
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/59/45/b982d05feab89ca08665105ce7d1723fb108.udd" 3039
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/7b/29/9e55bb03f408968ff1db2b9c776eade21258.udd" 3040
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/79/8d/d7367d451d84c94c0809ac7f0f22025fdfa8.udd" 3041
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a5/e5/ac0a6293d2165623bf6e3ba07d461c0cf4cc.udd" 3042
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/05/fd/b72728e7038493b2a654a025b01a4ea55c64.udd" 3043
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/83/ab/29901321d175bf838f7917f32b2708d31ade.udd" 3044
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c1/8f/e6e9e7046d6a4ef8f614045d51ba658f2f2d.udd" 3045
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ea/d6/4ec4b96d017e07d6b2546d0592d7665965da.udd" 3046
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cb/86/438081e1c1c545245e79ef47da91661b8245.udd" 3047
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/09/46/75623bbc6c40f25cc62d306f6c8b7fce2936.udd" 3048
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9c/1e/7c8b25c3ade9016d9dc88af7333e20a8fb3f.udd" 3049
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/8c/12/d7f0fa3065fd08d2866f9395faeffd100cff.udd" 3050
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/6a/fe/36fafa380505c82764c79bb1e85ff9dc7e1c.udd" 3051
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/99/20/b6732abb169de19c98286a304451acd5dbee.udd" 3052
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d1/ca/e0f06b727605cf8c29dfca4d1c52d76b03b7.udd" 3053
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/4b/55/dd5b7be0afefd3f05df5cf3d8ac519d5526b.udd" 3054
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/90/62/ab02433db8542c11984fc2d2f25098e8a47a.udd" 3055
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/af/66/d87f5998a59a581d64b19536cc6fc365b941.udd" 3056
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/56/b6/2368e8995883ce84e7ca9d7f1a50f9e35f96.udd" 3057
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1d/20/c30a4fa0f4782b0df99d8cf477884a5c2f45.udd" 3058
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e0/5b/087486e167c09f99e06faa2415016fbf3ed3.udd" 3059
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/46/b6/0856bfeafbf002525398b30cdc1a02e00a1b.udd" 3060
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b5/23/d72d7708dc161d6d97f95a2e5ea2cedd67b5.udd" 3061
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b1/ed/bc5e8dc7449492dbc4b805688109193d35da.udd" 3062
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5e/d2/2e9116baa75d8f079a6744d52c00dddeedea.udd" 3063
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3d/20/c30547d6fa5d8ee0fe32ab4d392bafb8ae60.udd" 3064
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/18/aa/99bd802602f3c7d79e12d5c19b41aec602bc.udd" 3065
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyChaosGeometryData/02/de/f3f657e3ad85d2217b3fff7f4275e01a3cbb.udd" 3066
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/02/6f/2093fd1126c12599196350f879208105fab2.udd" 3067
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b5/ef/be62b906b2068b596311a3e26af288bfcfd9.udd" 3068
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/bf/9a/6fa4a88e70f41ab69c91646798fe2ccf05cb.udd" 3069
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/eb/a8/e3111a82d5b72c7d3cace643cc4c0e7536b0.udd" 3070
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c2/40/2b7aa4a9d775282cd77cf5464c1dae24bb54.udd" 3071
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c5/cd/f485885c16af2a6247e6d642d67627291833.udd" 3072
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/0a/2d/94e1f03c79704423e03d33cd1ed973752947.udd" 3073
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/39/5f/535f1e5ed45af05658967373b8537fba77db.udd" 3074
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d6/64/0d615fd4548ec3b6881bb6e9af11c22824dd.udd" 3075
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/93/92/e5c404c76b583a2ef133fcf97652174d9b98.udd" 3076
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/55/5c/334ad8a917379129cc3cc759f8bed7c74991.udd" 3077
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/03/ba/13e7ffcb63278af715cd9a6773ce88a0e421.udd" 3078
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ee/14/dea55e292ea30c0bda29e5af7ffd8dd9cf24.udd" 3079
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/cf/d9/9b48b2dad04b7b2d942a560e2b424bab4328.udd" 3080
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 3081
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 3082
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 3083
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 3084
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 3085
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_10.uasset" 3086
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow11_PhysicsAsset.uasset" 3087
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_11.uasset" 3088
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_12.uasset" 3089
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_13.uasset" 3090
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_14.uasset" 3091
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_15.uasset" 3092
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_16.uasset" 3093
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_17.uasset" 3094
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_18.uasset" 3095
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_19.uasset" 3096
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/8e/d5/e42b3fc985277769e8ece044e1b5746fdd5d.udd" 3097
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/6f/bf/975454b95d70529ae12c14358a44802d5d2d.udd" 3098
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/a9/8a/72655eaf44ce2acbbbf5fed0d891346fae6d.udd" 3099
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/7b/33/2932d83d271753c564caa677ee9e8ce907ce.udd" 3100
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5f/bf/9a76d05d6ae81ac2d82db251690b90c96522.udd" 3101
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5b/87/597c4ecd291741c4b588cf4c3365240eff16.udd" 3102
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/22/1f/55b23d9890a98e61eca95770915a71031b45.udd" 3103
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e8/c5/23d965e5d4cc0e24ad63c620811e6c12a739.udd" 3104
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/27/d8/3096eaca8c4b4e6517ee4de44d07ba3c4017.udd" 3105
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f8/16/50a2f240fbd1dde12da94f2f097a149d4e95.udd" 3106
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/29/4e/25157b33c647c76d1583701eef0950e080c5.udd" 3107
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f5/2e/274140db790379eb46c20d30efc63f469514.udd" 3108
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5a/42/83d48fb8e9a65d335928b41540722fdd61b3.udd" 3109
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2b/e8/6fe3b8acfde434343ab73befc201f369b1da.udd" 3110
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c4/cd/2298629dad862a393811c8a885356344e79d.udd" 3111
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d5/e0/94a7bbe4e0989095bb1cda4b3996a7b8ba3d.udd" 3112
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f6/fe/b7f17e21d230659fde5141e1c4c5caf63919.udd" 3113
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fe/07/fbe10afaaf5434d089b39c85543b6522c592.udd" 3114
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b0/52/cd3a176cf6adc4face4497c66f007a9ab656.udd" 3115
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/43/7c/412897cd4d576fa191ccb1f919bef76f7818.udd" 3116
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c6/f4/ed3a0869649dd5652a07b8866e88e6a33c7e.udd" 3117
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b3/1d/d276b7f3e221f88774d4614d7e5de841efb2.udd" 3118
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/46/00/db53a29eb91626a367448cf7bff4717d427f.udd" 3119
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/73/7e/50f962fd5ee14e7a83b95e593ee47838f479.udd" 3120
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/54/f6/ae199e40faf2b5ead585323351aea63da45c.udd" 3121
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/5d/4b/de2ba9366ffcc7a03aa8d0e546400ecf66b3.udd" 3122
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/73/19/344004d5c0678bdc44d5da31cc2621958e9e.udd" 3123
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/23/08/ad5b7ac623246980ec0a600bd6aba35133aa.udd" 3124
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/35/c5/b943c7c51640fef38df954a03d81f7fae58b.udd" 3125
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ce/2d/a97109842ffb2991606bddcc82b00a66d482.udd" 3126
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/de/df/8f3a8ad92386f293d41bbceb785c9b009efb.udd" 3127
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/aa/56/ac45ef5d5e3016a577b35ae7697b0c740edb.udd" 3128
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_1.uasset" 3129
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_20.uasset" 3130
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_21.uasset" 3131
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_22.uasset" 3132
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_23.uasset" 3133
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_24.uasset" 3134
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_25.uasset" 3135
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_2.uasset" 3136
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_3.uasset" 3137
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_4.uasset" 3138
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_5.uasset" 3139
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_6.uasset" 3140
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_7.uasset" 3141
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_8.uasset" 3142
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_9.uasset" 3143
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 3144
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3a/bc/8e63bb3c2689f946339cc0a65796be8540cd.udd" 3145
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/54/db/5dea2f3aff3a0fa3a7f67581be034167bde0.udd" 3146
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2d/89/c9612b7d4f3096a3c969df144e1aff1d0fb4.udd" 3147
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c9/2b/bac4cf366c907b524f786de0a5ccb2b7b306.udd" 3148
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a5/a0/b428531628a852d5b0183e34522d9ebb81ce.udd" 3149
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/74/20/8c68ac59b19fbc52fe8a0b5a70eed3aaf2cd.udd" 3150
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b5/e0/d6404c6e43c5bcc0633c4461dc67f5546151.udd" 3151
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b6/0a/ec04e55a267e623aea6becc5241ad7a727ba.udd" 3152
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3e/41/4c8e43c870f5ec0ad5d88a76c253b8a31c23.udd" 3153
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/13/40/6f6635ab6ebcd25c5740cd2c542d446a99dd.udd" 3154
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/95/e1/0b33600e156c0c488c57c0f5cac2f6b9cd03.udd" 3155
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/b9/ca/fa042560190f612753dc0a65bbb1c1fa0f1c.udd" 3156
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/eb/02/24c34f9669ce38505b2fbe28a44ad6ff25d8.udd" 3157
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/59/a7/827171efdbf700e1ac0807b09f022a806fb1.udd" 3158
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/11/d9/cbaaa0ad08d0009b0308325f435721efd8fe.udd" 3159
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d8/fd/224c5e65dae576c3bdc0c54302a4a9b0e6bb.udd" 3160
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c7/a0/167bd1caa4e49fd3f34ace14d41f41f9424f.udd" 3161
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1a/78/d1941f373517f78ba2d61a26e6580c7c39ac.udd" 3162
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/88/45/86d22af8d3b63d6d15c67a26fbf7d2fc106a.udd" 3163
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f0/04/7fa4390b7041ec98cb8d9290272d4a064d06.udd" 3164
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ce/58/66e911ceb637b9f2dbe3f1d9f9bebe71879b.udd" 3165
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/07/44/2da3833c1097f48591d75910bdbc4cc45f92.udd" 3166
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/19/66/d39d25f2aafa875f6a8d82b564b7aa50147e.udd" 3167
+"../../../Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset" 3168
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/38/82/c730e8a3073c5a14a797be97f776f5bb16cd.udd" 3169
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ef/67/199b4c110942d98403f5f4849e20fbe27fa3.udd" 3170
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ef/a4/4170933072cddd38fe75b5074eb39987722c.udd" 3171
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/af/f4/9619e73cb64d545d6845448110646062aa2c.udd" 3172
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2c/59/a30ebd788ac2e39d33ff34ae957cb39369eb.udd" 3173
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f7/c9/d4e7fe232030d2654597b0ca73a00d43fb29.udd" 3174
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f5/eb/6ef31d08d04ee540231e5545364e9b349f96.udd" 3175
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/90/44/eaaf6f0ccb67303540707d72fb0b8b2cc3c1.udd" 3176
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/19/3e/343ad9538715996c4419ec39e23ad4f5483e.udd" 3177
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f1/a0/6c29b8b69e87da07754c10f89aa6253d484b.udd" 3178
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e7/03/80d0b093020f00c9f111c7e34ec51dcef4b9.udd" 3179
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d9/28/b292b86df6fe0807c12908902d807df8a6ee.udd" 3180
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e3/40/3c5ee2a505f24c4dfe93e0cf2fac80a3fc75.udd" 3181
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a5/12/1f924b08f5da03cc96ea32847db9ca2b5981.udd" 3182
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/d4/9d/5a1827f6681eb676d8a82d38598de03d8d5b.udd" 3183
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2c/08/61b50fcfc752f7010525b5efd4a54eb73359.udd" 3184
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c0/c4/937208bce941731ede3633079e69be0c0db0.udd" 3185
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/4b/9d/bc9a83c44563a0ed1afb8cf47e065bfa28a4.udd" 3186
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/86/b4/d6f4884d736dbfb227c860df612dcf81273c.udd" 3187
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c3/dd/c038bbf67094df88eca63c0b9e4e277936ba.udd" 3188
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2d/be/ca77e0dee5f86f0a1ee3bb53fdd1781165e8.udd" 3189
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1a/4f/afb8c643fd6e0b1e4758f448b99407235f29.udd" 3190
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ca/bd/82fbc3fb37aabe189bc569931fb8aa1d8ed6.udd" 3191
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9d/33/a9ca3cb9cf20f15e5f57b7c89d2c1c17d8d8.udd" 3192
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/cd/d4/dfa937c85f168ed9dbfd2fe3e6af2729f308.udd" 3193
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Content/03/42/591b7a82c9f277bbcd344fb8314cb7e25903.udd" 3194
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/bb/64/11611fae9bb6564e7ce4be60eb17875d46ff.udd" 3195
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Content/57/58/c4497f2713969fabb1506750cbb45845216a.udd" 3196
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/be/4b/d897c64eafca5757f280f9b45d4aa26c029a.udd" 3197
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/1e/a2/f742a85734b6fb553b1ed0c32b5af693a81f.udd" 3198
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/ba/6a/f81d7e9897223d9ab58fdb2f996242a07eec.udd" 3199
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/4e/71/9df1b9973a69932684f6d5e2137e96778cc0.udd" 3200
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/b3/fc/784407023ec01c735569a47316792904c6c4.udd" 3201
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/76/ac/a4d15e47d18997d27a36ae19c30c49a71e51.udd" 3202
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/99/02/e4968fb8e7bf34007c7a797dccabcacb0c3b.udd" 3203
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/01/7b/6f1652cc109b8468367d72850327c3d13e2b.udd" 3204
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/49/76/7486a37b68421d0788de68303384078596ab.udd" 3205
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/1c/10/8e7aa17557c05e53979e6176dbd0a9ec9b82.udd" 3206
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/86/91/89d78ff8bef934583b0749c5146378ffa13b.udd" 3207
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/de/9e/7087c46456d1c5189dde8c9ffa7081f6c582.udd" 3208
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/69/3c/b5aea02dd6cdbed7d58d6e29417d08ab3f30.udd" 3209
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/73/71/19df595fb845ec99ce9cf23a43b387e22677.udd" 3210
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 3211
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 3212
+"../../../Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset" 3213
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 3214
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 3215
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_PlayerScoreHUD.uasset" 3216
+=======
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/dc/f9/165c694f075a8b2d914c1dd501c93d84337b.udd" 2743
+"C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/7a/b5/7dc239b58c16a277d3d28355b23286f2f61d.udd" 2744
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/22/ff/44c66ec71530cd3c31dce2d36b4b42040601.udd" 2745
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/37/72/923d5ff797ffb2deadeeb4f041f6e39cfd2f.udd" 2746
 "C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyGSM/e7/11/77a257a8213dd6a8f34cc1d3f6d7b268217a.udd" 2747
@@ -6640,8 +7185,11 @@
 >>>>>>> main
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> main
 =======
 >>>>>>> main
 =======
 >>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
