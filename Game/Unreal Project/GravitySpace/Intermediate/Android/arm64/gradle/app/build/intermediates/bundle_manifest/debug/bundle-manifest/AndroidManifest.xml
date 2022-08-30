@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ZmassProductions.GravitySpace"
-<<<<<<< HEAD
-    android:installLocation="internalOnly"
-=======
     android:installLocation="auto"
->>>>>>> main
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -26,11 +22,8 @@
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="com.android.vending.BILLING" />
-<<<<<<< HEAD
     <!-- Supported texture compression formats (cooked) -->
     <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
-=======
->>>>>>> main
     <!-- Application Definition -->
     <application
         android:name="com.epicgames.unreal.GameApplication"
@@ -49,11 +42,7 @@
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:resizeableActivity="false"
-<<<<<<< HEAD
             android:screenOrientation="sensorPortrait"
-=======
-            android:screenOrientation="portrait"
->>>>>>> main
             android:theme="@style/UnrealSplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -68,11 +57,7 @@
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:resizeableActivity="false"
-<<<<<<< HEAD
             android:screenOrientation="sensorPortrait"
-=======
-            android:screenOrientation="portrait"
->>>>>>> main
             android:theme="@style/UnrealSplashTheme" >
             <meta-data
                 android:name="android.app.lib_name"
@@ -81,11 +66,7 @@
         <activity
             android:name="com.ZmassProductions.GravitySpace.DownloaderActivity"
             android:configChanges="mcc|mnc|uiMode|density|screenSize|orientation|keyboardHidden|keyboard"
-<<<<<<< HEAD
             android:screenOrientation="sensorPortrait"
-=======
-            android:screenOrientation="portrait"
->>>>>>> main
             android:theme="@style/UnrealSplashTheme" />
 
         <meta-data
@@ -108,11 +89,7 @@
             android:value="false" />
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.bShouldHideUI"
-<<<<<<< HEAD
             android:value="false" />
-=======
-            android:value="true" />
->>>>>>> main
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.ProjectName"
             android:value="GravitySpace" />
@@ -127,11 +104,7 @@
             android:value="Development" />
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.CookedFlavors"
-<<<<<<< HEAD
             android:value="ASTC" />
-=======
-            android:value="ETC2,DXT,ASTC" />
->>>>>>> main
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.bValidateTextureFormats"
             android:value="true" />
@@ -178,11 +151,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-<<<<<<< HEAD
             android:value="21900000.00" />
-=======
-            android:value="2.10" />
->>>>>>> main
 
         <receiver
             android:name="com.epicgames.unreal.RemoteFileManagerReceiver"

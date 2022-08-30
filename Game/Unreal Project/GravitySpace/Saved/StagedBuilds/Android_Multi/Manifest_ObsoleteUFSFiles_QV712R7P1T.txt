@@ -1,0 +1,2 @@
+GravitySpace/Saved/Logs/GravitySpace.log
+GravitySpace/Saved/Logs/GravitySpace-backup-2022.08.30-21.56.29.log

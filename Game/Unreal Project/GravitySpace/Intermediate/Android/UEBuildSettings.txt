@@ -24,13 +24,8 @@ bPackageDataInsideApk=false
 bUseExternalFilesDir=false
 bPublicLogFiles=true
 bCreateAllPlatformsInstall=false
-<<<<<<< HEAD
 Orientation=SensorPortrait
-InstallLocation=InternalOnly
-=======
-Orientation=Portrait
 InstallLocation=Auto
->>>>>>> main
 DepthBufferPreference=Default
 PackageName=com.ZmassProductions.GravitySpace
 StoreVersion=1
@@ -51,11 +46,7 @@ bMultiTargetFormat_ASTC=true
 TextureFormatPriority_ETC2=0.2
 TextureFormatPriority_DXT=0.6
 TextureFormatPriority_ASTC=0.9
-<<<<<<< HEAD
 bEnableNewKeyboard=False
-=======
-bEnableNewKeyboard=True
->>>>>>> main
 bAndroidVoiceEnabled=false
 bBuildWithHiddenSymbolVisibility=false
 bSaveSymbols=false
@@ -69,11 +60,7 @@ bEnableUniversalAPK=True
 bBundleABISplit=True
 bBundleLanguageSplit=True
 bBundleDensitySplit=True
-<<<<<<< HEAD
 bFullScreen=False
-=======
-bFullScreen=True
->>>>>>> main
 bForceLDLinker=False
 bForceSmallOBBFiles=False
 bAllowLargeOBBFiles=False
@@ -81,10 +68,7 @@ bAllowPatchOBBFile=False
 bAllowOverflowOBBFiles=False
 bExtractNativeLibs=true
 bEnableDomStorage=False
-<<<<<<< HEAD
 MaxAspectRatio=21.900000
-=======
->>>>>>> main
 SDKPath=(Path="C:/Users/zizom/AppData/Local/Android/Sdk")
 NDKPath=(Path="C:/Users/zizom/AppData/Local/Android/Sdk/ndk/21.1.6352462")
 JavaPath=(Path="C:/Program Files/Android/Android Studio/jre")

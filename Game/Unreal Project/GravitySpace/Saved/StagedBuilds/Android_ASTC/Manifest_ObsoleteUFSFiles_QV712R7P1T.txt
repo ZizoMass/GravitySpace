@@ -922,10 +922,6 @@ Engine/Content/EngineResources/WhiteSquareTexture.uasset
 Engine/Content/EngineResources/WhiteSquareTexture.uexp
 Engine/Content/EngineSounds/Master.uasset
 Engine/Content/EngineSounds/Master.uexp
-Engine/Content/Maps/Entry.uexp
-Engine/Content/Maps/Entry.umap
-Engine/Content/Maps/Entry_BuiltData.uasset
-Engine/Content/Maps/Entry_BuiltData.uexp
 Engine/Content/Tutorial/ContentIntroCurve.uasset
 Engine/Content/Tutorial/ContentIntroCurve.uexp
 GravitySpace/Content/Blueprints/BP_CharacterBullet.uasset
@@ -1418,3 +1414,5 @@ Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset
 Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp
 Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset
 Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp
+GravitySpace/Saved/Logs/GravitySpace.log
+GravitySpace/Saved/Logs/GravitySpace-backup-2022.08.30-21.56.29.log
