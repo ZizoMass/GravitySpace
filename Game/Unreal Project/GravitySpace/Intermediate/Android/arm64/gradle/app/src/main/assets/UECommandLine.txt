@@ -1,9 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ../../../GravitySpace/GravitySpace.uproject /Game/Maps/LVL_GravitySpace -Messaging -SessionId=33CD075C4313090A177CB79A276617F0 -SessionOwner="zizom" -SessionName="Launch On Device"
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> main
 ../../../GravitySpace/GravitySpace.uproject  -Messaging -SessionId=4AEA4E0B49F788821C83369DFD9D4782 -SessionOwner="zizom" -SessionName="J9110 (QV712R7P1T)"   -filehostip=127.0.0.1+fe80::8da2:8e84:db39:ee9d%8+192.168.2.128+::1+127.0.0.1
 =======
 ../../../GravitySpace/GravitySpace.uproject /Game/Maps/LVL_GravitySpace -Messaging -SessionId=FD5620244CF20CD868B90F8623D1B6F2 -SessionOwner="zizom" -SessionName="Launch On Device"
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main

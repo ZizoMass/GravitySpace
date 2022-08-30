@@ -96,7 +96,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
 			"ChunkId": "5c918efb403d4bb200000001"
 		},
@@ -106,6 +109,9 @@
 		},
 		{
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
 			"ChunkId": "a325708448a8980800000001"
@@ -252,8 +258,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
 			"ChunkId": "27d3dbbd9cb5875a00000001"
@@ -262,7 +271,10 @@
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
 			"ChunkId": "27d3dbbd9cb5875a00000002"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 		},
 		{
 =======
@@ -281,8 +293,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
 			"ChunkId": "5c918efb403d4bb200000001"
@@ -293,6 +308,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+>>>>>>> main
 =======
 =======
 >>>>>>> main
@@ -344,7 +364,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
 			"ChunkId": "27d3dbbd9cb5875a00000001"
 		},
@@ -354,6 +377,9 @@
 		},
 		{
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
 			"ChunkId": "f267c7830989284200000001"
@@ -496,6 +522,9 @@
 			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
 			"ChunkId": "2d5d52b0905803e600000002"
 =======
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
 			"ChunkId": "a8fda97722bfb0e600000001"
@@ -559,6 +588,9 @@
 		{
 			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
 			"ChunkId": "8953c1244c740aad00000001"
+=======
+<<<<<<< HEAD
+>>>>>>> main
 =======
 >>>>>>> main
 			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
@@ -647,6 +679,14 @@
 			"ChunkId": "52a5c49a743a12b500000001"
 		},
 		{
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+>>>>>>> main
 =======
 >>>>>>> main
 			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
@@ -822,9 +862,12 @@
 			"ChunkId": "f87a01e7b138538a00000001"
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
 			"ChunkId": "f87a01e7b138538a00000001"
 =======
+=======
+>>>>>>> main
 			"Path": "GravitySpace/Content/Blueprints/BP_GameInstance.uasset",
 			"ChunkId": "2763568ea69317c200000001"
 		},
@@ -860,6 +903,9 @@
 			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 			"ChunkId": "72ff6427f1042ed200000001"
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 		},
 		{
@@ -882,7 +928,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
 			"ChunkId": "2d5d52b0905803e600000001"
 		},
@@ -904,6 +953,9 @@
 		},
 		{
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset",
 			"ChunkId": "afa5fedacd49f15d00000001"
@@ -916,10 +968,13 @@
 <<<<<<< HEAD
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
 			"ChunkId": "f38cb73e67825d9600000001"
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
 			"ChunkId": "f38cb73e67825d9600000001"
+=======
+>>>>>>> main
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
@@ -973,6 +1028,9 @@
 			"Path": "GravitySpace/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
 			"ChunkId": "4fec0163af43e6cc00000002"
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 		},
 		{
@@ -1009,8 +1067,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "GravitySpace/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
 			"ChunkId": "4fec0163af43e6cc00000001"
@@ -1021,6 +1082,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+>>>>>>> main
 =======
 =======
 >>>>>>> main
@@ -1078,8 +1144,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Path": "GravitySpace/Content/Assets/Textures/Camada_19.uasset",
 			"ChunkId": "ebf0ef0586056f6d00000001"
@@ -1090,6 +1159,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+>>>>>>> main
 =======
 =======
 >>>>>>> main
@@ -1159,7 +1233,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
 			"ChunkId": "f38cb73e67825d9600000001"
 		},
@@ -1975,7 +2052,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Name": "/Engine/EditorResources/S_Solver",
 			"PackageChunkId": "5c918efb403d4bb200000001",
 			"BulkDataChunkIds": [
@@ -1984,6 +2064,9 @@
 		},
 		{
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
 			"PackageChunkId": "a325708448a8980800000001"
@@ -2127,8 +2210,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
 			"PackageChunkId": "27d3dbbd9cb5875a00000001",
@@ -2136,7 +2222,10 @@
 				"27d3dbbd9cb5875a00000002"
 			]
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 		},
 		{
 =======
@@ -2154,8 +2243,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/Engine/EditorResources/S_Solver",
 			"PackageChunkId": "5c918efb403d4bb200000001",
@@ -2165,6 +2257,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+>>>>>>> main
 =======
 =======
 >>>>>>> main
@@ -2216,7 +2313,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
 			"PackageChunkId": "27d3dbbd9cb5875a00000001",
 			"BulkDataChunkIds": [
@@ -2225,6 +2325,9 @@
 		},
 		{
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
 			"PackageChunkId": "f267c7830989284200000001"
@@ -2364,6 +2467,9 @@
 				"2d5d52b0905803e600000002"
 			]
 =======
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/Engine/EditorResources/S_TriggerCapsule",
 			"PackageChunkId": "a8fda97722bfb0e600000001"
@@ -2427,6 +2533,9 @@
 		{
 			"Name": "/Engine/EditorResources/S_TriggerBox",
 			"PackageChunkId": "8953c1244c740aad00000001"
+=======
+<<<<<<< HEAD
+>>>>>>> main
 =======
 >>>>>>> main
 			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
@@ -2678,9 +2787,12 @@
 			"PackageChunkId": "f87a01e7b138538a00000001"
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"Name": "/Engine/EngineResources/GradientTexture0",
 			"PackageChunkId": "f87a01e7b138538a00000001"
 =======
+=======
+>>>>>>> main
 			"Name": "/Game/Blueprints/BP_GameInstance",
 			"PackageChunkId": "2763568ea69317c200000001"
 		},
@@ -2716,6 +2828,9 @@
 			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
 			"PackageChunkId": "72ff6427f1042ed200000001"
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 		},
 		{
@@ -2737,7 +2852,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
 			"PackageChunkId": "2d5d52b0905803e600000001",
 			"BulkDataChunkIds": [
@@ -2758,6 +2876,9 @@
 		},
 		{
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/Engine/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV",
 			"PackageChunkId": "afa5fedacd49f15d00000001"
@@ -2770,10 +2891,13 @@
 <<<<<<< HEAD
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
 			"PackageChunkId": "f38cb73e67825d9600000001"
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
 			"PackageChunkId": "f38cb73e67825d9600000001"
+=======
+>>>>>>> main
 		},
 		{
 			"Name": "/Engine/EngineMaterials/FlattenMaterial",
@@ -2826,6 +2950,9 @@
 				"4fec0163af43e6cc00000002"
 			]
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 		},
 		{
@@ -2865,8 +2992,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/Game/LevelPrototyping/Textures/T_GridChecker_A",
 			"PackageChunkId": "4fec0163af43e6cc00000001",
@@ -2876,6 +3006,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+>>>>>>> main
 =======
 =======
 >>>>>>> main
@@ -2931,8 +3066,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 			"Name": "/Game/Assets/Textures/Camada_19",
 			"PackageChunkId": "ebf0ef0586056f6d00000001"
@@ -2943,6 +3081,11 @@
 		},
 		{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+>>>>>>> main
 =======
 =======
 >>>>>>> main
@@ -3012,7 +3155,10 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
 			"PackageChunkId": "f38cb73e67825d9600000001"
 		},
