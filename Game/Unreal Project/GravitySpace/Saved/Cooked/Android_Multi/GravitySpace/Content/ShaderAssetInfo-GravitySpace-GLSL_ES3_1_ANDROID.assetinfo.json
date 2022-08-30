@@ -134,15 +134,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3A9DD8987D66F23FEBC0995DBE08A0AE12C7CCAE",
-			"Assets": [
-				"/Engine/EditorMaterials/Cloth/CameraLitDoubleSided"
-			]
-		},
-		{
 			"ShaderMapHash": "DFB9E578C4DFF25709D5D96A7AC38399FD9558AF",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "3A9DD8987D66F23FEBC0995DBE08A0AE12C7CCAE",
+			"Assets": [
+				"/Engine/EditorMaterials/Cloth/CameraLitDoubleSided"
 			]
 		},
 		{

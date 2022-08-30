@@ -221,11 +221,11 @@
 114            android:value="false" />
 114-->Z:\app\src\main\AndroidManifest.xml:28:81-102
 115        <meta-data
-115-->Z:\app\src\main\AndroidManifest.xml:29:5-107
+115-->Z:\app\src\main\AndroidManifest.xml:29:5-106
 116            android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout"
 116-->Z:\app\src\main\AndroidManifest.xml:29:16-82
-117            android:value="false" />
-117-->Z:\app\src\main\AndroidManifest.xml:29:83-104
+117            android:value="true" />
+117-->Z:\app\src\main\AndroidManifest.xml:29:83-103
 118        <meta-data
 118-->Z:\app\src\main\AndroidManifest.xml:30:5-99
 119            android:name="com.epicgames.unreal.GameActivity.bAllowIMU"
