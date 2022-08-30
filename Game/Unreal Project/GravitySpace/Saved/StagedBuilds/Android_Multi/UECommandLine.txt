@@ -1,0 +1,1 @@
+../../../GravitySpace/GravitySpace.uproject /Game/Maps/LVL_GravitySpace -Messaging -SessionId=9ED9FCA640A5A6A968B679AC50DBBD38 -SessionOwner="zizom" -SessionName="Launch On Device"
