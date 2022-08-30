@@ -489,6 +489,212 @@
 "../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 488
 "../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 489
 "../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 490
+<<<<<<< HEAD
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 491
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 492
+"../../../Engine/Content/Maps/Entry.uexp" 493
+"../../../Engine/Content/Maps/Entry.umap" 494
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/PlayerStart_Blueprint.uasset" 495
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/PlayerStart_Blueprint.uexp" 496
+"../../../Engine/Content/BasicShapes/Cube.uasset" 497
+"../../../Engine/Content/BasicShapes/Cube.uexp" 498
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 499
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 500
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 501
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 502
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 503
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 504
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 505
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 506
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 507
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/DefaultWhiteGrid.ubulk" 508
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/DefaultWhiteGrid.uasset" 509
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Textures/DefaultWhiteGrid.uexp" 510
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/M_PrototypeMovebleGrid.uasset" 511
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/M_PrototypeMovebleGrid.uexp" 512
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 513
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 514
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" 515
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uexp" 516
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 517
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 518
+"../../../Engine/Content/EngineMaterials/Grid.ubulk" 519
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 520
+"../../../Engine/Content/EngineMaterials/Grid.uexp" 521
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 523
+"../../../Engine/Content/EditorMaterials/GeometryCollection/SelectedGeometryMaterial.uasset" 524
+"../../../Engine/Content/EditorMaterials/GeometryCollection/SelectedGeometryMaterial.uexp" 525
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DestructibleObstacle.uasset" 526
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DestructibleObstacle.uexp" 527
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgeableObstacle.uasset" 528
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgeableObstacle.uexp" 529
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_GameInstance.uasset" 530
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_GameInstance.uexp" 531
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 532
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 533
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 534
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 535
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_9.uasset" 536
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_9.uexp" 537
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_9_Sprite.uasset" 538
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_9_Sprite.uexp" 539
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_8.uasset" 540
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_8.uexp" 541
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_8_Sprite.uasset" 542
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_8_Sprite.uexp" 543
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_7.uasset" 544
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_7.uexp" 545
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_7_Sprite.uasset" 546
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_7_Sprite.uexp" 547
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_6.uasset" 548
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_6.uexp" 549
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_6_Sprite.uasset" 550
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_6_Sprite.uexp" 551
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_5.uasset" 552
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_5.uexp" 553
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_5_Sprite.uasset" 554
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_5_Sprite.uexp" 555
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_4.uasset" 556
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_4.uexp" 557
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_4_Sprite.uasset" 558
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_4_Sprite.uexp" 559
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_3.uasset" 560
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_3.uexp" 561
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_3_Sprite.uasset" 562
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_3_Sprite.uexp" 563
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_2.uasset" 564
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_2.uexp" 565
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_2_Sprite.uasset" 566
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_2_Sprite.uexp" 567
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_25.uasset" 568
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_25.uexp" 569
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_25_Sprite.uasset" 570
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_25_Sprite.uexp" 571
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_24.uasset" 572
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_24.uexp" 573
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_24_Sprite.uasset" 574
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_24_Sprite.uexp" 575
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_23.uasset" 576
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_23.uexp" 577
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_23_Sprite.uasset" 578
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_23_Sprite.uexp" 579
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_22.uasset" 580
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_22.uexp" 581
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_22_Sprite.uasset" 582
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_22_Sprite.uexp" 583
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_21.uasset" 584
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_21.uexp" 585
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_21_Sprite.uasset" 586
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_21_Sprite.uexp" 587
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_20.uasset" 588
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_20.uexp" 589
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_20_Sprite.uasset" 590
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_20_Sprite.uexp" 591
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_1.uasset" 592
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_1.uexp" 593
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_1_Sprite.uasset" 594
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_1_Sprite.uexp" 595
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_19.uasset" 596
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_19.uexp" 597
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_19_Sprite.uasset" 598
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_19_Sprite.uexp" 599
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_18.uasset" 600
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_18.uexp" 601
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_18_Sprite.uasset" 602
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_18_Sprite.uexp" 603
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_17.uasset" 604
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_17.uexp" 605
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_17_Sprite.uasset" 606
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_17_Sprite.uexp" 607
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_16.uasset" 608
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_16.uexp" 609
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_16_Sprite.uasset" 610
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_16_Sprite.uexp" 611
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_15.uasset" 612
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_15.uexp" 613
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_15_Sprite.uasset" 614
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_15_Sprite.uexp" 615
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_14.uasset" 616
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_14.uexp" 617
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_14_Sprite.uasset" 618
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_14_Sprite.uexp" 619
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_13.uasset" 620
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_13.uexp" 621
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_13_Sprite.uasset" 622
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_13_Sprite.uexp" 623
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_12.uasset" 624
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_12.uexp" 625
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_12_Sprite.uasset" 626
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_12_Sprite.uexp" 627
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_11.uasset" 628
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_11.uexp" 629
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_11_Sprite.uasset" 630
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_11_Sprite.uexp" 631
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_10.uasset" 632
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Textures/Camada_10.uexp" 633
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_10_Sprite.uasset" 634
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Sprites/Camada_10_Sprite.uexp" 635
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Flipbook/PF_SpaceshipBullet.uasset" 636
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Flipbook/PF_SpaceshipBullet.uexp" 637
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterBullet.uasset" 638
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterBullet.uexp" 639
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 640
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 641
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 642
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 643
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_Skeleton.uasset" 644
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_Skeleton.uexp" 645
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset.uasset" 646
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset.uexp" 647
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 648
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uexp" 649
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01.uasset" 650
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01.uexp" 651
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uasset" 652
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_CharacterSpaceship.uexp" 653
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.ubulk" 654
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 655
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uexp" 656
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_GameMainMenu.uasset" 657
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_GameMainMenu.uexp" 658
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_GameOver.uasset" 659
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_GameOver.uexp" 660
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_PlayerScoreHUD.uasset" 661
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/UI/Widgets/WB_PlayerScoreHUD.uexp" 662
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_GravitySpaceGameMode.uasset" 663
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_GravitySpaceGameMode.uexp" 664
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk" 665
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 666
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uexp" 667
+"../../../Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset" 668
+"../../../Engine/Content/EngineDebugMaterials/HeatmapMaterial.uexp" 669
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyBullet.uasset" 670
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyBullet.uexp" 671
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 672
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 673
+"../../../Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset" 674
+"../../../Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uexp" 675
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyTower.uasset" 676
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyTower.uexp" 677
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 678
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 679
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 680
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 681
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uexp" 682
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow11_PhysicsAsset.uasset" 683
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow11_PhysicsAsset.uexp" 684
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow11.uasset" 685
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow11.uexp" 686
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 687
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 688
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemySpaceship.uasset" 689
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemySpaceship.uexp" 690
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset" 691
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uexp" 692
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.uexp" 693
+"F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" 694
+=======
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/PlayerStart_Blueprint.uasset" 491
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/PlayerStart_Blueprint.uexp" 492
 "../../../Engine/Content/BasicShapes/Cube.uasset" 493
@@ -689,3 +895,4 @@
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uexp" 688
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.uexp" 689
 "F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" 690
+>>>>>>> main

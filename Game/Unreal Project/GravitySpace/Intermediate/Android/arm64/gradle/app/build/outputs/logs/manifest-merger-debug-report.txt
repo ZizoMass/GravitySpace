@@ -1,9 +1,16 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
+ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+=======
 ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+>>>>>>> main
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\bc24b175396447aa1ce464b81dfc3fdc\jetified-play-services-auth-11.8.0\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\07ef34e8884d0bc34da3464aea1a6688\jetified-play-services-games-11.8.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\7b8f22da8d9badca08e5d59541542eed\jetified-play-services-nearby-11.8.0\AndroidManifest.xml:2:1-11:12
@@ -56,25 +63,43 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+<<<<<<< HEAD
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-65:12
+=======
 INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+>>>>>>> main
 	package
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:70-113
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 	android:versionName
+<<<<<<< HEAD
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:177-202
+=======
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:169-194
+>>>>>>> main
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
+<<<<<<< HEAD
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:153-176
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:114-152
+=======
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:145-168
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
 	android:installLocation
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:114-144
+>>>>>>> main
 application
 ADDED from Z:\app\src\main\AndroidManifest.xml:3:3-51:17
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\bc24b175396447aa1ce464b81dfc3fdc\jetified-play-services-auth-11.8.0\AndroidManifest.xml:22:5-37:19
@@ -140,7 +165,11 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\zi
 activity#com.epicgames.unreal.SplashActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-9:16
 	android:screenOrientation
+<<<<<<< HEAD
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:231-273
+=======
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:231-267
+>>>>>>> main
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:90-122
 	android:launchMode
@@ -148,7 +177,11 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-9:16
 	android:exported
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:66-89
 	android:debuggable
+<<<<<<< HEAD
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:274-299
+=======
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:268-293
+>>>>>>> main
 	android:resizeableActivity
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:196-230
 	android:theme
@@ -168,13 +201,21 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:7:9-69
 activity#com.epicgames.unreal.GameActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:10:5-12:16
 	android:screenOrientation
+<<<<<<< HEAD
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:387-429
+=======
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:387-423
+>>>>>>> main
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:64-96
 	android:launchMode
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:355-386
 	android:debuggable
+<<<<<<< HEAD
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:430-455
+=======
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:424-449
+>>>>>>> main
 	android:resizeableActivity
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:320-354
 	android:configChanges
@@ -190,6 +231,15 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:11:7-79
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:11:18-53
 activity#com.ZmassProductions.GravitySpace.DownloaderActivity
+<<<<<<< HEAD
+ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-230
+	android:screenOrientation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-92
+	android:configChanges
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:93-186
+	android:theme
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:187-227
+=======
 ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-224
 	android:screenOrientation
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-86
@@ -197,6 +247,7 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-224
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:87-180
 	android:theme
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:181-221
+>>>>>>> main
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:15-49
 meta-data#com.epicgames.unreal.GameActivity.EngineVersion
@@ -236,9 +287,15 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:19:5-109
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:19:16-84
 meta-data#com.epicgames.unreal.GameActivity.bShouldHideUI
+<<<<<<< HEAD
+ADDED from Z:\app\src\main\AndroidManifest.xml:20:5-103
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:20:79-100
+=======
 ADDED from Z:\app\src\main\AndroidManifest.xml:20:5-102
 	android:value
 		ADDED from Z:\app\src\main\AndroidManifest.xml:20:79-99
+>>>>>>> main
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:20:16-78
 meta-data#com.epicgames.unreal.GameActivity.ProjectName
@@ -266,9 +323,15 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-114
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:24:16-83
 meta-data#com.epicgames.unreal.GameActivity.CookedFlavors
+<<<<<<< HEAD
+ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-102
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:79-99
+=======
 ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-111
 	android:value
 		ADDED from Z:\app\src\main\AndroidManifest.xml:25:79-108
+>>>>>>> main
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:25:16-78
 meta-data#com.epicgames.unreal.GameActivity.bValidateTextureFormats
@@ -358,9 +421,15 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:41:9-71
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:41:17-68
 meta-data#android.max_aspect
+<<<<<<< HEAD
+ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-80
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:44:50-77
+=======
 ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-73
 	android:value
 		ADDED from Z:\app\src\main\AndroidManifest.xml:44:50-70
+>>>>>>> main
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:44:16-49
 receiver#com.epicgames.unreal.RemoteFileManagerReceiver
@@ -427,6 +496,13 @@ MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\zizom\.gradle\cac
 MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\zizom\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:10:5-67
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:62:20-62
+<<<<<<< HEAD
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from Z:\app\src\main\AndroidManifest.xml:64:3-77
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:64:24-74
+=======
+>>>>>>> main
 uses-sdk
 INJECTED from Z:\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from Z:\app\src\main\AndroidManifest.xml
