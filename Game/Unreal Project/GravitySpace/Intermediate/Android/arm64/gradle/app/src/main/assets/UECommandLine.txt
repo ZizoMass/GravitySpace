@@ -1,1 +1,1 @@
-../../../GravitySpace/GravitySpace.uproject  -Messaging -SessionId=AC75852543EF5CB5E91364984F1FF8EA -SessionOwner="zizom" -SessionName="J9110 (QV712R7P1T)"   -filehostip=127.0.0.1+fe80::8da2:8e84:db39:ee9d%8+192.168.2.128+::1+127.0.0.1
+../../../GravitySpace/GravitySpace.uproject /Game/Maps/LVL_GravitySpace -Messaging -SessionId=730B47FF44B202D0594CB08E4C72F546 -SessionOwner="zizom" -SessionName="Launch On Device"

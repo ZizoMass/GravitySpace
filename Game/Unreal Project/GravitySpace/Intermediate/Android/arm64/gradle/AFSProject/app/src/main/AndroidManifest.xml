@@ -17,12 +17,12 @@
     <meta-data android:name="com.epicgames.unreal.GameActivity.DepthBufferPreference" android:value="0" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bPackageDataInsideApk" android:value="false" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.bShouldHideUI" android:value="false" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.bShouldHideUI" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.ProjectName" android:value="GravitySpace" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bHasOBBFiles" android:value="false" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.BuildConfiguration" android:value="Development" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.CookedFlavors" android:value="ASTC" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.CookedFlavors" android:value="ETC2,DXT,ASTC" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bUseExternalFilesDir" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bPublicLogFiles" android:value="false" />
@@ -60,6 +60,4 @@
   <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
   <uses-permission android:name="android.permission.VIBRATE" />
   <uses-permission android:name="com.android.vending.BILLING" />
-  <!-- Supported texture compression formats (cooked) -->
-  <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
 </manifest>
