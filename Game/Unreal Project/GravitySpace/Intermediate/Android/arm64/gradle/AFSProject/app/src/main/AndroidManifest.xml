@@ -26,7 +26,7 @@
     <meta-data android:name="com.epicgames.unreal.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bUseExternalFilesDir" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bPublicLogFiles" android:value="false" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout" android:value="false" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.bUseDisplayCutout" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bAllowIMU" android:value="false" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bSupportsVulkan" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.StartupPermissions" android:value="android.permission.WRITE_EXTERNAL_STORAGE" />

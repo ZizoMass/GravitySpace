@@ -15,5 +15,9 @@
 			"Name": "Metasound",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
 	]
 }

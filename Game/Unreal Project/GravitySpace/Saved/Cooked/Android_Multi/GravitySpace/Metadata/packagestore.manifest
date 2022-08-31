@@ -45,6 +45,10 @@
 			"ChunkId": "5f510b7cd6e0bdc800000001"
 		},
 		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset",
+			"ChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset",
 			"ChunkId": "8fcb1cae0c92026900000001"
 		},
@@ -233,6 +237,10 @@
 			"ChunkId": "7f8259be57e87dce00000001"
 		},
 		{
+			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
+			"ChunkId": "7f8259be57e87dce00000001"
+		},
+		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
 			"ChunkId": "6f3a7c0fe1cf64ce00000001"
 		},
@@ -243,6 +251,17 @@
 		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
 			"ChunkId": "27d3dbbd9cb5875a00000002"
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+=======
+>>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
@@ -533,8 +552,8 @@
 			"ChunkId": "7a7173cfb4095b9f00000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
-			"ChunkId": "b743bdd5e5df72a400000001"
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
@@ -555,6 +574,82 @@
 		{
 			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
 			"ChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
+			"ChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Path": "GravitySpace/Content/Blueprints/BP_GameInstance.uasset",
+			"ChunkId": "2763568ea69317c200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "GravitySpace/Content/Blueprints/PlayerStart_Blueprint.uasset",
+			"ChunkId": "d653ceba3075695600000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+			"ChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
+			"Path": "Engine/Content/MapTemplates/Materials/BasicAsset01.uasset",
+			"ChunkId": "a2b9c1b48ce6708700000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset",
+			"ChunkId": "1dad2b740088160900000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/Sounds/UI/Click_on_Button.ubulk",
+			"ChunkId": "1dad2b740088160900000002"
+		},
+		{
+			"Path": "GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset.uasset",
+			"ChunkId": "97a429046e01a5c000000001"
+		},
+		{
+			"Path": "GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow01_Skeleton.uasset",
+			"ChunkId": "5760d89eb02fca4800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset",
+			"ChunkId": "447dc9c8064cfcbb00000001"
+		},
+		{
+			"Path": "GravitySpace/Content/Assets/Meshs/Spaceship/StarSparrow11_PhysicsAsset.uasset",
+			"ChunkId": "f40b7f972821850a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
+			"ChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
+			"ChunkId": "ff5a26a059754af200000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
@@ -817,6 +912,7 @@
 			"ChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
+>>>>>>> main
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
 			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
@@ -1503,6 +1599,10 @@
 			"PackageChunkId": "5f510b7cd6e0bdc800000001"
 		},
 		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector",
+			"PackageChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
 			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard",
 			"PackageChunkId": "8fcb1cae0c92026900000001"
 		},
@@ -1688,6 +1788,10 @@
 			"PackageChunkId": "7f8259be57e87dce00000001"
 		},
 		{
+			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
+			"PackageChunkId": "7f8259be57e87dce00000001"
+		},
+		{
 			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
 			"PackageChunkId": "6f3a7c0fe1cf64ce00000001"
 		},
@@ -1697,6 +1801,17 @@
 			"BulkDataChunkIds": [
 				"27d3dbbd9cb5875a00000002"
 			]
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> main
+=======
+>>>>>>> main
+=======
+>>>>>>> 07c9271c4332d4df1264859f59fdac1d444d2f45
 		},
 		{
 			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
@@ -1975,11 +2090,8 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
-			"PackageChunkId": "b743bdd5e5df72a400000001",
-			"BulkDataChunkIds": [
-				"b743bdd5e5df72a400000002"
-			]
+			"Name": "/Engine/EngineFonts/RobotoDistanceField",
+			"PackageChunkId": "52a5c49a743a12b500000001"
 		},
 		{
 			"Name": "/Engine/EngineFonts/RobotoDistanceField",
@@ -1996,6 +2108,80 @@
 		{
 			"Name": "/Engine/EngineResources/DefaultTextureCube",
 			"PackageChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Name": "/Engine/EngineMeshes/Sphere",
+			"PackageChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Name": "/Game/Blueprints/BP_GameInstance",
+			"PackageChunkId": "2763568ea69317c200000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/PlayerStart_Blueprint",
+			"PackageChunkId": "d653ceba3075695600000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
+			"PackageChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
+			"Name": "/Engine/MapTemplates/Materials/BasicAsset01",
+			"PackageChunkId": "a2b9c1b48ce6708700000001"
+		},
+		{
+			"Name": "/Engine/VREditor/Sounds/UI/Click_on_Button",
+			"PackageChunkId": "1dad2b740088160900000001",
+			"BulkDataChunkIds": [
+				"1dad2b740088160900000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Meshs/Spaceship/StarSparrow01_PhysicsAsset",
+			"PackageChunkId": "97a429046e01a5c000000001"
+		},
+		{
+			"Name": "/Game/Assets/Meshs/Spaceship/StarSparrow01_Skeleton",
+			"PackageChunkId": "5760d89eb02fca4800000001"
+		},
+		{
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ScreenResolution",
+			"PackageChunkId": "447dc9c8064cfcbb00000001"
+		},
+		{
+			"Name": "/Game/Assets/Meshs/Spaceship/StarSparrow11_PhysicsAsset",
+			"PackageChunkId": "f40b7f972821850a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient",
+			"PackageChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
+			"PackageChunkId": "ff5a26a059754af200000001"
 		},
 		{
 			"Name": "/Engine/EngineResources/DefaultTexture",
@@ -2252,6 +2438,7 @@
 			"PackageChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
+>>>>>>> main
 			"Name": "/ControlRig/M_Manip",
 			"PackageChunkId": "9a5a67fa3c2b2de900000001"
 		},
