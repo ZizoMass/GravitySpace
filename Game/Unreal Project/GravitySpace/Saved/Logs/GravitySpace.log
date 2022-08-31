@@ -731,3 +731,1196 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.31-00.05.04:335][924]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
 [2022.08.31-00.05.05:299][926]SourceControl: fatal: /Script: '/Script' is outside repository at 'F:/Git/GravitySpace'
 [2022.08.31-00.05.29:122][259]LogViewport: Scene viewport resized to 519x367, mode Windowed.
+[2022.08.31-00.05.55:317][849]LogTurnkeySupport: Display: Adding device menu item for WORKSATION
+[2022.08.31-00.05.55:318][849]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyReport_1.log" -log="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyLog_1.log" -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"  -Device=Win64@WORKSATION'
+[2022.08.31-00.05.55:318][849]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyReport_1.log" -log="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyLog_1.log" -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"  -Device=Win64@WORKSATION" -nocompile ]
+[2022.08.31-00.05.55:963][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.31-00.05.55:963][887]PIE: New page: PIE session: LVL_GravitySpace (Aug 30, 2022, 4:05:55 PM)
+[2022.08.31-00.05.55:968][887]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.31-00.05.55:968][887]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.31-00.05.55:968][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_GravitySpace
+[2022.08.31-00.05.55:970][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002440s)
+[2022.08.31-00.05.55:970][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_GravitySpace.LVL_GravitySpace to /Game/Maps/UEDPIE_0_LVL_GravitySpace.LVL_GravitySpace (0.002545s)
+[2022.08.31-00.05.55:970][887]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.31-00.05.55:971][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.05.55:971][887]LogAIModule: Creating AISystem for world LVL_GravitySpace
+[2022.08.31-00.05.55:971][887]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2022.08.31-00.05.55:978][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.31-00.05.55:979][887]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.31-00.05.55:979][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.31-00.05.55:979][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.31-00.05.55:980][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.31-00.05.55:980][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.31-00.05.55:980][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.31-00.05.55:982][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.31-00.05.56:023][887]LogAudioMixer: Display: Using Audio Hardware Device Master (2- Audiofuse)
+[2022.08.31-00.05.56:023][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.31-00.05.56:023][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.31-00.05.56:023][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.31-00.05.56:025][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.31-00.05.56:025][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.31-00.05.56:027][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.31-00.05.56:027][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.31-00.05.56:027][887]LogInit: FAudioDevice initialized.
+[2022.08.31-00.05.56:027][887]LogAudio: Display: Audio Device (ID: 2) registered with world 'LVL_GravitySpace'.
+[2022.08.31-00.05.56:039][887]LogLoad: Game class is 'BP_GravitySpaceGameMode_C'
+[2022.08.31-00.05.56:040][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_GravitySpace.LVL_GravitySpace up for play (max tick rate 0) at 2022.08.30-20.05.56
+[2022.08.31-00.05.56:040][887]LogWorld: Bringing up level for play took: 0.000725
+[2022.08.31-00.05.56:042][887]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.08.31-00.05.56:063][887]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.08.31-00.05.56:063][887]LogBlueprintUserMessages: [BP_CharacterSpaceship_C_0] Hello
+[2022.08.31-00.05.56:063][887]PIE: Server logged in
+[2022.08.31-00.05.56:064][887]PIE: Play in editor total start time 0.102 seconds.
+[2022.08.31-00.05.56:067][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:146][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:170][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:184][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:198][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:212][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:225][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:238][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:254][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:267][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:286][897]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.08.31-00.05.56:286][897]LogTurnkeySupport: Turnkey Device: Win64@WORKSATION: (Name=WORKSATION, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.08.31-00.05.56:287][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:301][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:314][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:327][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:340][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:353][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:366][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:378][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:391][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:403][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:417][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:429][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:440][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:451][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:463][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:475][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:488][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:502][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:515][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:530][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:543][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:555][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:568][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:585][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:598][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:611][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:623][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:636][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:647][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:660][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:673][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:685][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:698][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:710][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:723][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:736][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:749][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:762][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:775][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:788][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:801][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:814][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:832][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:845][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:857][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:870][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:882][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:895][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:909][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:922][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:934][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:947][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:960][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:973][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:985][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.56:998][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:010][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:022][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:034][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:047][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:059][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:073][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:086][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:098][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:110][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:122][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:135][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:148][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:160][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:174][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:186][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:198][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:212][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:225][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:237][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:251][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:263][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:276][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:289][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:302][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:316][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:329][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:341][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:354][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:367][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:379][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:392][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:405][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:418][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:430][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:443][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:455][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:468][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:480][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:492][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:504][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:516][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:529][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:542][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:554][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:574][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:586][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:597][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:620][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:631][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:643][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:655][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:667][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:680][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:691][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:703][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:716][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:728][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:740][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:753][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:765][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:776][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:788][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:800][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:812][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:824][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:835][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:847][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:859][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:871][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:883][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:895][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:907][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:919][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:931][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:943][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:955][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:966][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:978][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.57:990][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.58:003][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.58:015][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.58:026][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.05.58:118][ 44]LogViewport: Scene viewport resized to 1577x436, mode Windowed.
+[2022.08.31-00.05.58:172][ 44]LogViewport: Scene viewport resized to 1577x821, mode Windowed.
+[2022.08.31-00.05.58:248][ 46]LogViewport: Scene viewport resized to 996x436, mode Windowed.
+[2022.08.31-00.05.58:294][ 46]LogViewport: Scene viewport resized to 996x821, mode Windowed.
+[2022.08.31-00.05.58:341][ 46]LogViewport: Scene viewport resized to 1741x436, mode Windowed.
+[2022.08.31-00.05.58:391][ 46]LogViewport: Scene viewport resized to 1741x821, mode Windowed.
+[2022.08.31-00.05.58:471][ 48]LogViewport: Scene viewport resized to 636x436, mode Windowed.
+[2022.08.31-00.05.58:519][ 48]LogViewport: Scene viewport resized to 636x821, mode Windowed.
+[2022.08.31-00.05.58:565][ 48]LogViewport: Scene viewport resized to 2101x436, mode Windowed.
+[2022.08.31-00.05.58:616][ 48]LogViewport: Scene viewport resized to 2101x821, mode Windowed.
+[2022.08.31-00.05.58:700][ 50]LogViewport: Scene viewport resized to 553x436, mode Windowed.
+[2022.08.31-00.05.58:754][ 50]LogViewport: Scene viewport resized to 553x821, mode Windowed.
+[2022.08.31-00.05.58:807][ 50]LogViewport: Scene viewport resized to 2184x436, mode Windowed.
+[2022.08.31-00.05.58:856][ 50]LogViewport: Scene viewport resized to 2184x821, mode Windowed.
+[2022.08.31-00.05.58:934][ 52]LogViewport: Scene viewport resized to 487x436, mode Windowed.
+[2022.08.31-00.05.58:979][ 52]LogViewport: Scene viewport resized to 487x821, mode Windowed.
+[2022.08.31-00.05.59:023][ 52]LogViewport: Scene viewport resized to 2250x436, mode Windowed.
+[2022.08.31-00.05.59:068][ 52]LogViewport: Scene viewport resized to 2250x821, mode Windowed.
+[2022.08.31-00.05.59:314][ 71]LogViewport: Scene viewport resized to 481x436, mode Windowed.
+[2022.08.31-00.05.59:366][ 71]LogViewport: Scene viewport resized to 481x821, mode Windowed.
+[2022.08.31-00.05.59:408][ 71]LogViewport: Scene viewport resized to 2256x436, mode Windowed.
+[2022.08.31-00.05.59:458][ 71]LogViewport: Scene viewport resized to 2256x821, mode Windowed.
+[2022.08.31-00.05.59:534][ 73]LogViewport: Scene viewport resized to 451x436, mode Windowed.
+[2022.08.31-00.05.59:583][ 73]LogViewport: Scene viewport resized to 451x821, mode Windowed.
+[2022.08.31-00.05.59:628][ 73]LogViewport: Scene viewport resized to 2286x436, mode Windowed.
+[2022.08.31-00.05.59:677][ 73]LogViewport: Scene viewport resized to 2286x821, mode Windowed.
+[2022.08.31-00.06.00:218][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:229][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:241][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:253][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:265][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:276][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:288][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:300][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:312][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:324][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:337][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:349][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:362][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:374][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:387][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:400][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:413][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:425][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:439][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:452][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:464][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:477][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:489][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:500][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:513][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:524][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:536][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:548][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:559][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:571][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:582][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:594][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:607][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:618][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:630][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:643][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:656][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:667][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:678][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:689][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:702][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:714][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:728][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:741][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:754][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:766][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:781][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:793][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:804][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:816][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:827][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:838][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:849][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:861][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:872][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:884][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:895][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:907][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:918][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:930][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:942][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:954][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:965][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:977][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.00:989][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:001][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:012][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:024][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:035][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:047][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:058][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:070][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:081][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:092][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:103][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:114][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:126][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:137][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:148][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:160][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:171][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:184][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:196][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:207][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:219][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:230][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:242][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:253][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:264][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:276][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:287][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:298][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:309][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:320][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:331][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:342][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:353][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:365][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:377][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:388][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:399][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:411][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:423][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:435][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:446][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:457][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:469][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:480][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:492][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:502][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:513][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:525][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:535][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:546][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:557][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:569][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:580][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:591][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:602][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:613][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:625][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:636][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:648][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:659][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:671][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:682][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:693][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:705][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:717][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:728][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:742][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:753][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:765][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:776][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:788][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:800][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:811][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:822][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:833][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:844][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:857][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:869][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:881][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:892][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:903][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:915][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:927][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:939][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:951][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:962][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:973][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:984][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.01:996][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:007][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:019][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:031][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:042][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:053][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:063][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:074][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:085][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:098][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:110][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:123][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:135][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:147][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:159][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:170][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:183][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:194][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:205][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:216][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:227][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:239][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:251][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:262][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:274][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:285][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:296][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:307][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:318][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:330][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:341][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:352][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:364][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:376][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:387][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:399][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:410][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:423][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:435][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:447][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:459][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:470][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:481][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:493][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:504][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:515][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:526][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:537][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:548][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:559][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:570][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:581][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:593][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:605][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:616][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:627][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:638][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:649][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:661][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:673][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:684][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:696][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:708][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:720][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:733][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:772][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:772][340]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_GravitySpace
+[2022.08.31-00.06.02:773][340]LogWorld: UWorld::CleanupWorld for LVL_GravitySpace, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-00.06.02:773][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-00.06.02:803][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.31-00.06.02:807][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-00.06.02:816][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.31-00.06.02:816][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.31-00.06.02:818][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.31-00.06.02:823][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-00.06.02:832][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.31-00.06.02:914][341]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.08.31-00.06.02:927][341]LogViewport: Scene viewport resized to 202x367, mode Windowed.
+[2022.08.31-00.06.03:848][398]LogTurnkeySupport: Display: Adding device menu item for WORKSATION
+[2022.08.31-00.06.04:767][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.08.31-00.06.18:640][652]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.08.31-00.06.39:955][352]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.31-00.06.39:971][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.31-00.06.41:523][352]LogSlate: Window 'Save Content' being destroyed
+[2022.08.31-00.06.41:741][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.31-00.06.41:747][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.31-00.06.41:754][352]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.006204 seconds
+[2022.08.31-00.06.41:763][352]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.31-00.06.41:764][352]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace4A9B1F8A427227A0B3B1599B037267C2.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.31-00.06.41:778][352]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.038
+[2022.08.31-00.06.41:811][353]AssetCheck: New page: Asset Save: LVL_GravitySpace
+[2022.08.31-00.06.41:811][353]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.31-00.06.43:526][465]LogDerivedDataCache: C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.331 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.31-00.07.09:857][584]LogTurnkeySupport: Display: Adding device menu item for WORKSATION
+[2022.08.31-00.07.09:858][584]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyReport_2.log" -log="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyLog_2.log" -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"  -Device=Android_ASTC@QV712R7P1T+Android_Multi@QV712R7P1T'
+[2022.08.31-00.07.09:858][584]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyReport_2.log" -log="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/TurnkeyLog_2.log" -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"  -Device=Android_ASTC@QV712R7P1T+Android_Multi@QV712R7P1T" -nocompile ]
+[2022.08.31-00.07.10:717][618]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.08.31-00.07.11:630][659]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -command=VerifySdk -UpdateIfNeeded -platform=Android -noturnkeyvariables -device=QV712R7P1T -utf8output -WaitForUATMutex  -cookflavor=Multi -EditorIO -EditorIOPort=61522  -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject"" -nocompile ]
+[2022.08.31-00.07.11:727][660]UATHelper: Verifying SDK and Device (Android): Running AutomationTool...
+[2022.08.31-00.07.11:922][662]UATHelper: Verifying SDK and Device (Android): Parsing command line: -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" Turnkey -command=VerifySdk -UpdateIfNeeded -platform=Android -noturnkeyvariables -device=QV712R7P1T -utf8output -WaitForUATMutex -cookflavor=Multi -EditorIO -EditorIOPort=61522 -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" -nocompile
+[2022.08.31-00.07.12:215][671]UATHelper: Verifying SDK and Device (Android): Log location: C:\Users\zizom\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Epic+Games+UE_5.0\Log.txt
+[2022.08.31-00.07.12:520][689]UATHelper: Verifying SDK and Device (Android): Platform(s) and/or device(s) needed for VerifySdk command. Check parameters or selections.
+[2022.08.31-00.07.12:520][689]UATHelper: Verifying SDK and Device (Android): Cleaning Temp Paths...
+[2022.08.31-00.07.12:520][689]UATHelper: Verifying SDK and Device (Android): BUILD SUCCESSFUL
+[2022.08.31-00.07.12:520][689]UATHelper: Verifying SDK and Device (Android): AutomationTool executed for 0h 0m 0s
+[2022.08.31-00.07.12:520][689]UATHelper: Verifying SDK and Device (Android): AutomationTool exiting with ExitCode=0 (Success)
+[2022.08.31-00.07.12:544][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.31-00.07.12:555][690]LogPlayLevel: Launcher Device ID: Android_Multi@QV712R7P1T
+[2022.08.31-00.07.12:555][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.31-00.07.12:556][690]LogLauncherProfile: Project requires temp target (Metasound plugin is enabled)
+[2022.08.31-00.07.12:556][690]LogLauncherProfile: Unable to use promoted target - F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Binaries/Android/UnrealGame.target does not exist.
+[2022.08.31-00.07.13:875][753]LogPlayLevel: Running AutomationTool...
+[2022.08.31-00.07.14:222][776]LogPlayLevel: Parsing command line: -ScriptsForProject="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" BuildCookRun -project="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/GravitySpace.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -unrealexe="C:\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -utf8output -platform=Android -cookflavor=Multi -build -cook -map=/Game/Maps/LVL_GravitySpace+/Game/Maps/LVL_GravitySpace -CookCultures=en -unversionedcookedcontent -ddc=InstalledDerivedDataBackendGraph -compressed -stage -deploy -cmdline="/Game/Maps/LVL_GravitySpace -Messaging" -device=Android_Multi@QV712R7P1T -addcmdline="-SessionId=730B47FF44B202D0594CB08E4C72F546 -SessionOwner='zizom' -SessionName='Launch On Device'  " -run
+[2022.08.31-00.07.14:521][786]LogPlayLevel: Log location: C:\Users\zizom\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Epic+Games+UE_5.0\Log.txt
+[2022.08.31-00.07.14:619][792]LogPlayLevel: Setting up ProjectParams for F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\GravitySpace.uproject
+[2022.08.31-00.07.16:287][904]LogPlayLevel: GravitySpace.uproject requires a temporary target.cs to be generated (Metasound plugin is enabled)
+[2022.08.31-00.07.16:304][905]LogPlayLevel: ********** BUILD COMMAND STARTED **********
+[2022.08.31-00.07.16:319][906]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 2.755435
+[2022.08.31-00.07.16:635][924]LogPlayLevel: Running: C:\Epic Games\UE_5.0\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe GravitySpace Android Development -Project="F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\GravitySpace.uproject"  "F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\GravitySpace.uproject" -NoUBTMakefiles  -remoteini="F:\Git\GravitySpace\Game\Unreal Project\GravitySpace" -skipdeploy -Manifest="F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\zizom\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Epic+Games+UE_5.0\UBT-GravitySpace-Android-Development.txt"
+[2022.08.31-00.07.17:674][989]LogPlayLevel: Log file: C:\Users\zizom\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Epic+Games+UE_5.0\UBT-GravitySpace-Android-Development.txt
+[2022.08.31-00.07.17:824][999]LogPlayLevel: NDK toolchain: r21b, NDK version: 210200, ClangVersion: 9.0.8
+[2022.08.31-00.07.17:993][ 11]LogPlayLevel: Compiling Native 64-bit code with NDK API 'android-21'
+[2022.08.31-00.07.18:082][ 17]LogPlayLevel: Writing manifest to F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Build\Manifest.xml
+[2022.08.31-00.07.18:082][ 17]LogPlayLevel: Target is up to date
+[2022.08.31-00.07.18:096][ 18]LogPlayLevel: Total execution time: 1,70 seconds
+[2022.08.31-00.07.18:111][ 19]LogPlayLevel: Took 1,8033741s to run UnrealBuildTool.exe, ExitCode=0
+[2022.08.31-00.07.18:125][ 20]LogPlayLevel: ********** BUILD COMMAND COMPLETED **********
+[2022.08.31-00.07.18:125][ 20]LogPlayLevel: ********** COOK COMMAND STARTED **********
+[2022.08.31-00.07.18:125][ 20]LogPlayLevel: HasMapsToCook /Game/Maps/LVL_GravitySpace+/Game/Maps/LVL_GravitySpace
+[2022.08.31-00.07.18:125][ 20]LogPlayLevel: Params.HasMapsToCook /Game/Maps/LVL_GravitySpace+/Game/Maps/LVL_GravitySpace
+[2022.08.31-00.07.18:125][ 20]LogPlayLevel: Running UnrealEditor Cook for project F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\GravitySpace.uproject
+[2022.08.31-00.07.18:125][ 20]LogPlayLevel: Commandlet log file is C:\Epic Games\UE_5.0\Engine\Programs\AutomationTool\Saved\Cook-2022.08.30-20.07.18.txt
+[2022.08.31-00.07.18:334][ 34]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.500680
+[2022.08.31-00.07.18:705][ 58]LogPlayLevel: Running: C:\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\GravitySpace.uproject" -run=Cook -Map=/Game/Maps/LVL_GravitySpace+/Game/Maps/LVL_GravitySpace -CookCultures=en -TargetPlatform=Android_Multi -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -compressed -abslog="C:\Epic Games\UE_5.0\Engine\Programs\AutomationTool\Saved\Cook-2022.08.30-20.07.18.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.08.31-00.07.18:705][ 58]LogPlayLevel: LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.08.31-00.07.18:705][ 58]LogPlayLevel: LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.08.31-00.07.18:705][ 58]LogPlayLevel: LogInit: Display: Running engine for game: GravitySpace
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : config="Development"
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : commandline="" "F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\GravitySpace.uproject" -run=Cook -Map=/Game/Maps/LVL_GravitySpace+/Game/Maps/LVL_GravitySpace -CookCultures=en -TargetPlatform=Android_Multi -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -compressed -abslog="C:\Epic Games\UE_5.0\Engine\Programs\AutomationTool\Saved\Cook-2022.08.30-20.07.18.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen Threadripper 1950X 16-Core Processor"
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2022.08.31-00.07.18:706][ 58]LogPlayLevel: LogCsvProfiler: Display: Metadata set : loginid="8878fe284ccb2f8ff607d3af3d8c6ee6"
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogCsvProfiler: Display: Metadata set : llm="0"
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading Android ini files took 0.08 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading IOS ini files took 0.08 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading Mac ini files took 0.09 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading Windows ini files took 0.10 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading Unix ini files took 0.10 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+[2022.08.31-00.07.19:465][ 99]LogPlayLevel: LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogConfig: Display: Loading Linux ini files took 0.11 seconds
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2022.08.31-00.07.19:912][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2022.08.31-00.07.19:913][128]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2022.08.31-00.07.20:201][147]LogPlayLevel: LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2022.08.31-00.07.20:201][147]LogPlayLevel: LogHAL: Display: Platform has ~ 32 GB [34228232192 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.31-00.07.20:234][149]LogPlayLevel: LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.31-00.07.20:234][149]LogPlayLevel: LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.31-00.07.20:234][149]LogPlayLevel: LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.31-00.07.20:250][150]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.31-00.07.20:267][151]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.31-00.07.20:284][152]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.31-00.07.20:284][152]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.31-00.07.20:284][152]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.31-00.07.20:284][152]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.31-00.07.20:284][152]LogPlayLevel: LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.31-00.07.20:300][153]LogPlayLevel: LogTargetPlatformManager: Display: Building Assets For Android_Multi
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Compiling shader autogen file: F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Compiling shader autogen file: F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/ShaderAutogen/SF_VULKAN_ES31_ANDROID/AutogenShaderHeaders.ush
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Compiling shader autogen file: F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/ShaderAutogen/GLSL_ES3_1_ANDROID/AutogenShaderHeaders.ush
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.31-00.07.20:767][184]LogPlayLevel: LogShaderCompilers: Display: Compiling shader autogen file: F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.31-00.07.20:785][185]LogPlayLevel: LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.31-00.07.20:800][186]LogPlayLevel: LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.31-00.07.20:830][188]LogPlayLevel: LogDerivedDataCache: Display: Performance to C:/Users/zizom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=762.35MBs, RandomWriteSpeed=103.25MBs. Assigned SpeedClass 'Local'
+[2022.08.31-00.07.20:830][188]LogPlayLevel: Warning: LogXGEController: Warning: XGE's background service (BuildService.exe) is not running - service is likely disabled on this machine.
+[2022.08.31-00.07.21:796][251]LogPlayLevel: LogShaderCompilers: Display: Using Local Shader Compiler with 29 workers.
+[2022.08.31-00.07.22:555][297]LogPlayLevel: LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.31-00.07.24:237][407]LogPlayLevel: LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.31-00.07.25:192][470]LogPlayLevel: LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.31-00.07.25:192][470]LogPlayLevel: LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.31-00.07.25:611][498]LogPlayLevel: LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.31-00.07.25:921][519]LogPlayLevel: LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.31-00.07.25:922][519]LogPlayLevel: LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.08.31-00.07.25:922][519]LogPlayLevel: LogCook: Display: Mobile HDR setting 1
+[2022.08.31-00.07.25:951][521]LogPlayLevel: LogCook: Display: Creating asset registry
+[2022.08.31-00.07.25:995][524]LogPlayLevel: LogCook: Display: Discovering localized assets for cultures: en
+[2022.08.31-00.07.25:995][524]LogPlayLevel: LogCook: Display: Clearing all cooked content for platform Android_Multi
+[2022.08.31-00.07.26:487][557]LogPlayLevel: Warning: LogCook: Warning: Failed to move path 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Cooked/Android_Multi' for async delete (LastError == 5); falling back to synchronous delete.
+[2022.08.31-00.07.26:518][559]LogPlayLevel: LogCook: Display: Sandbox cleanup took 0.515 seconds for platforms Android_Multi
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogCook: Display: Checking global shaders for platform Android_Multi
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: ================================================
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.31-00.07.28:387][678]LogPlayLevel: LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderCompilers: Display: ================================================
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display:
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Shader Library 'Global' (SF_VULKAN_ES31_ANDROID) Stats:
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 89 (8900.00%)
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Total Shaders: 579, Unique Shaders: 572 (98.79%)
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Total Shader Size: 0.92mb, Unique Shaders Size: 0.92mb (99.68%)
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: === Extended info:
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Maximum number of shaders in shadermap: 46
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display:     3, 3, 2, 2, 2, 1, 1, 1, 1, 1
+[2022.08.31-00.07.28:437][681]LogPlayLevel: LogShaderLibrary: Display: Textual dump saved to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-Global-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display:
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Shader Library 'Global' (GLSL_ES3_1_ANDROID) Stats:
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 87 (8700.00%)
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Total Shaders: 670, Unique Shaders: 670 (100.00%)
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Total Shader Size: 0.92mb, Unique Shaders Size: 0.92mb (100.00%)
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: === Extended info:
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Maximum number of shaders in shadermap: 88
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display:     1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+[2022.08.31-00.07.28:575][690]LogPlayLevel: LogShaderLibrary: Display: Textual dump saved to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Shaders/GLSL_ES3_1_ANDROID/ShaderDebug-Global-GLSL_ES3_1_ANDROID/Dump.txt'
+[2022.08.31-00.07.28:605][692]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.28:605][692]LogPlayLevel: LogCook: Display: Cooked packages 0 Packages Remain 418 Total 418
+[2022.08.31-00.07.28:651][695]LogPlayLevel: LogCook: Display: Cook Diagnostics: OpenFileHandles=177, VirtualMemory=864MiB
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.28:832][706]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.29:973][776]LogPlayLevel: LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2022.08.31-00.07.31:962][902]LogPlayLevel: LogCook: Display: Cooked packages 300 Packages Remain 39 Total 339
+[2022.08.31-00.07.34:235][924]LogPlayLevel: LogCook: Display: Cooked packages 320 Packages Remain 19 Total 339
+[2022.08.31-00.07.34:235][924]LogPlayLevel: LogCook: Display: Cooked packages 339 Packages Remain 2 Total 341
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Cooked packages 341 Packages Remain 0 Total 341
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Cook Diagnostics: OpenFileHandles=344, VirtualMemory=984MiB
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Finishing up...
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogAssetRegistryGenerator: Display: Saving asset registry v12.
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogAssetRegistryGenerator: Display: Generated development asset registry F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Cooked/Android_Multi/GravitySpace/Metadata/DevelopmentAssetRegistry.bin num assets 358, size is 242.29kb
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogAssetRegistryGenerator: Display: Generated asset registry num assets 353, size is 117.63kb
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogAssetRegistryGenerator: Display: Done saving asset registry. Took 0.0 seconds.
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Shader Library 'GravitySpace' (SF_VULKAN_ES31_ANDROID) Stats:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Assets: 55, Unique Shadermaps: 51 (92.73%)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Total Shaders: 1823, Unique Shaders: 1563 (85.74%)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Total Shader Size: 7.12mb, Unique Shaders Size: 6.25mb (87.73%)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: === Extended info:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Median number of shaders in shadermap: 8
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Maximum number of shaders in shadermap: 399
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display:     22, 17, 7, 7, 6, 6, 6, 5, 5, 4
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Textual dump saved to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-GravitySpace-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Shader Library 'GravitySpace' (GLSL_ES3_1_ANDROID) Stats:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Assets: 55, Unique Shadermaps: 54 (98.18%)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Total Shaders: 3387, Unique Shaders: 3368 (99.44%)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Total Shader Size: 11.61mb, Unique Shaders Size: 11.55mb (99.54%)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: === Extended info:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Median number of shaders in shadermap: 9
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Maximum number of shaders in shadermap: 892
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display:     6, 3, 2, 2, 2, 2, 2, 2, 2, 2
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: Textual dump saved to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Shaders/GLSL_ES3_1_ANDROID/ShaderDebug-GravitySpace-GLSL_ES3_1_ANDROID/Dump.txt'
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogShaderLibrary: Display: =================
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Finalize package store(s)...
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Done finalizing package store(s)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Cook by the book total time in tick 1.896913s total time 8.317858
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Peak Used virtual 1041 MiB Peak Used physical 1066 MiB
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Packages Cooked: 341, Packages Iteratively Skipped: 0, Total Packages: 341
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display: Hierarchy Timer Information:
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display:   Root: 0.000s (0)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display:     CleanSandbox: 0.515s (1)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display:     CollectFilesToCook: 0.012s (1)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display:       SearchForPackageOnDisk: 0.000s (2)
+[2022.08.31-00.07.34:236][924]LogPlayLevel: LogCook: Display:     PostLoadPackageFixup: 0.004s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:     TickCookOnTheSide: 1.876s (253094)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       PostLoadPackageFixup: 0.036s (253532)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       LoadPackageForCooking: 0.402s (341)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       SavingPackages: 1.355s (40)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:         BeginPrepareSave: 0.174s (90)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:         PrecachePlatformDataForNextPackage: 0.793s (337)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:           BeginPrepareSave: 0.793s (251)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:         SaveCookedPackage: 0.334s (341)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:           GEditorSavePackage: 0.317s (341)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:             VerifyCanCookPackage: 0.002s (336)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:           TargetDomainDependencies: 0.000s (341)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:         ClearAllCachedCookedPlatformData: 0.002s (341)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:     SavingCurrentIniSettings: 0.014s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:     SavingAssetRegistry: 0.249s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       BuildChunkManifest: 0.026s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       SaveManifests: 0.000s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       SaveRealAssetRegistry: 0.031s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:       WriteCookerOpenOrder: 0.020s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display:     FinalizePackageStore: 0.005s (1)
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogCook: Display: Done!
+[2022.08.31-00.07.34:577][925]LogPlayLevel: LogSavePackage: Display: Took 0.000354s to verify the EDL loading graph.
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: Misc Cook Stats
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: ===============
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: ShaderCompiler
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     BlockingTimeSec=0.000155
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.039146
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: GlobalShader.Misc
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: MaterialShader.Misc
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: MaterialInstance
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     UpdateCachedExpressionDataSec=0.000362
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: Material
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     UpdateCachedExpressionDataSec=0.004411
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: Package.Load
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     NumInlineLoads=6
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     NumPreloadedDependencies=95
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     NumPackagesLoaded=280
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     LoadPackageTimeSec=1.154857
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: Package.Save
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     NumPackagesIterativelySkipped=0
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     NumPackagesSaved=341
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     SavePackageTimeSec=0.308007
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     ResetLoadersTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     SerializeExportsTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.004260
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     MBWritten=0.000000
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     PeakRequestQueueSize=339
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     PeakLoadQueueSize=144
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display:     PeakSaveQueueSize=56
+[2022.08.31-00.07.34:578][925]LogPlayLevel: LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: Package.DiffTotal
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: UnversionedProperties
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     SavedStructs=0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     SavedMB=0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: Cook Profile
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: ============
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0.CookWallTimeSec=15.835377
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=7.500324
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=8.323157
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.681838
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000064
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=2.199276
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.402418
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.333847
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPrepareSaveTimeSec=0.967123
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPrepareSaveTimeSec=0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.111671
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.065036
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.077788
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.010571
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=2.465157
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 8.TargetPlatforms=Android_Multi
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 9.CookProject=GravitySpace
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:  0. 1. 10.CookCultures=en
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display:
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: DDC Summary Stats
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: =================
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: HasLocalCache   =      true
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: HasSharedCache  =     false
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: HasCloudCache   =     false
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: HasZenCache     =     false
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: TotalGetHits    =      1106
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: TotalGets       =      1106
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: LocalGetHitPct  =  0.617541
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: CloudGetHitPct  =  0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: OtherGetHitPct  =  0.382459
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: TotalPutHits    =         0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: TotalPuts       =         0
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2022.08.31-00.07.34:579][925]LogPlayLevel: LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display:
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: DDC Resource Stats
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: =======================================================================================================
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: MaterialShader                                  0.70                   0.70             0         25.08
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: Texture (Streaming)                             0.24                   0.00             0         10.45
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: PhysX (BodySetup)                               0.04                   0.03             0          3.99
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: StaticMesh                                      0.02                   0.00             0          3.19
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: DistanceField                                   0.01                   0.00             0          1.42
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          2.48
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: Texture (Inline)                                0.01                   0.01             0         46.20
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: SkeletalMesh                                    0.01                   0.00             0          0.63
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.05
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: CardRepresentation                              0.00                   0.00             0          0.03
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.01
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: Audio (Inline)                                  0.00                   0.00             0          0.00
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogCookCommandlet: Display: Audio (Streaming)                               0.00                   0.00             0          0.01
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogPackageBuildDependencyTracker: Display: Package Accesses (198 referencing packages with a total of 977 unique accesses)
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogInit: Display:
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogInit: Display: Warning/Error Summary (Unique only)
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogInit: Display: -----------------------------------
+[2022.08.31-00.07.34:580][925]LogPlayLevel: Warning: LogInit: Display: LogXGEController: Warning: XGE's background service (BuildService.exe) is not running - service is likely disabled on this machine.
+[2022.08.31-00.07.34:580][925]LogPlayLevel: Warning: LogInit: Display: LogCook: Warning: Failed to move path 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/Cooked/Android_Multi' for async delete (LastError == 5); falling back to synchronous delete.
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogInit: Display:
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogInit: Display:
+[2022.08.31-00.07.34:580][925]LogPlayLevel: 
+[2022.08.31-00.07.34:580][925]LogPlayLevel: Execution of commandlet took:  8.36 seconds
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: ================================================
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.31-00.07.34:580][925]LogPlayLevel: LogShaderCompilers: Display: ================================================
+[2022.08.31-00.07.35:911][929]LogPlayLevel: LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Took 17,658626100000003s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2022.08.31-00.07.35:911][929]LogPlayLevel: ********** COOK COMMAND COMPLETED **********
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Completed Launch On Stage: Cook Task, Time: 17.005297
+[2022.08.31-00.07.35:911][929]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Creating UECommandLine.txt
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Creating Staging Manifest...
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\BaseEditor.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\BaseEditorKeyBindings.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\BaseEditorSettings.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\BaseLightmass.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\BasePakFileRules.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\Category.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\Editor.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\EditorTutorials.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\Engine.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\Keywords.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\PortableObjectExport.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\PortableObjectImport.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\PropertyNames.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\RepairData.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\ToolTips.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file C:\Epic Games\UE_5.0\Engine\Config\Localization\WordCount.ini
+[2022.08.31-00.07.35:911][929]LogPlayLevel: Excluding config file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Config\DefaultEditor.ini
+[2022.08.31-00.07.36:249][930]LogPlayLevel: Excluding config file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.08.31-00.07.38:462][993]LogPlayLevel: Cleaning Stage Directory: F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Saved\StagedBuilds\Android_Multi
+[2022.08.31-00.07.38:478][994]LogPlayLevel: Copying NonUFSFiles to staging directory: F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Saved\StagedBuilds\Android_Multi
+[2022.08.31-00.07.48:970][ 92]LogPlayLevel: Copying UFSFiles to staging directory: F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Saved\StagedBuilds\Android_Multi
+[2022.08.31-00.07.48:971][ 92]LogPlayLevel: Copying DebugFiles to staging directory: F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Saved\StagedBuilds\Android_Multi
+[2022.08.31-00.07.48:971][ 92]LogPlayLevel: Running: C:\Users\zizom\AppData\Local\Android\Sdk\platform-tools\adb.exe -s QV712R7P1T  shell getprop ro.product.cpu.abi
+[2022.08.31-00.07.48:971][ 92]LogPlayLevel: Took 0,1476778s to run adb.exe, ExitCode=0
+[2022.08.31-00.07.48:971][ 92]LogPlayLevel: Using this aapt: C:/Users/zizom/AppData/Local/Android/Sdk\build-tools\30.0.3\aapt.exe
+[2022.08.31-00.07.49:306][ 93]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.07.51:981][101]LogPlayLevel: Retrieve Manifests: Trying to start file server com.ZmassProductions.GravitySpace
+[2022.08.31-00.07.51:981][101]LogPlayLevel: Connected to RemoteFileManager
+[2022.08.31-00.07.51:981][101]LogPlayLevel: FileRead ^project/Manifest_UFSFiles_Android.txt
+[2022.08.31-00.07.51:981][101]LogPlayLevel: FileRead ^project/Manifest_NonUFSFiles_Android.txt
+[2022.08.31-00.07.51:981][101]LogPlayLevel: Retrieve Manifests: Success!!
+[2022.08.31-00.07.51:981][101]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2022.08.31-00.07.51:981][101]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2022.08.31-00.07.51:981][101]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2022.08.31-00.07.51:982][101]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2022.08.31-00.07.52:320][102]LogPlayLevel: Running: C:\Users\zizom\AppData\Local\Android\Sdk\platform-tools\adb.exe -s QV712R7P1T  shell getprop ro.product.cpu.abi
+[2022.08.31-00.07.52:320][102]LogPlayLevel: Took 0,13433230000000002s to run adb.exe, ExitCode=0
+[2022.08.31-00.07.52:320][102]LogPlayLevel: AndroidPlugin: Plugins\Online\Android\OnlineSubsystemGooglePlay\Source\OnlineSubsystemGooglePlay_UPL.xml
+[2022.08.31-00.07.52:320][102]LogPlayLevel: AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+[2022.08.31-00.07.52:320][102]LogPlayLevel: AndroidPlugin: Plugins\Runtime\AndroidFileServer\Source\AndroidFileServer\AndroidFileServer_UPL.xml
+[2022.08.31-00.07.52:320][102]LogPlayLevel: AndroidPlugin: Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+[2022.08.31-00.07.52:320][102]LogPlayLevel: AndroidPlugin: Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+[2022.08.31-00.07.52:320][102]LogPlayLevel: AndroidPlugin: Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: AndroidPlugin: Source\ThirdParty\HWCPipe\HWCPipe_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: AndroidPlugin: Source\ThirdParty\heapprofd\heapprofd_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: AndroidPlugin: Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/OnlineSubsystemGooglePlay_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Plugins/Runtime/AndroidFileServer/Source/AndroidFileServer/AndroidFileServer_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Plugins/Runtime/GooglePAD/Source/GooglePAD/GooglePAD_APL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Source/ThirdParty/HWCPipe/HWCPipe_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Source/ThirdParty/heapprofd/heapprofd_UPL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL: Engine\Source/ThirdParty/GoogleGameSDK/GoogleGameSDK_APL.xml
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Using package name: 'com.ZmassProductions.GravitySpace'
+[2022.08.31-00.07.52:321][102]LogPlayLevel: GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Writing packageInfo pkgName:com.ZmassProductions.GravitySpace storeVersion:1 versionDisplayName:1.0 to F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Binaries\Android\packageInfo.txt
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ====30/08/2022 20:07:52====PREPARING TO MAKE APK=================================================================
+[2022.08.31-00.07.52:321][102]LogPlayLevel: bBuildForES31: true
+[2022.08.31-00.07.52:321][102]LogPlayLevel: bSupportsVulkan: true
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Building Java with SDK API level 'android-29'
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Building with Build Tools version '30.0.3'
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Writing to OBB data file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Build\Android\src\com\ZmassProductions\GravitySpace\OBBData.java ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== OBB data file up to date so not writing. ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Writing to shim file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Build\Android\src\com\epicgames\unreal\DownloadShim.java ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Shim data file up to date so not writing. ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Writing to template target file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Build\Android\src\com\ZmassProductions\GravitySpace\AlarmReceiver.java ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Writing to template target file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Build\Android\src\com\ZmassProductions\GravitySpace\DownloaderActivity.java ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Writing to template target file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Build\Android\src\com\ZmassProductions\GravitySpace\OBBDownloaderService.java ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: 
+[2022.08.31-00.07.52:321][102]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Cleaning up files based on template dir F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Build\Android\src\com\ZmassProductions\GravitySpace
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Previous .apk file(s) were made with different build settings, forcing repackage.
+[2022.08.31-00.07.52:321][102]LogPlayLevel: UPL Init: arm64-v8a
+[2022.08.31-00.07.52:321][102]LogPlayLevel: Subsystem Google Play SDK Android init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: Android Permission Plugin Init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: AndroidFileServer Plugin Init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: Google Cloud Messaging init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: GCMClientSenderID set: false
+[2022.08.31-00.07.52:322][102]LogPlayLevel: GooglePAD Plugin Init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: GooglePAD enabled: false
+[2022.08.31-00.07.52:322][102]LogPlayLevel: Android Voice init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: HWCPipe init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: heapprofd init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: GoogleGameSDK Android init
+[2022.08.31-00.07.52:322][102]LogPlayLevel: APK contains data.
+[2022.08.31-00.07.52:322][102]LogPlayLevel: Fixing minSdkVersion; NDK level above 19 requires minSdkVersion of 21 (arch=arm64)
+[2022.08.31-00.07.52:322][102]LogPlayLevel: Fixing minSdkVersion; NDK level above 19 requires minSdkVersion of 21 (arch=arm64)
+[2022.08.31-00.07.52:322][102]LogPlayLevel: 
+[2022.08.31-00.07.52:322][102]LogPlayLevel: ====30/08/2022 20:07:52====PREPARING NATIVE CODE=====-arm64============================================================
+[2022.08.31-00.07.52:322][102]LogPlayLevel: bPackageDataInsideApk = False
+[2022.08.31-00.07.52:322][102]LogPlayLevel: UnrealCommandLine.txt exists...
+[2022.08.31-00.07.52:657][103]LogPlayLevel: Copying F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Saved\StagedBuilds\Android_Multi\UECommandLine.txt to F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Android\arm64\assets\UECommandLine.txt
+[2022.08.31-00.07.52:658][103]LogPlayLevel: Added repository: C:\Epic Games\UE_5.0\Engine\Source\ThirdParty\Android\extras\google\m2repository
+[2022.08.31-00.07.52:658][103]LogPlayLevel: Added repository: C:\Epic Games\UE_5.0\Engine\Source\ThirdParty\Android\extras\android\m2repository
+[2022.08.31-00.07.52:658][103]LogPlayLevel: AARImports: com.google.android.gms, play-services-auth, 11.8.0
+[2022.08.31-00.07.52:658][103]LogPlayLevel: AARImports: com.google.android.gms, play-services-games, 11.8.0
+[2022.08.31-00.07.52:658][103]LogPlayLevel: AARImports: com.google.android.gms, play-services-nearby, 11.8.0
+[2022.08.31-00.07.52:658][103]LogPlayLevel: AARImports: com.google.android.gms, play-services-plus, 11.8.0
+[2022.08.31-00.07.52:658][103]LogPlayLevel: Copying Google Play BillingApiV2 java files
+[2022.08.31-00.07.52:658][103]LogPlayLevel: 
+[2022.08.31-00.07.52:658][103]LogPlayLevel: Directory Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Java/BillingApiV2 copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/src
+[2022.08.31-00.07.52:658][103]LogPlayLevel: Copying permission_library directory to staging before build
+[2022.08.31-00.07.52:658][103]LogPlayLevel: 
+[2022.08.31-00.07.52:658][103]LogPlayLevel: Directory C:/Epic Games/UE_5.0/Engine/Source/ThirdParty/AndroidPermission/permission_library copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/JavaLibs/permission_library
+[2022.08.31-00.07.52:658][103]LogPlayLevel: 
+[2022.08.31-00.07.52:658][103]LogPlayLevel: ==== Writing to OBB data file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Android\arm64\src\com\ZmassProductions\GravitySpace\OBBData.java ====
+[2022.08.31-00.07.52:658][103]LogPlayLevel: 
+[2022.08.31-00.07.52:658][103]LogPlayLevel: ==== OBB data file up to date so not writing. ====
+[2022.08.31-00.07.52:988][104]LogPlayLevel: Copying libVkLayer_khronos_validation.so vulkan layer from C:/Users/zizom/AppData/Local/Android/Sdk/ndk/21.1.6352462/sources/third_party/vulkan/src/build-android/jniLibs/arm64-v8a
+[2022.08.31-00.07.52:988][104]LogPlayLevel: DebugVulkanLayerDirectory
+[2022.08.31-00.07.52:988][104]LogPlayLevel: 
+[2022.08.31-00.07.52:988][104]LogPlayLevel: File Engine/Plugins/Runtime/AndroidFileServer/Source/AndroidFileServer/Android/java/com/epicgames/unreal/RemoteFileManager.java copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/src/com/epicgames/unreal/RemoteFileManager.java
+[2022.08.31-00.07.52:988][104]LogPlayLevel: 
+[2022.08.31-00.07.52:988][104]LogPlayLevel: File Engine/Plugins/Runtime/AndroidFileServer/Source/AndroidFileServer/Android/java/com/epicgames/unreal/RemoteFileManagerReceiver.java copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/src/com/epicgames/unreal/RemoteFileManagerReceiver.java
+[2022.08.31-00.07.52:988][104]LogPlayLevel: Copying libplaycore.so and proguard files
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: File C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/GooglePAD/Source/GooglePAD/../ThirdParty/play-core-native-sdk/libs/arm64-v8a/ndk21.4.7075529/c++_shared/libplaycore.so copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/libs/arm64-v8a/libplaycore.so
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: File C:/Epic Games/UE_5.0/Engine/Source/ThirdParty/HWCPipe/lib/arm64-v8a/libhwcpipe.so copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/libs/arm64-v8a/libhwcpipe.so
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Copying libhwcpipe.so
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: File C:/Epic Games/UE_5.0/Engine/Source/ThirdParty/heapprofd/arm64-v8a/libheapprofd_standalone_client.so copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/libs/arm64-v8a/libheapprofd_standalone_client.so
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Copying heapprofd_standalone_client.so
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: ====30/08/2022 20:07:52====PERFORMING FINAL APK PACKAGE OPERATION=====-arm64===========================================
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Copying F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Android\arm64\AndroidManifest.xml to F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Android\arm64\gradle\app\src\main\AndroidManifest.xml
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Copied file F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Intermediate\Android\arm64\gradle\app\src\main\assets\UECommandLine.txt.
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Directory Engine/Plugins/Runtime/AndroidFileServer/Source/AndroidFileServer/../AFSStub copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/gradle/AFSProject
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Directory Engine/Plugins/Runtime/AndroidFileServer/Source/AndroidFileServer/Android copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/gradle/AFSProject/app/src/main
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Directory F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/gradle/app/src/main/res copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/gradle/AFSProject/app/src/main/res
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Directory F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/gradle/gradle copied to F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Intermediate/Android/arm64/gradle/AFSProject/gradle
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Fixing minSdkVersion; NDK level above 19 requires minSdkVersion of 21 (arch=arm64)
+[2022.08.31-00.07.52:989][104]LogPlayLevel: 
+[2022.08.31-00.07.52:989][104]LogPlayLevel: Creating rungradle.bat to work around commandline length limit (using unused drive letter Z:)
+[2022.08.31-00.07.53:989][107]LogPlayLevel: Making .apk with Gradle...
+[2022.08.31-00.07.56:003][113]LogPlayLevel: To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/6.1.1/userguide/gradle_daemon.html.
+[2022.08.31-00.08.02:015][131]LogPlayLevel: Daemon will be stopped at the end of the build stopping after processing
+[2022.08.31-00.08.02:015][131]LogPlayLevel: > Task :app:preBuild UP-TO-DATE
+[2022.08.31-00.08.02:015][131]LogPlayLevel: > Task :app:preDebugBuild UP-TO-DATE
+[2022.08.31-00.08.02:015][131]LogPlayLevel: > Task :downloader_library:preBuild UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:preDebugBuild UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:compileDebugAidl NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:preBuild UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:preDebugBuild UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:compileDebugAidl NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :app:compileDebugAidl UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:packageDebugRenderscript NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:packageDebugRenderscript NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :app:compileDebugRenderscript NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :app:generateDebugBuildConfig UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :app:javaPreCompileDebug UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :app:generateDebugResValues UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :app:generateDebugResources UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:compileDebugRenderscript NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:generateDebugResValues UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:generateDebugResources UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :downloader_library:packageDebugResources UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:generateDebugResValues UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:compileDebugRenderscript NO-SOURCE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:generateDebugResources UP-TO-DATE
+[2022.08.31-00.08.02:346][132]LogPlayLevel: > Task :permission_library:packageDebugResources UP-TO-DATE
+[2022.08.31-00.08.02:680][133]LogPlayLevel: > Task :app:mergeDebugResources UP-TO-DATE
+[2022.08.31-00.08.02:681][133]LogPlayLevel: > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+[2022.08.31-00.08.02:681][133]LogPlayLevel: > Task :app:extractDeepLinksDebug UP-TO-DATE
+[2022.08.31-00.08.02:681][133]LogPlayLevel: > Task :downloader_library:extractDeepLinksDebug UP-TO-DATE
+[2022.08.31-00.08.02:681][133]LogPlayLevel: > Task :downloader_library:processDebugManifest UP-TO-DATE
+[2022.08.31-00.08.02:681][133]LogPlayLevel: > Task :permission_library:extractDeepLinksDebug UP-TO-DATE
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :permission_library:processDebugManifest UP-TO-DATE
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :app:processDebugManifest
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :downloader_library:compileDebugLibraryResources UP-TO-DATE
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :downloader_library:parseDebugLocalResources UP-TO-DATE
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :downloader_library:generateDebugRFile UP-TO-DATE
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :permission_library:compileDebugLibraryResources UP-TO-DATE
+[2022.08.31-00.08.03:011][134]LogPlayLevel: > Task :permission_library:parseDebugLocalResources UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:generateDebugRFile UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:processDebugResources
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:generateDebugBuildConfig UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:javaPreCompileDebug UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:compileDebugJavaWithJavac UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:bundleLibCompileToJarDebug UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:generateDebugBuildConfig UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:javaPreCompileDebug UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:compileDebugJavaWithJavac UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:bundleLibCompileToJarDebug UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:compileDebugJavaWithJavac UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:compileDebugSources UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:mergeDebugShaders UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:compileDebugShaders NO-SOURCE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:generateDebugAssets UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:mergeDebugShaders UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:compileDebugShaders NO-SOURCE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:generateDebugAssets UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:packageDebugAssets UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:mergeDebugShaders UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:compileDebugShaders NO-SOURCE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:generateDebugAssets UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :permission_library:packageDebugAssets UP-TO-DATE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:mergeDebugAssets
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :app:processDebugJavaRes NO-SOURCE
+[2022.08.31-00.08.04:024][137]LogPlayLevel: > Task :downloader_library:processDebugJavaRes NO-SOURCE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :downloader_library:bundleLibResDebug NO-SOURCE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :permission_library:processDebugJavaRes NO-SOURCE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :permission_library:bundleLibResDebug NO-SOURCE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :app:mergeDebugJavaResource UP-TO-DATE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :downloader_library:bundleLibRuntimeToJarDebug UP-TO-DATE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :app:checkDebugDuplicateClasses UP-TO-DATE
+[2022.08.31-00.08.04:025][137]LogPlayLevel: > Task :app:mergeExtDexDebug UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :permission_library:bundleLibRuntimeToJarDebug UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:dexBuilderDebug UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:mergeLibDexDebug UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:mergeProjectDexDebug UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:mergeDebugJniLibFolders UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :downloader_library:mergeDebugJniLibFolders UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :downloader_library:mergeDebugNativeLibs UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :downloader_library:stripDebugDebugSymbols NO-SOURCE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :downloader_library:copyDebugJniLibsProjectOnly UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :permission_library:mergeDebugJniLibFolders UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :permission_library:mergeDebugNativeLibs UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :permission_library:stripDebugDebugSymbols NO-SOURCE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :permission_library:copyDebugJniLibsProjectOnly UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:mergeDebugNativeLibs UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:stripDebugDebugSymbols UP-TO-DATE
+[2022.08.31-00.08.04:355][138]LogPlayLevel: > Task :app:ueDeleteOldPackageDebug
+[2022.08.31-00.08.13:768][166]LogPlayLevel: > Task :app:validateSigningDebug UP-TO-DATE
+[2022.08.31-00.08.13:768][166]LogPlayLevel: > Task :app:packageDebug
+[2022.08.31-00.08.15:118][170]LogPlayLevel: > Task :app:assembleDebug
+[2022.08.31-00.08.15:118][170]LogPlayLevel: > Task :app:ueCompleteDebug
+[2022.08.31-00.08.15:118][170]LogPlayLevel: 
+[2022.08.31-00.08.15:118][170]LogPlayLevel: BUILD SUCCESSFUL in 21s
+[2022.08.31-00.08.15:118][170]LogPlayLevel: 59 actionable tasks: 6 executed, 53 up-to-date
+[2022.08.31-00.08.44:798][503]LogPlayLevel: Writing symbols to F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Binaries/Android\GravitySpace_Symbols_v1/GravitySpace-arm64\libUnreal.so
+[2022.08.31-00.08.44:798][503]LogPlayLevel: 
+[2022.08.31-00.08.44:798][503]LogPlayLevel: ====30/08/2022 20:08:44====COMPLETED MAKE APK=======================================================================
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: Connected to RemoteFileManager
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.45:136][504]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.08.31-00.08.45:478][505]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.08.56:508][538]LogPlayLevel: Running: C:\Users\zizom\AppData\Local\Android\Sdk\platform-tools\adb.exe -s QV712R7P1T install -r "F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Binaries/Android\GravitySpace-arm64.apk"
+[2022.08.31-00.08.56:508][538]LogPlayLevel: Performing Streamed Install
+[2022.08.31-00.08.56:508][538]LogPlayLevel: Success
+[2022.08.31-00.08.56:787][556]LogPlayLevel: Took 11,027374400000001s to run adb.exe, ExitCode=0
+[2022.08.31-00.08.56:805][557]LogPlayLevel: Attempting to connect to file server [USB]
+[2022.08.31-00.09.00:271][791]LogPlayLevel: Not connected, attempting to start file server
+[2022.08.31-00.09.00:286][792]LogPlayLevel: Connected to RemoteFileManager
+[2022.08.31-00.09.01:947][879]LogPlayLevel: Creating UECommandLine.txt
+[2022.08.31-00.09.22:350][940]LogPlayLevel: Deploying files using AFS
+[2022.08.31-00.09.22:350][940]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2022.08.31-00.09.22:350][940]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2022.08.31-00.09.22:350][940]LogPlayLevel: UnrealTrace: Starting server
+[2022.08.31-00.09.22:686][941]LogPlayLevel: Starting Client....
+[2022.08.31-00.09.22:686][941]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 106.082862
+[2022.08.31-00.09.22:686][941]LogPlayLevel: Running: C:\Users\zizom\AppData\Local\Android\Sdk\platform-tools\adb.exe -s QV712R7P1T  shell getprop ro.product.cpu.abi
+[2022.08.31-00.09.22:686][941]LogPlayLevel: Took 0,1471867s to run adb.exe, ExitCode=0
+[2022.08.31-00.09.22:686][941]LogPlayLevel: GetPackageInfo ReturnValue: com.ZmassProductions.GravitySpace
+[2022.08.31-00.09.22:686][941]LogPlayLevel: Running Package@Device:com.ZmassProductions.GravitySpace@QV712R7P1T
+[2022.08.31-00.09.22:686][941]LogPlayLevel: Running: C:\Users\zizom\AppData\Local\Android\Sdk\platform-tools\adb.exe -s QV712R7P1T logcat -c
+[2022.08.31-00.09.22:687][941]LogPlayLevel: Took 0,1608177s to run adb.exe, ExitCode=0
+[2022.08.31-00.09.23:023][942]LogPlayLevel: Running: C:\Users\zizom\AppData\Local\Android\Sdk\platform-tools\adb.exe -s QV712R7P1T shell am start -n com.ZmassProductions.GravitySpace/com.epicgames.unreal.SplashActivity
+[2022.08.31-00.09.23:023][942]LogPlayLevel: Starting: Intent { cmp=com.ZmassProductions.GravitySpace/com.epicgames.unreal.SplashActivity }
+[2022.08.31-00.10.33:597][253]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 70.660945
+[2022.08.31-00.10.35:597][386]LogSlate: Window 'Output Log' being destroyed
+[2022.08.31-00.10.35:606][386]LogSlate: Window 'Output Log' being destroyed
