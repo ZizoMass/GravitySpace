@@ -1924,3 +1924,114 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.31-00.10.33:597][253]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 70.660945
 [2022.08.31-00.10.35:597][386]LogSlate: Window 'Output Log' being destroyed
 [2022.08.31-00.10.35:606][386]LogSlate: Window 'Output Log' being destroyed
+[2022.08.31-00.14.58:724][488]LogViewport: Scene viewport resized to 202x367, mode Windowed.
+[2022.08.31-00.15.08:535][162]LogTurnkeySupport: Display: Adding device menu item for WORKSATION
+[2022.08.31-00.15.09:580][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.08.31-00.15.10:949][224]LogSlate: Window 'Save Content' being destroyed
+[2022.08.31-00.15.11:172][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.31-00.15.11:180][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.31-00.15.11:189][224]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.31-00.15.11:190][224]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpaceA0841F5F44DA3F2D8FE9E087E3E95F64.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.31-00.15.11:206][224]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.035
+[2022.08.31-00.15.11:247][225]AssetCheck: New page: Asset Save: LVL_GravitySpace
+[2022.08.31-00.15.11:247][225]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.31-00.15.26:779][422]LogTurnkeySupport: Display: Adding device menu item for WORKSATION
+[2022.08.31-00.15.41:188][ 87]SourceControl: fatal: /Script: '/Script' is outside repository at 'F:/Git/GravitySpace'
+[2022.08.31-00.15.42:856][218]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.31-00.15.42:872][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.31-00.16.09:193][495]LogSlate: Took 0.000708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.31-00.16.09:210][495]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.31-00.16.13:665][826]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.31-00.16.13:674][826]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.31-00.16.17:405][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DodgeableObstacle.BP_DodgeableObstacle
+[2022.08.31-00.16.17:406][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.16.18:949][123]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.31-00.16.19:175][123]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.31-00.16.27:569][511]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_DodgeableObstacle'
+[2022.08.31-00.16.27:569][511]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_DodgeableObstacle.BP_DodgeableObstacle'
+[2022.08.31-00.16.42:837][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner
+[2022.08.31-00.16.42:838][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.16.43:264][464]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.31-00.17.27:120][667]LogEditorTransaction: Undo Paste clipboard contents
+[2022.08.31-00.17.27:365][668]LogViewport: Scene viewport resized to 1022x367, mode Windowed.
+[2022.08.31-00.17.28:137][708]LogEditorTransaction: Undo Create Pin Link
+[2022.08.31-00.17.29:036][771]LogEditorTransaction: Undo Move Nodes
+[2022.08.31-00.17.29:663][812]LogEditorTransaction: Undo Paste clipboard contents
+[2022.08.31-00.17.36:141][379]LogEditorTransaction: Undo Move Node
+[2022.08.31-00.17.39:162][555]BlueprintLog: New page: Compile BP_ElementsSpawner
+[2022.08.31-00.17.39:234][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.31-00.18.03:334][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DestructibleObstacle.BP_DestructibleObstacle
+[2022.08.31-00.18.03:335][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.18.03:753][203]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.31-00.18.10:461][551]LogBlueprint: Warning: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_DestructibleObstacle.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2022.08.31-00.18.49:133][950]BlueprintLog: New page: Compile BP_DestructibleObstacle
+[2022.08.31-00.18.49:213][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.31-00.18.53:347][229]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.31-00.18.53:403][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.31-00.18.55:095][229]LogSlate: Window 'Save Content' being destroyed
+[2022.08.31-00.18.55:394][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DestructibleObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DestructibleObstacle.uasset" SILENT=true
+[2022.08.31-00.18.55:423][229]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DestructibleObstacle
+[2022.08.31-00.18.55:424][229]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DestructibleObstacleDDD081684DFF6BEC033AF297DCF19FA8.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DestructibleObstacle.uasset'
+[2022.08.31-00.18.55:439][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgeableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgeableObstacle.uasset" SILENT=true
+[2022.08.31-00.18.55:454][229]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgeableObstacle
+[2022.08.31-00.18.55:455][229]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgeableObstacle2AFD45EC4C043648CC928AAD7935DF69.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgeableObstacle.uasset'
+[2022.08.31-00.18.55:458][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ElementsSpawner" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset" SILENT=true
+[2022.08.31-00.18.55:470][229]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ElementsSpawner
+[2022.08.31-00.18.55:471][229]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_ElementsSpawnerB79FA4AB468E80AE82AB749E7EFFE91E.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_ElementsSpawner.uasset'
+[2022.08.31-00.18.55:474][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_GravitySpace" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.31-00.18.55:521][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.31-00.18.55:530][229]LogSavePackage: Moving output files for package: /Game/Maps/LVL_GravitySpace
+[2022.08.31-00.18.55:531][229]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/LVL_GravitySpace7A03311845E34D3AE8D6999683A8951F.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Maps/LVL_GravitySpace.umap'
+[2022.08.31-00.18.55:547][229]LogFileHelpers: Saving map 'LVL_GravitySpace' took 0.074
+[2022.08.31-00.18.55:582][230]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.31-00.18.55:582][230]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DestructibleObstacle.BP_DestructibleObstacle
+[2022.08.31-00.18.55:582][230]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgeableObstacle.BP_DodgeableObstacle
+[2022.08.31-00.18.55:582][230]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ElementsSpawner.BP_ElementsSpawner
+[2022.08.31-00.18.55:582][230]LogContentValidation: Display: Validating World /Game/Maps/LVL_GravitySpace.LVL_GravitySpace
+[2022.08.31-00.21.42:956][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemyTower.BP_EnemyTower
+[2022.08.31-00.21.42:956][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.21.43:383][579]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.31-00.21.54:932][174]LogBlueprint: Warning: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_EnemyTower.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2022.08.31-00.22.44:916][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemySpaceship.BP_EnemySpaceship
+[2022.08.31-00.22.44:916][257]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.22.45:334][257]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.31-00.23.01:536][154]BlueprintLog: New page: Compile BP_EnemySpaceship
+[2022.08.31-00.23.01:639][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.08.31-00.23.04:276][296]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.31-00.23.04:349][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.31-00.23.06:079][296]LogSlate: Window 'Save Content' being destroyed
+[2022.08.31-00.23.06:091][296]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2022.08.31-00.23.06:091][296]PIE: Warning: PIE failed because map save was canceled
+[2022.08.31-00.23.08:533][431]LogSlate: Window 'Message Log' being destroyed
+[2022.08.31-00.23.08:543][431]LogSlate: Window 'Message Log' being destroyed
+[2022.08.31-00.23.10:830][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemyBullet.BP_EnemyBullet
+[2022.08.31-00.23.10:830][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-00.23.11:258][554]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.08.31-00.23.24:892][307]LogBlueprint: Warning: [AssetLog] F:\Git\GravitySpace\Game\Unreal Project\GravitySpace\Content\Blueprints\BP_EnemyBullet.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2022.08.31-00.23.57:011][419]BlueprintLog: New page: Compile BP_EnemyBullet
+[2022.08.31-00.23.57:137][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.31-00.24.03:851][855]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.08.31-00.24.03:932][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.08.31-00.24.05:883][855]LogSlate: Window 'Save Content' being destroyed
+[2022.08.31-00.24.06:134][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DestructibleObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DestructibleObstacle.uasset" SILENT=true
+[2022.08.31-00.24.06:153][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DestructibleObstacle
+[2022.08.31-00.24.06:154][855]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DestructibleObstacle7471659B4FDC42ED85EC7DA565B282B6.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DestructibleObstacle.uasset'
+[2022.08.31-00.24.06:171][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DodgeableObstacle" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgeableObstacle.uasset" SILENT=true
+[2022.08.31-00.24.06:187][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DodgeableObstacle
+[2022.08.31-00.24.06:188][855]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_DodgeableObstacleFCB86E3F42156723036996B547D7DE64.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_DodgeableObstacle.uasset'
+[2022.08.31-00.24.06:190][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyBullet" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyBullet.uasset" SILENT=true
+[2022.08.31-00.24.06:206][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyBullet
+[2022.08.31-00.24.06:207][855]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_EnemyBulletA9F7F46F4D4431DFAEB9A49560849238.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyBullet.uasset'
+[2022.08.31-00.24.06:223][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemySpaceship" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemySpaceship.uasset" SILENT=true
+[2022.08.31-00.24.06:242][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpaceship
+[2022.08.31-00.24.06:243][855]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_EnemySpaceship8318F22F48D3109CBD067791F3EE0824.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemySpaceship.uasset'
+[2022.08.31-00.24.06:258][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyTower" FILE="F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyTower.uasset" SILENT=true
+[2022.08.31-00.24.06:285][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyTower
+[2022.08.31-00.24.06:287][855]LogSavePackage: Moving 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Saved/BP_EnemyTowerAF9EA99C49933D06330FDA83CD0BFAF2.tmp' to 'F:/Git/GravitySpace/Game/Unreal Project/GravitySpace/Content/Blueprints/BP_EnemyTower.uasset'
+[2022.08.31-00.24.06:324][856]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.31-00.24.06:324][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DestructibleObstacle.BP_DestructibleObstacle
+[2022.08.31-00.24.06:324][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DodgeableObstacle.BP_DodgeableObstacle
+[2022.08.31-00.24.06:324][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EnemyBullet.BP_EnemyBullet
+[2022.08.31-00.24.06:324][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EnemySpaceship.BP_EnemySpaceship
+[2022.08.31-00.24.06:325][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EnemyTower.BP_EnemyTower
+[2022.08.31-00.25.09:281][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
